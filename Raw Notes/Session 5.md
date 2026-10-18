@@ -1,4 +1,4 @@
-The remaining party split up with Dick going to the courthouse to attempt to see Lilith and talk to anyone he can in the hopes of solving this situation. The rest of the group went to Cassalanter Villa looking for evidence and/or secret entrances.
+The remaining party split up with Dick going to the courthouse to attempt to see Lilith and talk to anyone he can in the hopes of solving this situation. The rest of the group went to Cassalanter Villa looking for evidence and/or secret entrances. Before splitting the party, Dick handed Cordan his Ring of Spell Storing (Revivify and 2 castings of Find Familiar).
 
 **Villa**
 The group took some time to look around from the outside. Cordan rolled a 32 on Perception and found there are more guards, including 4 guards instead of 2 at the main entrance. There is also a second entrance/exit from the barn to the street that could be used to quickly take a carriage. We saw a guard enter the barn. There is at least 2 guards at each entrance. There is a door from the street that goes straight into the manor.
@@ -38,9 +38,7 @@ Female: "In the southern ward, they hold their own ceremonies there."
 Male tiefling: "Alright, come with me. We'll get you cleaned up. We'll get you vengeance. The Cassalanters will take care of them." as he pulls her away from the dead male.
 
 After they leave, I took a closer look at the dead body and also discovered a second one further in. They both have red robes underneath their cloaks. They both appear to have died from dagger wounds and possible necromancy spell(s). There was nothing else of note in the mausoleum.
-
 The group outside saw the tiefling leave with the female human.
-
 After relaying the details from inside, Joe knows of the windmill in question. It's an abandoned windmill that has been taken over by squatters the city guard occasionally flushes out. The group hired a carriage to get there as fast as possible (overpaying by a large margin to get quicker travel). Mr. T sent a Paper Bird to Dick with a brief update and the next destination.
 
 **Courthouse**
@@ -51,6 +49,11 @@ He also explains that Lilith is his ward and as such the Cassalanters assaulting
 **Windmill**
 The windmill has been here since before the city rose up around it. It's in a broken down area of the city.
 Dick and Lilith arrived before anyone else arrived including the tiefling and human. He used Message repeatedly to inform Cordan that they are there and in hiding. Once Cordan responds, they step out of the alley and meet up with the group to get the stories from both sides.
-
 After entering the ground floor quietly, Joe told the squatters on the bottom floor that the guards were coming and they left. The party then made their way upstairs and while preparing to enter the southern room (where Dick can see a magical object with Detect Magic) Cordan saw the Cassalanter carriage approaching from the north and warned the group. Joe opened the southern door and combat started. At the beginning of the combat, those that could see into the room saw a small imp-like creature knock on the window to the other side of the cultists in the room. Combat ensued.
-One of the cultists was knocked out and the other surrendered. Dick took the stone from him and tied him up. The devils fled but Cordan caught all 3 with Entangle as they flew over a roof and then Fey Stepped to a nearby roof. Twizzle joined Cordan on the roof with her own Misty Step then started attacking them with Eldritch Blast. Lilith jumped to the roof as well. Joe and Mr T each picked up a cultist and jumped to the ground floor.
+One of the cultists was knocked out and the other surrendered. Dick took the stone from him and tied him up. The devils fled but Cordan caught all 3 with Entangle as they flew over a roof and then Fey Stepped to a nearby roof. Twizzle joined Cordan on the roof with her own Misty Step then started attacking them with Eldritch Blast. Lilith jumped to the roof as well. Joe and Mr T each picked up a cultist and jumped to the ground floor. Dick also jumped out the window. While everyone worked on getting out of the windmill, Cordan, Twizzle, and Mr T killed the 3 spined devils that were trapped. As the group went east to get away from the windmill, Cordan and Lilith both picked up a devil corpse. One was left behind for investigators to find.
+
+
+On the trip back to the manor, Cordan and Dick came up with a plan for questioning the cultists. Cordan cast Find Familiar, letting the Fey spirit that was summoned choose the form. It ended up being a `_______`. He then gave the ring back to Dick who attuned to it and cast his own Find Familiar to get an owl. Cordan then cast Charm Person into the ring twice.
+
+At the manor, Dick asked Cordan if he should Identify the stone he took from the cultist but Cordan cautioned him against touching it without knowing if it was trapped in some way. In the morning, Cordan can take Find Traps and determine if there will be any unwanted effect from touching the stone before Dick uses Identify.
+
