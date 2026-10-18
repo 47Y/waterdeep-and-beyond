@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recaps/Session 4 Recap.md",
+                "file": "Raw Notes/Session 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4 Recap"
+              "title": "Session 5"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "1f26164bc3071ac1",
   "lastOpenFiles": [
+    "Recaps/Session 4 Recap.md",
+    "Raw Notes/Session 5.md",
     "00 Meta/Codex Note Steward.md",
     "Recaps/Session 1 Recap.md",
-    "Recaps/Session 4 Recap.md",
     "Recaps/Session 2 Recap.md",
     "Recaps/Session 3 Recap.md",
     "Recaps/Recaps.md",
@@ -224,7 +225,6 @@
     "Items/Necklace of Fireballs.md",
     "Items/Horseshoes of Speed.md",
     "Items/Fey Branch.md",
-    "Items/Dick's Magical Jacket.md",
     "Events",
     "Quests",
     "Sessions",

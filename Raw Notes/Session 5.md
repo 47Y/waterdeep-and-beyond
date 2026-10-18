@@ -1,0 +1,4 @@
+The remaining party split up with Dick going to the courthouse to attempt to see Lilith and talk to anyone he can in the hopes of solving this situation. The rest of the group went to Cassalanter Villa looking for evidence and/or secret entrances.
+
+**Villa**
+The group took some time to look around from the outside. Cordan rolled a 32 on Perception and found there are more guards, including 4 guards instead of 2 at the main entrance. There is also a second entrance/exit from the barn to the street that could be used to quickly take a carriage. We saw a guard enter the barn. There is at least 2 guards at each entrance. There is a door from the street that goes straight into the manor.
