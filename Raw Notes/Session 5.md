@@ -50,4 +50,5 @@ He also explains that Lilith is his ward and as such the Cassalanters assaulting
 
 **Windmill**
 The windmill has been here since before the city rose up around it. It's in a broken down area of the city.
-Dick and Lilith arrived before anyone else arrived including the tiefling and human. He used Message repeatedly to inform Cordan that they are there and in hiding. Once Cordan responds, they step out of the alley and meet up with the group to get the stories
+Dick and Lilith arrived before anyone else arrived including the tiefling and human. He used Message repeatedly to inform Cordan that they are there and in hiding. Once Cordan responds, they step out of the alley and meet up with the group to get the stories from both sides.
+Dick used his ritually cast Detect Magic
