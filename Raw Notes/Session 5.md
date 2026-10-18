@@ -20,8 +20,9 @@ The hearing is set for "2 hours from now".
 He asked for the evidence they currently have.
 - There is physical evidence (a stone)
 - It is mostly testimony from the nobles
-The Paper Bird arrived and Dick replied with his own bird explaining the charges and who it involved.
+The Paper Bird arrived and Dick replied with his own bird explaining the charges and who it involved. He also told us when the trial is but told us to keep investigating.
 Dick's plan is to get the charges dropped to only Trespassing since Lilith never attacked either noble or lord and was not attempting to steal anything. He thinks disturbing the peace is a dumb charge since it should only be a charge when things happen in public.
+He asked to see the lead investigator and was told to wait.
 
 **Villa Group**
 The carriage we followed took us to the noble mausoleums in the City of the Dead (graveyard). We saw a tiefling (different from the servant that let Lilith into the villa the previous day) step out of the carriage and walk boldly into one of the mausoleums. We paid the carriage driver and stepped out around a nearby corner, Cordan casting Pass without Trace as we do. We approach the mausoleum and see the name Cassalanter engraved above the entrance.
@@ -39,3 +40,9 @@ Male tiefling: "Alright, come with me. We'll get you cleaned up. We'll get you v
 After they leave, I took a closer look at the dead body and also discovered a second one further in. They both have red robes underneath their cloaks. They both appear to have died from dagger wounds and possible necromancy spell(s). There was nothing else of note in the mausoleum.
 
 The group outside saw the tiefling leave with the female human.
+
+After relaying the details from inside, Joe knows of the windmill in question. It's an abandoned windmill that has been taken over by squatters the city guard occasionally flushes out. The group hired a carriage to get there as fast as possible (overpaying by a large margin to get quicker travel)
+
+**Courthouse**
+Dick explained to the investigator that the charges need to be dropped to trespassing since there is no evidence for any of the other charges. After some back and forth, the investigator said "the words of a noble are always taken over the word of a nobody" and Dick immediately dropped the disguise saying "is that so?"
+Dick told her they can drop the charges down to trespassing and he will sue the Cassalanters for damages after he wins the trespassing case. "Or we can drop this farce and go have a meeting with the Open Lord." Dick explains that the Open Lord is against corruption
