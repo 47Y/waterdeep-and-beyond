@@ -41,8 +41,12 @@ After they leave, I took a closer look at the dead body and also discovered a se
 
 The group outside saw the tiefling leave with the female human.
 
-After relaying the details from inside, Joe knows of the windmill in question. It's an abandoned windmill that has been taken over by squatters the city guard occasionally flushes out. The group hired a carriage to get there as fast as possible (overpaying by a large margin to get quicker travel)
+After relaying the details from inside, Joe knows of the windmill in question. It's an abandoned windmill that has been taken over by squatters the city guard occasionally flushes out. The group hired a carriage to get there as fast as possible (overpaying by a large margin to get quicker travel). Mr. T sent a Paper Bird to Dick with a brief update and the next destination.
 
 **Courthouse**
 Dick explained to the investigator that the charges need to be dropped to trespassing since there is no evidence for any of the other charges. After some back and forth, the investigator said "the words of a noble are always taken over the word of a nobody" and Dick immediately dropped the disguise saying "is that so?"
-Dick told her they can drop the charges down to trespassing and he will sue the Cassalanters for damages after he wins the trespassing case. "Or we can drop this farce and go have a meeting with the Open Lord." Dick explains that the Open Lord is against corruption
+Dick told her they can drop the charges down to trespassing and he will sue the Cassalanters for damages after he wins the trespassing case. "Or we can drop this farce and go have a meeting with the Open Lord." Dick explains that the Open Lord is against corruption and it is obvious there is corruption going on here.
+He also explains that Lilith is his ward and as such the Cassalanters assaulting her is the same as assaulting him which is a punishment of death. He convinced them to drop charges for both sides and walked out with Lilith in tow. The two of them made their way to the windmill to meet up with the group. Lilith is back to full health after short resting but has not had a long rest.
+
+**Windmill**
+The windmill has been here since before the city rose up around it. It's in a broken down area of the city.
