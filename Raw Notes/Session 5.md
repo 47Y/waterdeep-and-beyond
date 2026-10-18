@@ -21,4 +21,7 @@ He asked for the evidence they currently have.
 - There is physical evidence (a stone)
 - It is mostly testimony from the nobles
 The Paper Bird arrived and Dick replied with his own bird explaining the charges and who it involved.
-Dick's plan is to get the charges drop[p]
+Dick's plan is to get the charges dropped to only Trespassing since Lilith never attacked either noble or lord and was not attempting to steal anything. He thinks disturbing the peace is a dumb charge since it should only be a charge when things happen in public.
+
+**Villa Group**
+The carriage we followed took us to the noble mausoleums in the City of the Dead (graveyard). We saw a tiefling (different from the servant that let Lilith into the villa the previous day) step out of the carriage and walk boldly into one of the mausoleums. We paid the carriage driver and stepped out around a nearby corner, Cordan casting Pass without Trace as we do. We approach the mausoleum and see the name Cassalanter engraved above the entrance.
