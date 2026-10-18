@@ -29,7 +29,7 @@ The carriage we followed took us to the noble mausoleums in the City of the Dead
 The party set up nearby to keep an eye out while Cordan turned into a spider to enter the mausoleum. He entered through the closed doors to follow the tiefling. Inside there are sarcophagi and a set of stairs going down where he hears voices coming from.
 There is a female and a male voice. 
 Male: "What happened? Where's the stone?"
-Female human: "The other two took it to the windmill. Where is Holliver?" with a pained expression
+Female human: "The other two took it to the windmill. Where is Holiver?" with a pained expression
 Male: "I don't know who that is"
 Female: *cry*
 The female human is over a dead male human.
@@ -53,7 +53,18 @@ After entering the ground floor quietly, Joe told the squatters on the bottom fl
 One of the cultists was knocked out and the other surrendered. Dick took the stone from him and tied him up. The devils fled but Cordan caught all 3 with Entangle as they flew over a roof and then Fey Stepped to a nearby roof. Twizzle joined Cordan on the roof with her own Misty Step then started attacking them with Eldritch Blast. Lilith jumped to the roof as well. Joe and Mr T each picked up a cultist and jumped to the ground floor. Dick also jumped out the window. While everyone worked on getting out of the windmill, Cordan, Twizzle, and Mr T killed the 3 spined devils that were trapped. As the group went east to get away from the windmill, Cordan and Lilith both picked up a devil corpse. One was left behind for investigators to find.
 
 
-On the trip back to the manor, Cordan and Dick came up with a plan for questioning the cultists. Cordan cast Find Familiar, letting the Fey spirit that was summoned choose the form. It ended up being a `_______`. He then gave the ring back to Dick who attuned to it and cast his own Find Familiar to get an owl. Cordan then cast Charm Person into the ring twice.
+On the trip back to the manor, Cordan and Dick came up with a plan for questioning the cultists. Cordan cast Find Familiar, letting the Fey spirit that was summoned choose the form. It ended up being a spider. He then gave the ring back to Dick who attuned to it and cast his own Find Familiar, attempting to do the same thing Cordan did and ended up with the same result. Cordan then cast Charm Person into the ring twice.
 
 At the manor, Dick asked Cordan if he should Identify the stone he took from the cultist but Cordan cautioned him against touching it without knowing if it was trapped in some way. In the morning, Cordan can take Find Traps and determine if there will be any unwanted effect from touching the stone before Dick uses Identify.
 
+Dick took the conscious one into his office (blindfolded )
+
+**You're in a safe space in one of our new hideouts. What happened?**
+Where's Seffia?
+**She is the one that was with you, correct?**
+Yes
+**I have her with the healers. She was completely beaten and bloodied but she'll live. What happened?**
+We took the stone like we were supposed to. We killed the three others in the mausoleum. Then we were attacked in the windmill.
+**Who were the 3 others you had to kill in the mausoleum?**
+Vaelle, Holiver, and Kaeth
+**Tell me about them.**
