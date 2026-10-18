@@ -25,3 +25,17 @@ Dick's plan is to get the charges dropped to only Trespassing since Lilith never
 
 **Villa Group**
 The carriage we followed took us to the noble mausoleums in the City of the Dead (graveyard). We saw a tiefling (different from the servant that let Lilith into the villa the previous day) step out of the carriage and walk boldly into one of the mausoleums. We paid the carriage driver and stepped out around a nearby corner, Cordan casting Pass without Trace as we do. We approach the mausoleum and see the name Cassalanter engraved above the entrance.
+The party set up nearby to keep an eye out while Cordan turned into a spider to enter the mausoleum. He entered through the closed doors to follow the tiefling. Inside there are sarcophagi and a set of stairs going down where he hears voices coming from.
+There is a female and a male voice. 
+Male: "What happened? Where's the stone?"
+Female human: "The other two took it to the windmill. Where is Holliver?" with a pained expression
+Male: "I don't know who that is"
+Female: *cry*
+The female human is over a dead male human.
+Male tiefling: "I need you to focus; what windmill?"
+Female: "In the southern ward, they hold their own ceremonies there."
+Male tiefling: "Alright, come with me. We'll get you cleaned up. We'll get you vengeance. The Cassalanters will take care of them." as he pulls her away from the dead male.
+
+After they leave, I took a closer look at the dead body and also discovered a second one further in. They both have red robes underneath their cloaks. They both appear to have died from dagger wounds and possible necromancy spell(s). There was nothing else of note in the mausoleum.
+
+The group outside saw the tiefling leave with the female human.
