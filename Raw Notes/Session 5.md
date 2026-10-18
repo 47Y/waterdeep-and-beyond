@@ -51,4 +51,5 @@ He also explains that Lilith is his ward and as such the Cassalanters assaulting
 **Windmill**
 The windmill has been here since before the city rose up around it. It's in a broken down area of the city.
 Dick and Lilith arrived before anyone else arrived including the tiefling and human. He used Message repeatedly to inform Cordan that they are there and in hiding. Once Cordan responds, they step out of the alley and meet up with the group to get the stories from both sides.
-Dick used his ritually cast Detect Magic
+
+After entering the ground floor quietly, Joe told the squatters on the bottom floor that the guards were coming and they left. The party then made their way upstairs and while preparing to enter the southern room (where Dick can see a magical object with Detect Magic) Cordan saw the Cassalanter carriage approaching from the north and warned the group. Joe opened the southern door and combat started. At the beginning of the combat, those that could see into the room saw a small imp-like creature knock on the window to the other side of the cultists in the room. Combat ensued.
