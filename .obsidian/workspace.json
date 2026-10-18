@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recaps/Session 1 Recap.md",
+                "file": "00 Meta/Codex Note Steward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 Recap"
+              "title": "Codex Note Steward"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +199,10 @@
   },
   "active": "1f26164bc3071ac1",
   "lastOpenFiles": [
+    "Recaps/Session 1 Recap.md",
     "Recaps/Session 4 Recap.md",
     "Recaps/Session 2 Recap.md",
     "Recaps/Session 3 Recap.md",
-    "Recaps/Session 1 Recap.md",
     "Recaps/Recaps.md",
     "Lore/Waterdeep Guilds and Business.md",
     "Lore/Code Legal.md",
