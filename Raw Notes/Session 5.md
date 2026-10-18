@@ -2,3 +2,5 @@ The remaining party split up with Dick going to the courthouse to attempt to see
 
 **Villa**
 The group took some time to look around from the outside. Cordan rolled a 32 on Perception and found there are more guards, including 4 guards instead of 2 at the main entrance. There is also a second entrance/exit from the barn to the street that could be used to quickly take a carriage. We saw a guard enter the barn. There is at least 2 guards at each entrance. There is a door from the street that goes straight into the manor.
+We are quite certain there are no other entrances or exits on the property, secret or otherwise.
+While debating if we should go to the courthouse or stick around, we saw a carriage with the Cassalanter
