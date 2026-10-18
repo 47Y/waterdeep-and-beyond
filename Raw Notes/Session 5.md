@@ -3,7 +3,8 @@ The remaining party split up with Dick going to the courthouse to attempt to see
 **Villa**
 The group took some time to look around from the outside. Cordan rolled a 32 on Perception and found there are more guards, including 4 guards instead of 2 at the main entrance. There is also a second entrance/exit from the barn to the street that could be used to quickly take a carriage. We saw a guard enter the barn. There is at least 2 guards at each entrance. There is a door from the street that goes straight into the manor.
 We are quite certain there are no other entrances or exits on the property, secret or otherwise.
-While debating if we should go to the courthouse or stick around, we saw a carriage with the Cassalanter
+While debating if we should go to the courthouse or stick around, we saw a carriage with the Cassalanter symbology leave the villa and decided to follow in our own carriage we hired.
+Twizzle sent a Paper Bird to Dick with the information we found.
 
 
 **Court**
@@ -15,3 +16,9 @@ Lilith gave Dick a recap of what happened from the point she approached the gate
 - Disturbing the peace
 - Assaulting a lord (Lord Cassalanter)
 Dick requested sketches of both individuals to check if they were the ones who carried Lilith out of the villa.
+The hearing is set for "2 hours from now".
+He asked for the evidence they currently have.
+- There is physical evidence (a stone)
+- It is mostly testimony from the nobles
+The Paper Bird arrived and Dick replied with his own bird explaining the charges and who it involved.
+Dick's plan is to get the charges drop[p]
