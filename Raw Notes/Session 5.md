@@ -57,7 +57,7 @@ On the trip back to the manor, Cordan and Dick came up with a plan for questioni
 
 At the manor, Dick asked Cordan if he should Identify the stone he took from the cultist but Cordan cautioned him against touching it without knowing if it was trapped in some way. In the morning, Cordan can take Find Traps and determine if there will be any unwanted effect from touching the stone before Dick uses Identify.
 
-Dick took the conscious one into his office (blindfolded )
+Dick took the conscious one into his office (blindfolded while on the way to the manor)
 
 **You're in a safe space in one of our new hideouts. What happened?**
 Where's Seffia?
@@ -68,3 +68,73 @@ We took the stone like we were supposed to. We killed the three others in the ma
 **Who were the 3 others you had to kill in the mausoleum?**
 Vaelle, Holiver, and Kaeth
 **Tell me about them.**
+I don't know much about them. They're low ranking members.
+**Why did you kill them?**
+Lord Cassalanter told us to.
+**Do you know why?**
+Security measure. He didn't trust them.
+**That's fair. Do you know what those demons were that showed up?**
+The Spined Devils? They work for Lord Cassalanter.
+**Oh man, I never saw those before.**
+He has the ability to summon some nasty things.
+**Oh man, I don't want to get on his bad side.**
+You should know that.
+**I'm kinda newer. I just happened to have a title he liked. Do you know about that stone that he wanted?**
+It's important to Lord Cassalanter.
+**Are you just working out of the Cassalanter estate now?**
+Well that's where we meet but... We work out of wherever we work out of. The windmill was where we were working out of.
+**What's your name?**
+Arn Xalrondar
+**And what's Seffia's last name?**
+Naelryke
+**You know Lord Cassalanter's going to have your head, right?**
+Not if we get the stone back.
+**Who got it?**
+I can't remember.
+**You knew them?**
+No, I just can't remember what they look like.
+**What do you mean?**
+What do you mean, I just can't remember what they look like? I just don't remember what they looked like
+**How are you supposed to get the stone back if you can't even remember what they look like?**
+Go back to the windmill and retrace our steps.
+**That's where I picked you up from, you were a blubbering fool. There's nothing there.**
+I don't know...
+**Where were you meant to take the stone?**
+We were meant to take the stone to Lord Cassalanter.
+**Where; at his estate?**
+Yes. Why did we take it to the windmill?
+**Why did you take it to the windmill?**
+*(Holding his head)* I can't remember
+
+
+
+**Seffia, you're okay. Arn is okay.**
+*All the same questions get asked, checking for differences. The only difference is that she knows more about why he wants the stone*
+
+I heard a rumor but you have to swear you won't tell anyone.
+**I won't tell anyone *(my fingers are crossed behind my back)***
+Do you remember a few years ago when the oldest Cassalanter child disappeared?
+**The kidnapped child?**
+Yes.
+**I remember hearing about it**
+Well I've heard that the other two are in danger as well.
+**How? Why?**
+Well you should know.
+**I'm new to this whole operation... I'm sorry.**
+Well, making a deal with Asmodeus is dangerous.
+**Did the children also make a deal or Asmodeus is collecting and using the children as payment?**
+I don't know, that's all I've heard.
+**Do you know who took the stone?**
+*After a moment of thought* Wait you have it!
+**No?**
+You took it.
+**No... It may have been someone wearing my face. Who do you think I am?**
+You're....
+**Did you recognize any of the other people?**
+No. We're going to get sacrificed aren't we?
+**There's another choice**
+Oh?
+**Turn yourselves in. You and Arn turn yourselves in and I pretend I never found you**
+That really the best choice I have?
+**I know what I would do. Can I talk to Arn?**
+Yeah, give me a moment.
