@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/Codex Note Steward.md",
+                "file": "Recaps/Session 4 Recap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codex Note Steward"
+              "title": "Session 4 Recap"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "1f26164bc3071ac1",
   "lastOpenFiles": [
+    "00 Meta/Codex Note Steward.md",
     "Recaps/Session 1 Recap.md",
     "Recaps/Session 4 Recap.md",
     "Recaps/Session 2 Recap.md",
@@ -224,7 +225,6 @@
     "Items/Horseshoes of Speed.md",
     "Items/Fey Branch.md",
     "Items/Dick's Magical Jacket.md",
-    "Items/Demonology - Incubi and Succubi.md",
     "Events",
     "Quests",
     "Sessions",
