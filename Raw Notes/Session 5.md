@@ -232,4 +232,13 @@ On the southern side of the room there was a secret door. Joe and Lilith opened 
 
 For the initial sweep we took everything but the urns and the copper.
 
-Joe crossed the northern bridge, with it crumbling beneath him as he finished crossing leaving a 15-foot gap in the bridge. Before crossing, the group tied a rope to him in case he fell but it was not needed. After crossing, he tied the rope to the handle of the door to let others cross more easily. He tried to open the door and found it to be locked. Cordan followed to look at the lock but discovered it was an Arcane Lock. Dick crossed next and used Disguise Self to imitate the look of a Dwarf. The door opened as he approached. Inside was a fresco depicting dwarf smit
+Joe crossed the northern bridge, with it crumbling beneath him as he finished crossing leaving a 15-foot gap in the bridge. Before crossing, the group tied a rope to him in case he fell but it was not needed. After crossing, he tied the rope to the handle of the door to let others cross more easily. He tried to open the door and found it to be locked. Cordan followed to look at the lock but discovered it was an Arcane Lock. Dick crossed next and used Disguise Self to imitate the look of a Dwarf. The door opened as he approached. Inside was a fresco depicting dwarf smiths at work in their forges and an anvil in the center. Dick cast Detect Magic and saw one of the hammers in the fresco and the anvil were magical. He took the hammer and struck the anvil with it. Joe, Mr T, Twizzle, and Dick all received 10 temporary hitpoints.
+
+Twizzle then Misty Stepped to the middle door and threw a rope back to the group at the northern door. Dick crossed and the door opened. Cordan crossed and looked around while the rest of the party joined by crossing both ropes. 
+Dwarvish runes are carved into the far wall. The inscription reads, "A secret never before told will part Dumathoin's lips."
+Mr T said, in Dwarvish, "It was me, I was the one who attempted to poison the matron."
+A hidden trapdoor in the middle of the floor opens.
+The group went down the staircase and explored the large room below. One of the rooms is filled with gold and an elderly dwarf comes out.
+"I wasn't expecting anyone," he says plainly. "As you can see, the place is a mess. Perhaps you should come back later, after I've tidied up a bit."
+Dick recognizes him as being shrouded by magic as well as the staff he is carrying being magical. He says "greetings gold dragon". The dragon disguised as a dwarf responds with "how did you see me?"
+After some back and forth, Dick casts Zone of Truth which 
