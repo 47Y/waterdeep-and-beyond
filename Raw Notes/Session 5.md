@@ -154,9 +154,10 @@ Dick brings Arn into the room with Seffia. He asks them to tell him everything s
 
 In the morning, Cordan cast Find Traps and nothing was found. Dick cast Identify and then attuned to it after getting the information. The positive effect he received is he can cast Lightning Bolt from the stone (roll a d6, unusable until the next dawn on 1-5), The detrimental effect is he is blinded if he's more than 10 feet from the stone.
 
-While he was attuning, Cordan and Mr T searched his library for any information on Aboleths but found nothing. They returned 10 minutes before the attunement completed to be there for any immediate effects
+While he was attuning, Cordan and Mr T searched his library for any information on Aboleths but found nothing. They returned 10 minutes before the attunement completed to be there for any immediate effects. He had a conversation with the aboleth via telepathy but relayed the conversation to the group.
 
-Under the tower
+Dick: Where is the vault of dragons?
+Stone: Under the tower
 What do you mean tower?
 Under the old tower
 How do we get into the tower?
@@ -184,4 +185,18 @@ I've seen it once
 Is it in their stables?
 No
 Where's it at?
-In the childresn
+In the childrens' room
+You've been in the estate?
+Once upon a time
+Was it a live unicorn or a toy unicorn?
+It was a toy
+So you're saying a toy unicorn would do?
+Sure, it's a unicorn
+Alright. Stick by me; I have ideas. What kind of things do you like to see?
+Anything. I am hungry for knowledge.
+Well soon if we find this vault... I have a vast library and can tell you about anything that you desire.
+Wonderful
+We're going to be real good friends
+
+
+The group went to the blacksmith near Trollskull Manor and they said they could make one given a bar of silver and have it done by the next day. They said they would do it for free given the materials because we are neighbors. They can do it in 3 hours if it doesn't need to be functional. Dick asked if they knew of a toy store where we could buy a unicorn. They directed us to Old Xoblob Shop
