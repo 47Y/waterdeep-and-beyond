@@ -221,4 +221,4 @@ Created for a noble who wished to make a good impression at a party. Has the unf
 
 We returned to to Steam and Steel to pick up the decorative warhammer. Dick also gave 2 additional bars and requested that a functional hammer be made as well that he can pick up in a few days. He told them to keep the extra.
 
-The group made its way to the old tower. 
+The group made its way to the old tower. We went down the spiral staircase in the center of the tower and found a heavy wooden door with iron banding and a built in lock. Dick could detect magic on the floor on the other side of the door. Mr T checked for traps and found none. Cordan then picked the lock. Joe used a grappling hook on a rope to pull the door open from 10 feet away. Inside is a teleportation circle inscribed on the floor.
