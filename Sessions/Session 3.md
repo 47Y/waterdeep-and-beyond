@@ -86,6 +86,5 @@ The party received a copy of the [[Rooftop Puppet Sketch]]. Its closest resembla
 ## Open Questions
 
 - Who was the burned, cloaked figure who took something from Dalakhar?
-- Where is the Stone now?
 - Why did Bashekk and Wern give different locations for the main Zhentarim hideout?
 - What does the Emerald Enclave know about Gralhund Villa?

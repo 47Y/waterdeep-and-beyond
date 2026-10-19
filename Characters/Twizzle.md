@@ -14,7 +14,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 4 Half-Elf Warlock.
+- Level 5 Half-Elf Warlock.
 - Patron: The Hexblade.
 - Background: Sailor.
 - Rules: D&D 5e 2014.
@@ -69,9 +69,17 @@ tags:
 - Recognized Cordan's drawing as the holy symbol of [[Siamorphe]].
 - Reached level 4.
 
+### Session 5
+
+- Used a Paper Bird to update [[Dick Mixon]] about the surveillance of [[Cassalanter Villa]].
+- Used Misty Step to join [[Cordan]] on a rooftop and helped kill three trapped spined devils.
+- Used Misty Step to reach the middle bridge door in the [[Vault of Dragons]] and secured a rope for the others.
+- Received 20,000 gp as her personal share of the Vault hoard.
+- Reached level 5.
+
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.json]] on 2026-10-03. Updated level 4 mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 20.

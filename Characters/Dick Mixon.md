@@ -14,7 +14,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 4 Variant Human Bard.
+- Level 5 Variant Human Bard.
 - Subclass listed in export: College of Eloquence.
 - Background: Noble.
 - Rules: D&D 5e 2014.
@@ -71,9 +71,25 @@ tags:
 - Proposed approaching the guards or courts to help [[Lilith D Gluv]] while the others sought evidence at [[Cassalanter Villa]].
 - Reached level 4.
 
+### Session 5
+
+- Lent the [[Ring of Spell Storing]] to [[Cordan]] with Revivify and two Find Familiar castings stored in it.
+- Impersonated [[Richard Nixon]] to meet Lilith at the courthouse, then revealed himself while confronting the investigator over noble privilege and apparent corruption.
+- Persuaded the authorities to drop all charges connected to Lilith's infiltration.
+- Recovered the [[Stone of Golorr]] from a cultist at the [[Abandoned Windmill]].
+- Questioned [[Arn Xalrondar]] and [[Seffia Naelryke]], persuading them to surrender to the City Watch.
+- Attuned to the Stone and learned the location and keys of the [[Vault of Dragons]].
+- Privately told the Stone that he intended to become Waterdeep's next Open Lord and proposed a partnership based on shared access to knowledge.
+- Purchased a toy unicorn and several [[Old Xoblob Curios]] for 10 gp.
+- Commissioned decorative and functional [[Silvered Warhammers|silvered warhammers]] from [[Steam and Steel]].
+- Disguised himself as a dwarf to open the Vault's forge room.
+- Used Zone of Truth while negotiating with [[Aurinax]] and persuaded him to release the hoard for return to Waterdeep.
+- Received 20,000 gp as his personal share and helped reserve 120,000 gp for business expenses.
+- Reached level 5.
+
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO6.json]] on 2026-10-03. Updated level 4 mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO6.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 20.
@@ -184,6 +200,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO
 - Soap.
 - 2 Potions of Healing.
 - [[Dick's Magical Jacket]].
+- [[Ring of Spell Storing]].
+- [[Stone of Golorr]].
+- [[Old Xoblob Curios]].
 
 ### Session 2 Downtime Purchases
 

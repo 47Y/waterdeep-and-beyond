@@ -1,9 +1,10 @@
 ---
 type: item
-status: missing
+status: held-by-dick
 source:
   - Raw Notes/Session 3.md
   - Raw Notes/Session 4.md
+  - Raw Notes/Session 5.md
 tags:
   - item
   - artifact
@@ -21,9 +22,28 @@ tags:
 - [[Bashekk Ortallis]] called it an artifact that could make them rich as kings.
 - [[Yalah Gralhund]] claimed it had already been sent to its next owners, the Cassalanters.
 - The party attempted to intercept it at [[Cassalanter Villa]] but did not find it.
+- [[Arn Xalrondar]] and [[Seffia Naelryke]] brought it to the [[Abandoned Windmill]], where [[Dick Mixon]] recovered it.
+
+## Nature
+
+- A sentient transformed aboleth.
+- Communicates telepathically with its attuned bearer.
+- Describes itself as hungry for knowledge.
+
+## Attunement Effects
+
+- The bearer can cast Lightning Bolt from the Stone. After use, roll a d6; on 1-5, it cannot be used again until the next dawn.
+- The bearer is blinded while more than 10 feet from the Stone.
+
+## Knowledge Shared
+
+- The [[Vault of Dragons]] lies beneath the [[Old Tower]].
+- Opening it required three keys: a silvered warhammer, sunlight, and a unicorn.
+- Any silvered warhammer would suffice.
+- A toy unicorn in the [[Cassalanter Children|Cassalanter children's]] room could satisfy the unicorn key.
+- The Stone knew the Vault as "under the old tower."
 
 ## Open Questions
 
-- What does it do?
-- Do the Cassalanters currently possess it?
+- What other knowledge or abilities does the Stone possess?
 

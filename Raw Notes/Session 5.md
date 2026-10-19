@@ -6,7 +6,6 @@ We are quite certain there are no other entrances or exits on the property, secr
 While debating if we should go to the courthouse or stick around, we saw a carriage with the Cassalanter symbology leave the villa and decided to follow in our own carriage we hired.
 Twizzle sent a Paper Bird to Dick with the information we found.
 
-
 **Court**
 Lilith refused to answer questions without a lawyer and has been held in a cell all night.
 Dick used Disguise Self to turn into his attorney friend, Richard Nixon. Richard is an elderly elf. He was let in to a private room with Lilith. Lilith asked if he was her lawyer and Dick replied in his real voice saying "I am" while winking. He then switched to using Richard's voice for the remainder of the conversation.
@@ -230,7 +229,7 @@ There were 3 pillars carved to resemble warhammers, with their square heads pres
 On the southern side of the room there was a secret door. Joe and Lilith opened it and we found a room with treasure inside.
 > **Treasure**. This room holds five copper urns (worth 25 gp each). Urn 1 contains five tourmalines (worth 100 gp each) mixed in with 200 cp. Urn 2 contains a ring of warmth mixed in with ten ordinary gold rings (worth 25 gp each) and 650 sp. Urn 3 is piled high with 250 gp. Urn 4 holds 33 blue quartz gemstones (worth 10 gp each). Urn 5 holds a 9-inch-tall silver statuette of a dwarf priest of Moradin with amethyst eyes (worth 250 gp and weighing 10 pounds).
 
-For the initial sweep we took everything but the urns and the copper.
+For the initial sweep we took everything but the urns and the copper. 
 
 Joe crossed the northern bridge, with it crumbling beneath him as he finished crossing leaving a 15-foot gap in the bridge. Before crossing, the group tied a rope to him in case he fell but it was not needed. After crossing, he tied the rope to the handle of the door to let others cross more easily. He tried to open the door and found it to be locked. Cordan followed to look at the lock but discovered it was an Arcane Lock. Dick crossed next and used Disguise Self to imitate the look of a Dwarf. The door opened as he approached. Inside was a fresco depicting dwarf smiths at work in their forges and an anvil in the center. Dick cast Detect Magic and saw one of the hammers in the fresco and the anvil were magical. He took the hammer and struck the anvil with it. Joe, Mr T, Twizzle, and Dick all received 10 temporary hitpoints.
 
@@ -241,6 +240,8 @@ A hidden trapdoor in the middle of the floor opens.
 The group went down the staircase and explored the large room below. One of the rooms is filled with gold and an elderly dwarf comes out.
 "I wasn't expecting anyone," he says plainly. "As you can see, the place is a mess. Perhaps you should come back later, after I've tidied up a bit."
 Dick recognizes him as being shrouded by magic as well as the staff he is carrying being magical. He says "greetings gold dragon". The dragon disguised as a dwarf responds with "how did you see me?"
-After some back and forth, Dick casts Zone of Truth which he convinces the dragon (Aurinax, an adult gold dragon) to willingly fail the save. Dick questions him while also in the Zone of Truth and learns Aurinax is guarding the gold for Dagult Neverember and the staff he wields is the payment. The staff is the dragonstaff of Ahghairon which (among other things) allows Aurinax to walk freely in the city despite its ward against dragons. Dick convinces him that Neverember embezzled it from the city (which Aurinax suspects) and that he will return it to the city. He also convinced Aurinax to give up 30 of the 65 gemstones (100gp each) as well all of the gold. Over the course of several hours the gold is all transferred to a vault under Dick's manor.
+After some back and forth, Dick casts Zone of Truth which he convinces the dragon (Aurinax, an adult gold dragon) to willingly fail the save. Dick questions him while also in the Zone of Truth and learns Aurinax is guarding the gold for Dagult Neverember and the staff he wields is the payment. The staff is the dragonstaff of Ahghairon which (among other things) allows Aurinax to walk freely in the city despite its ward against dragons. Dick convinces him that Neverember embezzled it from the city (which Aurinax suspects) and that he will return it to the city. He also convinced Aurinax to give up 30 of the 65 gemstones (100gp each) as well all of the gold. Over the course of several hours the gold is all transferred to a vault under Dick's manor. We also took the urns and copper from the previous secret room.
 
-The group kept 20,000gp each, put 120,000gp aside for business expenses, and returned the remaining 260,000gp to the city.
+The group kept 20,000gp each, put 120,000gp aside for business expenses, and returned the remaining 260,000gp to the city. Dick took the group to the Temple of Waukeen which acts as the bank to deposit their funds.
+
+The session ended with a long rest and a level up to 5 for everyone.

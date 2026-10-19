@@ -14,7 +14,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 4 Variant Human Fighter / Barbarian.
+- Level 5 Variant Human Fighter / Barbarian.
 - Subclasses listed in export: Cavalier and Path of the Ancestral Guardian.
 - Background: City Watch.
 - Rules: D&D 5e 2014.
@@ -81,9 +81,22 @@ tags:
 - Called for help after Lilith was knocked unconscious, prompting [[Cordan]] to heal her.
 - Reached level 4.
 
+### Session 5
+
+- Identified the likely [[Abandoned Windmill]] from Cordan's report about the southern ward.
+- Cleared squatters from the windmill by warning that guards were coming.
+- Opened the cultists' room, beginning the fight in which the party recovered the [[Stone of Golorr]].
+- Helped evacuate the prisoners by carrying a cultist from the upper floor.
+- Used a grappling hook and rope to open the locked door beneath the [[Old Tower]] from a distance.
+- Led the party through parts of the [[Vault of Dragons]] using his ten-foot pole to check for traps.
+- Crossed an unstable bridge that collapsed behind him and secured a rope for the others.
+- Restrained [[Mr. T (Tathlynd)]] after the enchanted fresco enthralled him.
+- Received 20,000 gp as his personal share of the Vault hoard.
+- Reached level 5.
+
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 4 class distribution and mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 5 class distribution and mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 28.

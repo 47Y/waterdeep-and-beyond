@@ -29,6 +29,13 @@ It is also the current base of the [[Party]], which formed at [[The Yawning Port
 - [[Phaulkonmere]]
 - [[Gralhund Villa]]
 - [[Cassalanter Villa]]
+- [[City of the Dead]]
+- [[Cassalanter Mausoleum]]
+- [[Abandoned Windmill]]
+- [[Steam and Steel]]
+- [[Old Tower]]
+- [[Vault of Dragons]]
+- [[Temple of Waukeen]]
 
 ## Cordan's Connection
 

@@ -14,7 +14,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 3 Aasimar Paladin.
+- Level 5 Aasimar Paladin.
 - Subclass listed in export: Oath of Conquest.
 - Background: Haunted One.
 - Rules: D&D 5e 2014.
@@ -63,11 +63,22 @@ tags:
 - Was discovered, attacked, and captured by [[Victoro Cassalanter]], [[Ammalia Cassalanter]], and an unidentified noble.
 - Claimed she had entered because a friend bet that she could not.
 - Was bound, blindfolded, and turned over to the City Watch.
-- Remains level 3 pending a possible between-session level-up.
+
+### Session 5
+
+- Refused questioning without a lawyer after spending the night in a cell.
+- Briefed [[Dick Mixon]] while he impersonated [[Richard Nixon]].
+- Was released after Dick persuaded the authorities to drop all charges.
+- Recovered to full health with a short rest before rejoining the party at the [[Abandoned Windmill]].
+- Helped kill three spined devils and carried one corpse away.
+- Destroyed the enchanted fresco that had enthralled [[Mr. T (Tathlynd)]].
+- Helped open the secret treasure room in the [[Vault of Dragons]].
+- Received 20,000 gp as her personal share of the Vault hoard.
+- Reached level 5.
 
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 3 mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 20.

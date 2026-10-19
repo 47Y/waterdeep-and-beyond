@@ -25,9 +25,8 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 
 ## Current Status
 
-- [[Cordan]], [[Dick Mixon]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] reached level 4 at the end of [[Session 4]].
-- [[Lilith D Gluv]] remains level 3 pending a possible between-session level-up.
-- Lilith is currently in City Watch custody following events at [[Cassalanter Villa]].
+- All six party members reached level 5 at the end of [[Session 5]].
+- [[Lilith D Gluv]] was released after all charges connected to [[Cassalanter Villa]] were dropped.
 - Trollskull Manor is being renovated for use as a tavern.
 - Current negotiated renovation cost: 1,000 gp total as of [[Session 3]].
 
@@ -38,4 +37,11 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 
 ## Current Investigation
 
-The party is investigating the [[Fireball at Trollskull Manor]] and the missing [[Stone of Golorr]]. [[Yalah Gralhund]] claimed the Stone had been sent to the Cassalanters. Beneath [[Cassalanter Villa]], Cordan discovered a hidden ritual chamber associated with [[Asmodeus]] and heard [[Victoro Cassalanter]] declare that [[Founder's Day]] approaches.
+The party recovered the [[Stone of Golorr]], opened the [[Vault of Dragons]], and returned 260,000 gp to Waterdeep. The active threat is the [[Cassalanter Ritual Group]], which kidnaps destitute people for sacrifice and is planning something for [[Founder's Day]].
+
+## Finances
+
+- Each party member received 20,000 gp from the Vault, deposited through the [[Temple of Waukeen]].
+- 120,000 gp is reserved for party business expenses.
+- 260,000 gp was returned to Waterdeep.
+- Thirty gemstones worth 100 gp each and the [[Vault Side-Room Treasure]] were recovered, but their final ownership or storage was not recorded.

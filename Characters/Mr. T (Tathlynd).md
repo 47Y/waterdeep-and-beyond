@@ -14,7 +14,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 4 Drow Ranger.
+- Level 5 Drow Ranger.
 - Subclass listed in export: Gloom Stalker.
 - Background: Haunted One.
 - Rules: D&D 5e 2014.
@@ -72,9 +72,21 @@ tags:
 - Recognized Cordan's drawing as the holy symbol of [[Siamorphe]].
 - Reached level 4.
 
+### Session 5
+
+- Sent [[Dick Mixon]] a Paper Bird with the party's destination after the [[Cassalanter Mausoleum]] investigation.
+- Helped evacuate the prisoners from the [[Abandoned Windmill]] and helped kill the trapped spined devils.
+- Searched Dick's library with [[Cordan]] for information on aboleths but found nothing.
+- Found no traps on the door beneath the [[Old Tower]].
+- Took the first watch while the party rested before opening the [[Vault of Dragons]].
+- Was enthralled by a magical fresco and resisted the party's attempts to pull him away until they destroyed it.
+- Opened a hidden passage by confessing in Dwarvish, "It was me, I was the one who attempted to poison the matron."
+- Received 20,000 gp as his personal share of the Vault hoard.
+- Reached level 5.
+
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json]] on 2026-10-03. Updated level 4 mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 20.

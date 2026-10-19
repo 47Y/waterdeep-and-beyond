@@ -1,7 +1,9 @@
 ---
 type: npc
 status: suspect
-source: Raw Notes/Session 4.md
+source:
+  - Raw Notes/Session 4.md
+  - Raw Notes/Session 5.md
 tags:
   - npc
   - noble
@@ -17,4 +19,5 @@ Ammalia Cassalanter resides at [[Cassalanter Villa]].
 - Attacked and helped capture [[Lilith D Gluv]] after her infiltration was discovered.
 - With [[Victoro Cassalanter]], concealed a dead [[Cassalanter Doppelganger|doppelganger]] in a cell behind a secret door.
 - Put on a red robe and devil mask before joining a ritual in an underground chamber resembling a temple to [[Asmodeus]].
+- Was named among the senior cult figures who ordered the kidnapping of destitute people for sacrifice.
 

@@ -70,12 +70,7 @@ During the long rest, everyone except Lilith reached level 4. Lilith's possible 
 
 ## Open Questions
 
-- Did Lilith reach level 4 between sessions?
-- Where is Lilith being held, and what charges is she facing?
-- Will Dick approach the guards or courts on Lilith's behalf?
-- Will the party return to Cassalanter Villa, and how will they gain access?
 - What is planned for Founder's Day?
 - What was the language used during the ritual?
 - Who was the unidentified noble who fought Lilith?
-- Do the Cassalanters currently possess the Stone of Golorr?
 

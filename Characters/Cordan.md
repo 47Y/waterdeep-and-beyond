@@ -15,7 +15,7 @@ tags:
 ## Summary
 
 - Player character.
-- Level 4 Eladrin Druid.
+- Level 5 Eladrin Druid.
 - Subclass: Circle of Stars.
 - Background: Far Traveler.
 - Rules: D&D 5e 2014.
@@ -91,9 +91,24 @@ tags:
 - Used Eladrin Trance to gain temporary proficiency with cartographer's tools and completed a [[Cordan's Map of Cassalanter Villa|map of the explored rooms]] the following morning.
 - Reached level 4.
 
+### Session 5
+
+- Surveyed [[Cassalanter Villa]] and helped establish its visible entrances and increased guard presence.
+- Cast Pass without Trace and entered the [[Cassalanter Mausoleum]] as a spider, discovering the windmill lead and two murdered cultists.
+- Cast Entangle to trap three fleeing spined devils and helped kill them.
+- Carried one devil corpse away from the [[Abandoned Windmill]].
+- Summoned a Fey familiar that chose the form of a spider through the [[Ring of Spell Storing]].
+- Stored two castings of Charm Person in the ring.
+- Cast Find Traps on the [[Stone of Golorr]] before Dick touched and identified it; no trap was detected.
+- Searched Dick's library with [[Mr. T (Tathlynd)]] for information on aboleths but found nothing.
+- Picked the locked entrance beneath the [[Old Tower]] and found a secret door beyond the teleportation circle.
+- Helped restrain Tathlynd after the Vault fresco enthralled him by covering his head with a shirt.
+- Received 20,000 gp as his personal share of the Vault hoard.
+- Reached level 5.
+
 ## Mechanical Snapshot
 
-Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json]] on 2026-10-03. Updated level 4 mechanics have not yet been provided.
+Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
 
 - Level: 2.
 - Hit points: 21.
