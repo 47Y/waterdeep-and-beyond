@@ -231,3 +231,5 @@ On the southern side of the room there was a secret door. Joe and Lilith opened 
 > **Treasure**. This room holds five copper urns (worth 25 gp each). Urn 1 contains five tourmalines (worth 100 gp each) mixed in with 200 cp. Urn 2 contains a ring of warmth mixed in with ten ordinary gold rings (worth 25 gp each) and 650 sp. Urn 3 is piled high with 250 gp. Urn 4 holds 33 blue quartz gemstones (worth 10 gp each). Urn 5 holds a 9-inch-tall silver statuette of a dwarf priest of Moradin with amethyst eyes (worth 250 gp and weighing 10 pounds).
 
 For the initial sweep we took everything but the urns and the copper.
+
+Joe crossed the northern bridge, with it crumbling beneath him as he finished crossing leaving a 15-foot gap in the bridge. Before crossing, the group tied a rope to him in case he fell but it was not needed. After crossing, he tied the rope to the handle of the door to let others cross more easily. He tried to open the door and found it to be locked. Cordan followed to look at the lock but discovered it was an Arcane Lock. Dick crossed next and used Disguise Self to imitate the look of a Dwarf. The door opened as he approached.
