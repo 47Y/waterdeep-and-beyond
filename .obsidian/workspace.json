@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7be9adaf0b32079e",
+        "id": "718bcc567e6db0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "1f26164bc3071ac1",
+            "id": "afd2a13ca9e5bf05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recaps/Session 5 Recap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 5 Recap"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f26164bc3071ac1",
+  "active": "afd2a13ca9e5bf05",
   "lastOpenFiles": [
-    "Quests/Open the Vault of Dragons.md",
     "Recaps/Session 5 Recap.md",
+    "Quests/Open the Vault of Dragons.md",
     "Quests/Recover the Stone of Golorr.md",
     "NPCs/Wern Malkrave.md",
     "NPCs/Elyndra Moonbough.md",
