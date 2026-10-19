@@ -106,7 +106,7 @@ Yes. Why did we take it to the windmill?
 **Why did you take it to the windmill?**
 *(Holding his head)* I can't remember
 
-
+*Dick moves to a different room and brings Seffia in as well, casting Healing Word to wake her up and heal her before questioning*
 
 **Seffia, you're okay. Arn is okay.**
 *All the same questions get asked, checking for differences. The only difference is that she knows more about why he wants the stone*
@@ -138,3 +138,15 @@ Oh?
 That really the best choice I have?
 **I know what I would do. Can I talk to Arn?**
 Yeah, give me a moment.
+
+
+Dick brings Arn into the room with Seffia. He asks them to tell him everything so he can help them get their stories straight since they will need to tell the guards things when they turn themselves in.
+- Kidnapping the destitute to sacrifice
+	- Instructed by Lord/Lady Cassalanter as well as others in the upper echelon of the organization
+- They are planning something big for Founders' Day. They don't know what, just something big
+	- Dick asked if the stone had anything to do with it. They don't know but assume so since Lord Cassalanter is in a rush to retrieve it and Founders' Day is only a tenday away.
+- They agree to talk to the guards
+	- Dick Messages the group (Cordan) to let them know what the plan is and that he is going to get them a carriage to the nearest guard station. Cordan suggests that he send his new spider familiar with them to watch what happens.
+- The stone is some kind of creature that has been transformed and that it knows where the Vault of Dragons is
+	- Dick asked Dragons as in creature or gold piece. They didn't know but guessed gold.
+	- They do not know where the vault is.
