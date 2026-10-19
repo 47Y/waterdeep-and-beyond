@@ -150,3 +150,38 @@ Dick brings Arn into the room with Seffia. He asks them to tell him everything s
 - The stone is some kind of creature that has been transformed and that it knows where the Vault of Dragons is
 	- Dick asked Dragons as in creature or gold piece. They didn't know but guessed gold.
 	- They do not know where the vault is.
+
+
+In the morning, Cordan cast Find Traps and nothing was found. Dick cast Identify and then attuned to it after getting the information. The positive effect he received is he can cast Lightning Bolt from the stone (roll a d6, unusable until the next dawn on 1-5), The detrimental effect is he is blinded if he's more than 10 feet from the stone.
+
+While he was attuning, Cordan and Mr T searched his library for any information on Aboleths but found nothing. They returned 10 minutes before the attunement completed to be there for any immediate effects
+
+Under the tower
+What do you mean tower?
+Under the old tower
+How do we get into the tower?
+You will have to have the keys.
+What keys?
+There are 3 keys
+What are they?
+A silvered warhammer, sunlight, and a unicorn
+A real unicorn?
+A unicorn
+Any silver warhammer or a particular one?
+Any will do
+Do you know where to get these things?
+I can't help you with that
+Sure you can.
+Convince me
+Well, you want people that are interesting, yes?
+Yes
+*I am going to be the next Open Lord of Waterdeep* (not said out loud for the party to hear) *We have a deal? You help me, I help you?*
+If I can be of help
+Where can I get a unicorn?
+The Cassalanters
+Do you know where they have it?
+I've seen it once
+Is it in their stables?
+No
+Where's it at?
+In the childresn
