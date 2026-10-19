@@ -199,9 +199,24 @@ Wonderful
 We're going to be real good friends
 
 
-The group went to the blacksmith near Trollskull Manor and they said they could make one given a bar of silver and have it done by the next day. They said they would do it for free given the materials because we are neighbors. They can do it in 3 hours if it doesn't need to be functional. Dick asked if they knew of a toy store where we could buy a unicorn. They directed us to Old Xoblob Shop.
+The group went to the blacksmith near Trollskull Manor (Steam and Steel, owned and operated by the married couple Embric and Avi. Embric is a male fire genasi and Avi is a male water genasi) and they said they could make one given a bar of silver and have it done by the next day. They said they would do it for free given the materials because we are neighbors. They can do it in 3 hours if it doesn't need to be functional. Dick asked if they knew of a toy store where we could buy a unicorn. They directed us to Old Xoblob Shop.
 The group stopped at various general stores along the way to get steel mirrors as a method of getting sunlight into a dark area presumably. (purchased 19 steel mirrors plus the 1 that Mr T already has)
-We stopped at Old Xoblob Shop and asked about a unicorn toy. 
+We stopped at Old Xoblob Shop and asked about a unicorn toy. Dick managed to buy the following items for 10gp:
+**Shirt of Throwing**: This simple green shirt is the perfect size for the average Halfling, Gnome, or Dwarf. When donned, the wearer can be used as a thrown missile. The wearer's range increment increases by 50ft when thrown.
+**Flying pan**: This pan hovers above the fire, just high enough to avoid heating up.
+**Pipe of Intellectual Looks**: Holding this dapper pipe in your mouth makes you look thoughtful and clever, giving you advantage on Bluff checks to look smart. It does nothing to make you act, sound, or be any smarter. Any creature that has heard you speak is immune to the pipe's effects.
+**Rod of Wander**: A rod that causes the owner to have no sense of direction.
+**Mantle of Awe**: On entering a room with the mantle in one's possession, a flock of doves fly through the doorway from behind you, a fanfare plays and an angelic chorus can be heard singing a verse. The larger the room, the more impressive the effect (more doves, longer angelic chorus).  
+Created for a noble who wished to make a good impression at a party. Has the unfortunate effect of activating every time one enters a room. Every room. This fact was discovered by a scoundrel who robbed the original owner and tried (failing) to escape.
+**Gauntlets of the Mighty Arms of the Dinosaurs**: The Wearer of these green and scaly Gauntlets will be affected in the following ways:  
+1: His mouth grows to enormous proportions, and it is filled with jagged teeth. He can now attack with his Bite, causing 1D12 damage.  
+2: He grows a tail, from which great spikes protrude. He can make an attack with his tail as a Bonus Action, causing 1D8 damage.  
+3: He grows scales on his body, giving him a natural AC of 15.  
+4: He cannot wear any Armor, as his body is now weirdly contorted. He cannot use Helmets, Backpacks, Capes or Cloaks, either.  
+5: His arms grow tiny and weak – with an effective Strength of 3, and the weight of the Gauntlets cause his arms to hang straight down, being completely useless. The wearer cannot carry anything in his hands. No shields, either.  
+6: Looking like a monster, the wearer’s Charisma is halved, rounded down.  
+7: Being affected by all this dinosaurusness, the wearer is now quite daft. His Intelligence is halved, rounded down.  
+8: Oh yes, since the wearers mouth is very big and full of serrated teeth, he cannot speak or cast spells with Verbal Components. He can only roar. Loudly.  
+9: This, however, gives the wearer a +4 on Intimidate checks.
 
-Amulets
-Boots - Boots of Halfling Kind - They make your feet hairy
+We returned to to Steam and Steel to pick up the decorative 
