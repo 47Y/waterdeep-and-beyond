@@ -219,4 +219,6 @@ Created for a noble who wished to make a good impression at a party. Has the unf
 8: Oh yes, since the wearers mouth is very big and full of serrated teeth, he cannot speak or cast spells with Verbal Components. He can only roar. Loudly.  
 9: This, however, gives the wearer a +4 on Intimidate checks.
 
-We returned to to Steam and Steel to pick up the decorative 
+We returned to to Steam and Steel to pick up the decorative warhammer. Dick also gave 2 additional bars and requested that a functional hammer be made as well that he can pick up in a few days. He told them to keep the extra.
+
+The group made its way to the old tower. 
