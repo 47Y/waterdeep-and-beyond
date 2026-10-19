@@ -241,4 +241,6 @@ A hidden trapdoor in the middle of the floor opens.
 The group went down the staircase and explored the large room below. One of the rooms is filled with gold and an elderly dwarf comes out.
 "I wasn't expecting anyone," he says plainly. "As you can see, the place is a mess. Perhaps you should come back later, after I've tidied up a bit."
 Dick recognizes him as being shrouded by magic as well as the staff he is carrying being magical. He says "greetings gold dragon". The dragon disguised as a dwarf responds with "how did you see me?"
-After some back and forth, Dick casts Zone of Truth which 
+After some back and forth, Dick casts Zone of Truth which he convinces the dragon (Aurinax, an adult gold dragon) to willingly fail the save. Dick questions him while also in the Zone of Truth and learns Aurinax is guarding the gold for Dagult Neverember and the staff he wields is the payment. The staff is the dragonstaff of Ahghairon which (among other things) allows Aurinax to walk freely in the city despite its ward against dragons. Dick convinces him that Neverember embezzled it from the city (which Aurinax suspects) and that he will return it to the city. He also convinced Aurinax to give up 30 of the 65 gemstones (100gp each) as well all of the gold. Over the course of several hours the gold is all transferred to a vault under Dick's manor.
+
+The group kept 20,000gp each, put 120,000gp aside for business expenses, and returned the remaining 260,000gp to the city.
