@@ -199,4 +199,9 @@ Wonderful
 We're going to be real good friends
 
 
-The group went to the blacksmith near Trollskull Manor and they said they could make one given a bar of silver and have it done by the next day. They said they would do it for free given the materials because we are neighbors. They can do it in 3 hours if it doesn't need to be functional. Dick asked if they knew of a toy store where we could buy a unicorn. They directed us to Old Xoblob Shop
+The group went to the blacksmith near Trollskull Manor and they said they could make one given a bar of silver and have it done by the next day. They said they would do it for free given the materials because we are neighbors. They can do it in 3 hours if it doesn't need to be functional. Dick asked if they knew of a toy store where we could buy a unicorn. They directed us to Old Xoblob Shop.
+The group stopped at various general stores along the way to get steel mirrors as a method of getting sunlight into a dark area presumably. (purchased 19 steel mirrors plus the 1 that Mr T already has)
+We stopped at Old Xoblob Shop and asked about a unicorn toy. 
+
+Amulets
+Boots - Boots of Halfling Kind - They make your feet hairy
