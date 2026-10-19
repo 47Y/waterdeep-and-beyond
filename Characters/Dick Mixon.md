@@ -23,6 +23,8 @@ tags:
 
 - Alignment: Unknown.
 - Ideals, bonds, flaws, appearance, and personality: To be added.
+- Privately intends to become the next Open Lord of Waterdeep; he disclosed this ambition telepathically to the [[Stone of Golorr]] but not to the party.
+- While attuned to the Stone, becomes blinded if more than 10 feet away from it.
 
 ## Campaign Events
 
@@ -78,6 +80,7 @@ tags:
 - Persuaded the authorities to drop all charges connected to Lilith's infiltration.
 - Recovered the [[Stone of Golorr]] from a cultist at the [[Abandoned Windmill]].
 - Questioned [[Arn Xalrondar]] and [[Seffia Naelryke]], persuading them to surrender to the City Watch.
+- Sent his spider familiar to observe Arn and Seffia's trip to the guard station; whether it returned with news is awaiting clarification from the DM.
 - Attuned to the Stone and learned the location and keys of the [[Vault of Dragons]].
 - Privately told the Stone that he intended to become Waterdeep's next Open Lord and proposed a partnership based on shared access to knowledge.
 - Purchased a toy unicorn and several [[Old Xoblob Curios]] for 10 gp.
@@ -85,6 +88,7 @@ tags:
 - Disguised himself as a dwarf to open the Vault's forge room.
 - Used Zone of Truth while negotiating with [[Aurinax]] and persuaded him to release the hoard for return to Waterdeep.
 - Received 20,000 gp as his personal share and helped reserve 120,000 gp for business expenses.
+- Retained the thirty gemstones given up by [[Aurinax]], worth 100 gp each.
 - Reached level 5.
 
 ## Mechanical Snapshot
@@ -181,7 +185,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO
 - Rapier.
 - Dagger.
 - Studded Leather Armor.
-- Signet Ring of Spell Storing.
+- [[Ring of Spell Storing|Signet Ring of Spell Storing]].
 
 ### Carried
 
@@ -209,7 +213,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO
 - +1 Half Plate, given to [[Joe Bauers]].
 - Tome of Leadership and Influence.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 199.
 - Gold: 112.

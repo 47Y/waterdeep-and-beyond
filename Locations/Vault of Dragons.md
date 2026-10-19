@@ -28,5 +28,7 @@ The primary hoard contained 500,000 gp. [[Aurinax]] also released thirty gemston
 
 The party kept 20,000 gp per member, reserved 120,000 gp for business expenses, and returned 260,000 gp to Waterdeep.
 
+[[Dick Mixon]] retained the thirty gemstones. The [[Vault Side-Room Treasure]] was stored with the remaining Vault assets beneath [[Dick's Manor]].
+
 See [[Vault Side-Room Treasure]] for the additional recovered items.
 

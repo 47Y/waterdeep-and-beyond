@@ -20,7 +20,7 @@ The chamber contained a 30-foot statue of [[Asmodeus]].
 [[Arn Xalrondar]] and [[Seffia Naelryke]] said:
 
 - [[Victoro Cassalanter]], [[Ammalia Cassalanter]], and other senior members ordered cultists to kidnap destitute people for sacrifice.
-- The group planned something significant for [[Founder's Day]], then one tenday away.
+- The group planned something significant for [[Founders' Day]], then one tenday away.
 - Victoro ordered Arn and Seffia to kill [[Vaelle]], [[Holiver]], and [[Kaeth]] as a security measure.
 - Spined devils served Victoro.
 - The group met at [[Cassalanter Villa]] and had also operated from the [[Abandoned Windmill]].

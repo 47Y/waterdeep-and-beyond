@@ -179,7 +179,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LUL
 - Heavy Crossbow and bolts, received from Cordan during [[Session 2]].
 - Scale Mail, replaced by the +1 half plate during Session 2.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 7.
 - Gold: 10.

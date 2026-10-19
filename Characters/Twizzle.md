@@ -184,7 +184,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.j
 - Hempen Rope, 50 feet.
 - Lucky Charm.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 1.
 - Gold: 73.

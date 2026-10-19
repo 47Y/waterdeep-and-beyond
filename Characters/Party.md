@@ -37,11 +37,12 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 
 ## Current Investigation
 
-The party recovered the [[Stone of Golorr]], opened the [[Vault of Dragons]], and returned 260,000 gp to Waterdeep. The active threat is the [[Cassalanter Ritual Group]], which kidnaps destitute people for sacrifice and is planning something for [[Founder's Day]].
+The party recovered the [[Stone of Golorr]], opened the [[Vault of Dragons]], and returned 260,000 gp to Waterdeep. The active threat is the [[Cassalanter Ritual Group]], which kidnaps destitute people for sacrifice and is planning something for [[Founders' Day]].
 
 ## Finances
 
 - Each party member received 20,000 gp from the Vault, deposited through the [[Temple of Waukeen]].
 - 120,000 gp is reserved for party business expenses.
 - 260,000 gp was returned to Waterdeep.
-- Thirty gemstones worth 100 gp each and the [[Vault Side-Room Treasure]] were recovered, but their final ownership or storage was not recorded.
+- [[Dick Mixon]] holds the thirty gemstones worth 100 gp each.
+- The [[Vault Side-Room Treasure]] is stored with the remaining Vault assets beneath [[Dick's Manor]].

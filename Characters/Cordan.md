@@ -97,6 +97,7 @@ tags:
 - Cast Pass without Trace and entered the [[Cassalanter Mausoleum]] as a spider, discovering the windmill lead and two murdered cultists.
 - Cast Entangle to trap three fleeing spined devils and helped kill them.
 - Carried one devil corpse away from the [[Abandoned Windmill]].
+- Later experimented on his spined-devil corpse similarly to his earlier examination of the intellect devourer; any findings are unknown.
 - Summoned a Fey familiar that chose the form of a spider through the [[Ring of Spell Storing]].
 - Stored two castings of Charm Person in the ring.
 - Cast Find Traps on the [[Stone of Golorr]] before Dick touched and identified it; no trap was detected.
@@ -218,7 +219,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.js
 - Waterskin.
 - Hempen Rope, 50 feet.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 0.
 - Gold: 67.
@@ -237,3 +240,4 @@ The two crates contained the four paintings and 15 silver bars recorded in the S
 ## Open Questions
 
 - What are Cordan's ideals, bonds, flaws, and additional personality traits?
+- What did Cordan learn, if anything, from examining the spined devil?

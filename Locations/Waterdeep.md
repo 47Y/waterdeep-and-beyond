@@ -96,7 +96,7 @@ Source: [[Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion|Volo'
 - Construction involves several guilds, including the [[Carpenter's Guild]] and [[Mason's Guild]]; Volo recommends a trusted local solicitor for navigating business requirements.
 - Address nobles as Lord or Lady. Seeking patronage normally requires an introduction through an employee or acquaintance.
 - Noble houses may retain up to seventy equipped soldiers in house colors; others, including foreign envoys, are limited to sixteen.
-- Existing festival notes: [[Founder's Day]] and [[Day of Wonders]].
+- Existing festival notes: [[Founders' Day]] and [[Day of Wonders]].
 
 ## Public Reference Notes
 

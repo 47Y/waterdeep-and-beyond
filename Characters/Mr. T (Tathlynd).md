@@ -199,7 +199,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WO
 - Hempen Rope, 50 feet.
 - 37 Arrows.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 0.
 - Gold: 60.
@@ -210,3 +212,4 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WO
 ## Open Questions
 
 - What elven settlement did Dirlem take Tathlynd to?
+- Who was the matron Tathlynd tried to poison, and what happened?

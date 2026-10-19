@@ -1,6 +1,6 @@
 ---
 type: npc
-status: unclear
+status: charges-dropped
 source: Raw Notes/Session 5.md
 tags:
   - npc
@@ -11,5 +11,7 @@ tags:
 
 Elias Chadwell was named in the charge accusing [[Lilith D Gluv]] of assaulting a noble after her infiltration of [[Cassalanter Villa]].
 
-It is not confirmed whether Chadwell was the dead [[Cassalanter Doppelganger|doppelganger]], the unidentified noble who helped capture Lilith, or another person.
+Elias was not the dead [[Cassalanter Doppelganger|doppelganger]]. His precise role in the events at [[Cassalanter Villa]] remains unclear.
+
+All charges connected to the incident were dropped during [[Session 5]].
 

@@ -182,7 +182,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3X
 - Censer.
 - Vestments.
 
-## Currency
+## Currency (Foundry Snapshot)
+
+These values predate later campaign transactions. See [[Party#Finances]] for the Session 5 Vault allocation.
 
 - Platinum: 0.
 - Gold: 62.

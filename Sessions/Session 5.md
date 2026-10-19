@@ -88,11 +88,11 @@ They revealed:
 - Their memories of who took the Stone and why they brought it to the windmill were impaired or missing. Seffia eventually realized Dick had taken it.
 - The Stone was important to Lord Cassalanter and was meant to be delivered to his estate.
 - Cult leaders, including Lord and Lady Cassalanter, ordered members to kidnap destitute people for sacrifice.
-- The cult planned something significant for [[Founder's Day]], which was one tenday away.
+- The cult planned something significant for [[Founders' Day]], which was one tenday away.
 - The oldest Cassalanter child had disappeared years earlier, and rumors said the other two children were also in danger because of a deal with [[Asmodeus]].
 - The Stone was some kind of transformed creature that knew the location of the [[Vault of Dragons]].
 
-Arn and Seffia agreed to surrender to the City Watch. Dick arranged transportation to the nearest guard station, and Cordan suggested sending his spider familiar to observe what happened.
+Arn and Seffia agreed to surrender to the City Watch. Dick arranged transportation to the nearest guard station, and his spider familiar followed to observe what happened. Whether it returned with news is awaiting clarification from the DM.
 
 ## Attuning to the Stone
 
@@ -158,14 +158,17 @@ The party transferred the gold to a vault beneath Dick's Manor, then deposited t
 
 The party also recovered the treasure from the secret room, including the urns and copper initially left behind.
 
+Dick retained Aurinax's thirty gemstones. The side-room treasure was stored with the remaining Vault assets in the vault beneath [[Dick's Manor]].
+
+After the session, Cordan experimented on the spined-devil corpse he had carried away, similarly to his earlier examination of the intellect devourer. It is unknown whether he learned anything.
+
 The session ended with a long rest, and every party member reached level 5.
 
 ## Open Questions
 
-- Did Arn and Seffia safely reach the guard station, and what happened after they surrendered?
-- Who currently holds the thirty 100 gp gemstones from Aurinax?
-- How was the other recovered Vault treasure divided or stored?
-- What happened to the two spined-devil corpses carried away by Cordan and Lilith?
+- Did Dick's spider familiar return with news about Arn and Seffia reaching the guard station?
+- What did Cordan learn, if anything, from examining the spined-devil corpse?
+- What happened to the spined-devil corpse carried by Lilith?
 - What is the identity of the tiefling who visited the Cassalanter mausoleum?
-- Are Elias Chadwell and the dead doppelganger connected?
+- Why did Cordan find only two bodies in the mausoleum if Arn and Seffia killed three people there?
 

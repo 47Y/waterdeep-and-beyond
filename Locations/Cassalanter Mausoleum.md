@@ -19,3 +19,5 @@ A mausoleum in the [[City of the Dead]] bearing the Cassalanter name.
 - He found two dead men in red robes beneath their cloaks. They appeared to have been killed by dagger wounds and possible necromancy.
 - Interrogation later established that [[Arn Xalrondar]] and [[Seffia Naelryke]] had been ordered to kill three low-ranking members named [[Vaelle]], [[Holiver]], and [[Kaeth]].
 
+Cordan found only two bodies despite the later claim that three people had been killed there. The reason for the discrepancy is unknown.
+
