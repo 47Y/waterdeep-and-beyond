@@ -28,4 +28,14 @@ While waiting, she spoke to each party member to get a feel for the group.
 
 Starting with Joe, she said he looked uncomfortable. He said it's because he's never been in a room with such a high official and he's not used to the banter back and forth being so open. She asked what his strongest trait is. He said "I always strive to protect those that need protecting and don't have the means to protect themselves." She asked if he thinks the city needs protecting right now. He said any city needs protecting because there is always good and evil and keeping the balance is where the protection is needed. "So you believe balance is important?" "Yes; without sorrow you will never know happiness. Boredom is generally good for creativity."
 Next is Mr. T. "Where do you hale from?" "That's a long story. Before the rebirth or after?" He slid his mask up to reveal his face. She turned to Dick and said "interesting company you keep". Dick said "they have all proven their worth in one way or another though." She turned back to Mr. T and asked about the rebirth. "I fought like hell to get away from the darkness and a friend managed to save me from them." She said she would like to hear more details in the future if he would like to talk about it some day. He agreed for the above-ground things but the below-ground stuff doesn't need to be brought up again. She understands because she also has some darkness in her past.
-Next is Liltih. "Would you like to tell me about your experience with the Cassalanters because this could be very helpful in our potential investigation?" After reassurances that she won't be thrown back in jail, Lilith gave a recap of what happened from her point of view. "I have heard that you joined "
+Next is Lilith. "Would you like to tell me about your experience with the Cassalanters because this could be very helpful in our potential investigation?" After reassurances that she won't be thrown back in jail, Lilith gave a recap of what happened from her point of view. "I have heard that you joined Force Gray. How are you enjoying that?" "I haven't really done much for that other than checking on a monk up on the mountain. But so far it has been nice."
+Cordan is next. "What do you find so interesting in my library?" "You can learn a lot about a person by what books and decorations they keep around them."
+Last is Twizzle. "And you young lady. You seem very dissatisfied with being here." "Yeah, based on what I've gone through"
+
+
+Her bookshelf:
+Several historical documents about Waterdeep and surrounding areas
+Self-help style books (how to be a better manager, how to do her job guide books)
+Several tomes dealing with other realms including a couple about the stars and constellations
+Her decorations:
+More personal than "look at me I'm important"
