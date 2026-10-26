@@ -52,4 +52,6 @@ Before going to sleep, the party (minus Dick who stayed back at the manor) took 
 As a reward, each member of the Enclave gained 2 renown with the faction. We had 1 from the Snobeedle scarecrow mission. Master Fellbranch also gives each person a Charm of Heroism which lets each person grant themselves the benefits of a Potion of Heroism as an action once.
 Mr T asked if he had any information about Asmodeus. "Be very careful. He is the supreme master of the Nine Hells."
 
-Lady Silverhand, Lilith, Joe, and Twizzle set up in the hidden scrying room next to the study the meeting will take place. Mr T is hiding across the hallway so he has line of sight on the chair Lord Cassalanter is going to be sitting in. Cordan used 
+Overnight, Cordan dissected the grell and discovered (via being dosed by it) that they produce a paralytic poison. He plans to attempt to collect some of the poison the following night.
+
+Lady Silverhand, Lilith, Joe, Mr. T, and Twizzle set up in the hidden scrying room next to the study the meeting will take place. Cordan used Enhance Ability on Dick to give him a boost to Charisma checks before using Meld into Stone to conceal himself in the ceiling of the room of the meeting. Cordan then used his spider familiar's senses to see and hear the meeting as it happened.
