@@ -1,9 +1,10 @@
 ---
 type: faction
-status: active-threat
+status: disrupted
 source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
+  - Raw Notes/Session 6.md
 tags:
   - faction
   - unresolved
@@ -26,4 +27,11 @@ The chamber contained a 30-foot statue of [[Asmodeus]].
 - The group met at [[Cassalanter Villa]] and had also operated from the [[Abandoned Windmill]].
 
 The group's formal name remains unknown.
+
+## Session 6
+
+- [[Victoro Cassalanter]] confessed to years of sacrifices and a final payment of 999,999 gp and 99 souls due on [[Founders' Day]].
+- Victoro, [[Ammalia Cassalanter]], their children, guards, and staff were detained.
+- Approximately 980,000 gp was found behind the secret door beneath [[Cassalanter Villa]].
+- The party intends to prevent [[Asmodeus]] from claiming the twins' souls.
 

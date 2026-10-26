@@ -77,6 +77,13 @@ tags:
 - Received 20,000 gp as her personal share of the Vault hoard.
 - Reached level 5.
 
+### Session 6
+
+- Told [[Laeral Silverhand]] that being surrounded by guards made her uneasy. They left open a future private conversation.
+- Helped kill two [[Grell|grells]] in the Dock Ward.
+- Gained 2 [[Emerald Enclave]] renown, reaching 3, and received a [[Charm of Heroism]].
+- Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

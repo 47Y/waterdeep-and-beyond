@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "718bcc567e6db0f1",
+        "id": "b49584c112c778b2",
         "type": "tabs",
         "children": [
           {
-            "id": "afd2a13ca9e5bf05",
+            "id": "1b68223990a6f798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raw Notes/Session 6.md",
+                "file": "NPCs/Yagra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 6"
+              "title": "Yagra"
             }
           }
         ]
@@ -197,10 +197,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afd2a13ca9e5bf05",
+  "active": "1b68223990a6f798",
   "lastOpenFiles": [
-    "Factions/Emerald Enclave.md",
+    "NPCs/Elzerina Cassalanter.md",
+    "NPCs/Laeral Silverhand.md",
+    "Recaps/Session 6 Recap.md",
     "Raw Notes/Session 6.md",
+    "Quests/Investigate the Bank Robberies.md",
+    "Quests/Stop the Grells.md",
+    "Factions/Xanathar Guild.md",
+    "Items/Grell Corpse and Poison.md",
+    "Items/Amulet of Asmodeus.md",
+    "Items/Charm of Heroism.md",
+    "Locations/Castle Waterdeep.md",
+    "NPCs/Grell.md",
+    "NPCs/Terenzio Cassalanter.md",
+    "NPCs/Wentworth.md",
+    "Plans/Dick's Magical Retail Network.md",
+    "Plans/Planned Six-Month Downtime.md",
+    "Plans",
+    "Sessions/Session 6.md",
+    "Factions/Emerald Enclave.md",
     "NPCs/Yagra.md",
     "Raw Notes/Session 5.md",
     "Lore/Founders' Day.md",
@@ -209,22 +226,6 @@
     "Quests/Open the Vault of Dragons.md",
     "Quests/Recover the Stone of Golorr.md",
     "NPCs/Wern Malkrave.md",
-    "NPCs/Elyndra Moonbough.md",
-    "Locations/Vault of Dragons.md",
-    "Locations/Undermountain.md",
-    "Items/Old Xoblob Curios.md",
-    "Locations/Old Xoblob Shop.md",
-    "NPCs/Embric.md",
-    "Locations/Steam and Steel.md",
-    "Items/Vault Keys.md",
-    "Items/Vault Side-Room Treasure.md",
-    "Characters/Party.md",
-    "Characters/Cordan.md",
-    "Sessions/Session 5.md",
-    "Items/Spined Devil Corpses.md",
-    "NPCs/Aurinax.md",
-    "Items/Dragonstaff of Ahghairon.md",
-    "Items/Ring of Warmth.md",
     "Events",
     "Quests",
     "Sessions",
@@ -233,7 +234,6 @@
     "Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json",
     "Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json",
     "Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json",
-    "Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO6.json",
-    "Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json"
+    "Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO6.json"
   ]
 }

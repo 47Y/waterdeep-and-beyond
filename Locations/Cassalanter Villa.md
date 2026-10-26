@@ -1,9 +1,10 @@
 ---
 type: location
-status: infiltrated
+status: raided
 source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
+  - Raw Notes/Session 6.md
 tags:
   - location
   - waterdeep
@@ -44,4 +45,12 @@ Cordan suspected the ritual language was Infernal, but he did not recognize it.
 - The party found no evidence of additional exterior entrances.
 - Captured cultists said the villa served as a meeting place for the [[Cassalanter Ritual Group]].
 - The [[Stone of Golorr]] said a toy unicorn in the [[Cassalanter Children|children's room]] could serve as a key to the [[Vault of Dragons]].
+
+## Session 6 Raid
+
+- The household, guards, and staff were detained after [[Victoro Cassalanter]] confessed.
+- The unidentified tiefling seen at the [[Cassalanter Mausoleum]] was among the staff taken for questioning.
+- Guards used [[Cordan's Map of Cassalanter Villa]] to sweep the hidden cellar and temple.
+- Approximately 980,000 gp was found in sacks behind the secret door.
+- The party now owns resources from the estate, but the DM has not yet provided a complete inventory or final disposition.
 

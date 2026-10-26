@@ -6,6 +6,7 @@ source:
   - Raw Notes/Session 2.md
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
+  - Raw Notes/Session 6.md
 tags:
   - location
   - waterdeep
@@ -22,3 +23,5 @@ After infiltrating [[Cassalanter Villa]] in [[Session 4]], the rest of the party
 During [[Session 5]], [[Dick Mixon]] questioned [[Arn Xalrondar]] and [[Seffia Naelryke]] here. The 500,000 gp recovered from the [[Vault of Dragons]] was temporarily transferred into a vault beneath the manor before being divided and deposited.
 
 The [[Vault Side-Room Treasure]] and remaining party Vault assets are stored in the manor's vault. Dick personally holds the thirty gemstones received from [[Aurinax]].
+
+During [[Session 6]], the manor hosted the recorded meeting in which [[Victoro Cassalanter]] confessed. [[Laeral Silverhand]], [[Lilith D Gluv]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] observed from a hidden adjacent scrying room while [[Cordan]] concealed himself in the study ceiling.

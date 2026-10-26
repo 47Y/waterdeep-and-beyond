@@ -100,4 +100,6 @@ The group made it to the villa just as the guards are bringing people out. Corda
 Behind the secret door there are sacks of gold; around 980,000 gold worth.
 
 Lord Cassalanter didn't say anything. Lady Cassalanter said everything because the deal is that they need to pay 999,999 gold and 99 souls or the twins' souls will be taken instead. She wants to protect her children.
-The group has decided to do what they can to avoid Asmodeus getting their souls
+The group has decided to do what they can to avoid Asmodeus getting their souls. The current idea is to attempt to get them to the Feywild where he hopefully has less influence. That or get a different deity to protect them.
+
+The villa has resources in it that the party now owns but the DM will need to provide that information later.

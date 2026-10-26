@@ -36,6 +36,7 @@ It is also the current base of the [[Party]], which formed at [[The Yawning Port
 - [[Old Tower]]
 - [[Vault of Dragons]]
 - [[Temple of Waukeen]]
+- [[Castle Waterdeep]]
 
 ## Cordan's Connection
 

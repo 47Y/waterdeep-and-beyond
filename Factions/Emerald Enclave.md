@@ -5,6 +5,7 @@ source:
   - Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json
   - Raw Notes/Session 2.md
   - Raw Notes/Session 3.md
+  - Raw Notes/Session 6.md
 tags:
   - faction
 ---
@@ -23,6 +24,11 @@ The Emerald Enclave operates from [[Phaulkonmere]].
 ## Completed Assignments
 
 - [[Scarecrow Trouble]]
+- [[Stop the Grells]]
+
+## Party Renown
+
+After the grell mission, [[Cordan]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] each had 3 renown and received a [[Charm of Heroism]].
 
 ## Pending Inquiry
 

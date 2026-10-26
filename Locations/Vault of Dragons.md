@@ -26,7 +26,7 @@ The party opened the Vault beneath the [[Old Tower]] during [[Session 5]].
 
 The primary hoard contained 500,000 gp. [[Aurinax]] also released thirty gemstones worth 100 gp each.
 
-The party kept 20,000 gp per member, reserved 120,000 gp for business expenses, and returned 260,000 gp to Waterdeep.
+The party kept 20,000 gp per member, reserved 120,000 gp for business expenses, and allocated 260,000 gp for Waterdeep. [[Dick Mixon]] delivered a 250,000 gp banknote first, leaving 10,000 gp still intended for return.
 
 [[Dick Mixon]] retained the thirty gemstones. The [[Vault Side-Room Treasure]] was stored with the remaining Vault assets beneath [[Dick's Manor]].
 

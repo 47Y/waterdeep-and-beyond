@@ -70,7 +70,6 @@ During the long rest, everyone except Lilith reached level 4. Lilith's possible 
 
 ## Open Questions
 
-- What is planned for Founder's Day?
 - What was the language used during the ritual?
 - Who was the unidentified noble who fought Lilith?
 

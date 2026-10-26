@@ -97,7 +97,7 @@ tags:
 - Cast Pass without Trace and entered the [[Cassalanter Mausoleum]] as a spider, discovering the windmill lead and two murdered cultists.
 - Cast Entangle to trap three fleeing spined devils and helped kill them.
 - Carried one devil corpse away from the [[Abandoned Windmill]].
-- Later experimented on his spined-devil corpse similarly to his earlier examination of the intellect devourer; any findings are unknown.
+- Later experimented on his spined-devil corpse and learned that it had twelve tail spines that could be fired and later regrown.
 - Summoned a Fey familiar that chose the form of a spider through the [[Ring of Spell Storing]].
 - Stored two castings of Charm Person in the ring.
 - Cast Find Traps on the [[Stone of Golorr]] before Dick touched and identified it; no trap was detected.
@@ -106,6 +106,18 @@ tags:
 - Helped restrain Tathlynd after the Vault fresco enthralled him by covering his head with a shirt.
 - Received 20,000 gp as his personal share of the Vault hoard.
 - Reached level 5.
+
+### Session 6
+
+- Provided [[Laeral Silverhand]] with his map and sketches from beneath [[Cassalanter Villa]].
+- Analyzed Laeral's books and office decor, then demonstrated his Star Map by projecting the Feywild sky across the ceiling.
+- Discussed the possibility of creating crystals depicting Material Plane constellations.
+- Helped kill two [[Grell|grells]] in the Dock Ward and retained one corpse for study.
+- Discovered through accidental exposure that grells produce paralytic poison; collection of the poison remains planned but incomplete.
+- Gained 2 [[Emerald Enclave]] renown, reaching 3, and received a [[Charm of Heroism]].
+- Cast Enhance Ability on [[Dick Mixon]], hid in the meeting-room ceiling using Meld into Stone, and observed Victoro's confession through his spider familiar.
+- Attempted Hold Person on [[Victoro Cassalanter]], but Victoro resisted.
+- Helped heal injured guards during the raid on Cassalanter Villa.
 
 ## Mechanical Snapshot
 
@@ -240,4 +252,4 @@ The two crates contained the four paintings and 15 silver bars recorded in the S
 ## Open Questions
 
 - What are Cordan's ideals, bonds, flaws, and additional personality traits?
-- What did Cordan learn, if anything, from examining the spined devil?
+- Can Cordan safely collect and use grell paralytic poison?

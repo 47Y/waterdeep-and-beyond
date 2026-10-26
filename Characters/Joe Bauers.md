@@ -94,6 +94,14 @@ tags:
 - Received 20,000 gp as his personal share of the Vault hoard.
 - Reached level 5.
 
+### Session 6
+
+- Told [[Laeral Silverhand]] that his strongest trait was protecting those unable to protect themselves and described balance as essential.
+- Helped kill two [[Grell|grells]] in the Dock Ward.
+- Gained 2 [[Emerald Enclave]] renown, reaching 3, and received a [[Charm of Heroism]].
+- Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+- Bound Victoro with manacles after his confession.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 5 class distribution and mechanics have not yet been provided.

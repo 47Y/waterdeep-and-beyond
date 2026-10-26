@@ -29,20 +29,24 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 - [[Lilith D Gluv]] was released after all charges connected to [[Cassalanter Villa]] were dropped.
 - Trollskull Manor is being renovated for use as a tavern.
 - Current negotiated renovation cost: 1,000 gp total as of [[Session 3]].
+- The proposed six-month downtime has not begun. See [[Planned Six-Month Downtime]].
 
 ## Faction Memberships
 
 - [[Gray Hands]]: [[Joe Bauers]], [[Lilith D Gluv]], and [[Twizzle]]. [[Mr. T (Tathlynd)]] plans to join.
-- [[Emerald Enclave]]: Tathlynd, [[Cordan]], Twizzle, and Joe.
+- [[Emerald Enclave]]: Tathlynd, [[Cordan]], Twizzle, and Joe; each currently has 3 renown.
 
 ## Current Investigation
 
-The party recovered the [[Stone of Golorr]], opened the [[Vault of Dragons]], and returned 260,000 gp to Waterdeep. The active threat is the [[Cassalanter Ritual Group]], which kidnaps destitute people for sacrifice and is planning something for [[Founders' Day]].
+The party exposed [[Victoro Cassalanter]]'s bargain with [[Asmodeus]], leading [[Laeral Silverhand]] to detain Victoro, [[Ammalia Cassalanter]], their children, guards, and staff. The party is now trying to protect [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from forfeiting their souls under the bargain.
+
+The perpetrators of the [[Investigate the Bank Robberies|bank robberies]] being blamed on the [[Zhentarim]] remain unknown.
 
 ## Finances
 
 - Each party member received 20,000 gp from the Vault, deposited through the [[Temple of Waukeen]].
 - 120,000 gp is reserved for party business expenses.
-- 260,000 gp was returned to Waterdeep.
+- 260,000 gp was allocated for return to Waterdeep. [[Dick Mixon]] delivered 250,000 gp first; the remaining 10,000 gp is still intended for return.
 - [[Dick Mixon]] holds the thirty gemstones worth 100 gp each.
 - The [[Vault Side-Room Treasure]] is stored with the remaining Vault assets beneath [[Dick's Manor]].
+- Approximately 980,000 gp and other resources were found at [[Cassalanter Villa]]. The party now owns estate resources, but the complete inventory and final disposition are pending DM clarification and are not treated as available funds.

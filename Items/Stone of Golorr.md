@@ -5,6 +5,7 @@ source:
   - Raw Notes/Session 3.md
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
+  - Raw Notes/Session 6.md
 tags:
   - item
   - artifact
@@ -42,6 +43,10 @@ tags:
 - Any silvered warhammer would suffice.
 - A toy unicorn in the [[Cassalanter Children|Cassalanter children's]] room could satisfy the unicorn key.
 - The Stone knew the Vault as "under the old tower."
+
+## Session 6
+
+[[Dick Mixon]] used the Stone as bait while posing as a favored servant of [[Asmodeus]]. [[Victoro Cassalanter]] confessed that the Stone was a means to obtaining the gold needed for his bargain.
 
 ## Open Questions
 

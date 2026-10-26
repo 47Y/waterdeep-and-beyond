@@ -76,6 +76,13 @@ tags:
 - Received 20,000 gp as her personal share of the Vault hoard.
 - Reached level 5.
 
+### Session 6
+
+- Recounted her experience at [[Cassalanter Villa]] to [[Laeral Silverhand]].
+- Said her only substantial [[Gray Hands|Force Grey]] work so far had been visiting [[Hlam]].
+- Helped kill two [[Grell|grells]] in the Dock Ward.
+- Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

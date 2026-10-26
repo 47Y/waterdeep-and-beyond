@@ -20,18 +20,39 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 6848760
+      }
+    },
+    {
+      "query": "tag:#event",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.33877791990554,
+  "repelStrength": 9.16855259273836,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 326,
   "scale": 0.4444444444444444,
-  "close": false
+  "close": true
 }

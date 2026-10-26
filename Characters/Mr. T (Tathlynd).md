@@ -84,6 +84,15 @@ tags:
 - Received 20,000 gp as his personal share of the Vault hoard.
 - Reached level 5.
 
+### Session 6
+
+- Told [[Laeral Silverhand]] about his escape from darkness and personal rebirth while declining to revisit details of his life below ground.
+- Used Disguise Self while [[Yagra]] testified under Zone of Truth.
+- Helped kill two [[Grell|grells]] and delivered one corpse to the [[Emerald Enclave]].
+- Gained 2 Enclave renown, reaching 3, and received a [[Charm of Heroism]].
+- Asked [[Melannor Fellbranch]] about [[Asmodeus]] and was warned that he is the supreme master of the Nine Hells.
+- Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

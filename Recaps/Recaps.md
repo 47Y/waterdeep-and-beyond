@@ -14,3 +14,4 @@ Short bullet-point summaries of [[Sessions]].
 - [[Session 3 Recap]]
 - [[Session 4 Recap]]
 - [[Session 5 Recap]]
+- [[Session 6 Recap]]

@@ -92,7 +92,7 @@ They revealed:
 - The oldest Cassalanter child had disappeared years earlier, and rumors said the other two children were also in danger because of a deal with [[Asmodeus]].
 - The Stone was some kind of transformed creature that knew the location of the [[Vault of Dragons]].
 
-Arn and Seffia agreed to surrender to the City Watch. Dick arranged transportation to the nearest guard station, and his spider familiar followed to observe what happened. Whether it returned with news is awaiting clarification from the DM.
+Arn and Seffia agreed to surrender to the City Watch. Dick arranged transportation to the nearest guard station, and his spider familiar followed to observe what happened. It was later confirmed that both surrendered and repeated substantially the same testimony.
 
 ## Attuning to the Stone
 
@@ -154,7 +154,7 @@ The party transferred the gold to a vault beneath Dick's Manor, then deposited t
 
 - 20,000 gp for each party member: 120,000 gp total.
 - 120,000 gp reserved for business expenses.
-- 260,000 gp returned to Waterdeep.
+- 260,000 gp set aside for return to Waterdeep.
 
 The party also recovered the treasure from the secret room, including the urns and copper initially left behind.
 
@@ -166,8 +166,6 @@ The session ended with a long rest, and every party member reached level 5.
 
 ## Open Questions
 
-- Did Dick's spider familiar return with news about Arn and Seffia reaching the guard station?
-- What did Cordan learn, if anything, from examining the spined-devil corpse?
 - What happened to the spined-devil corpse carried by Lilith?
 - What is the identity of the tiefling who visited the Cassalanter mausoleum?
 - Why did Cordan find only two bodies in the mausoleum if Arn and Seffia killed three people there?

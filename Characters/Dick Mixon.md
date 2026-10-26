@@ -25,6 +25,7 @@ tags:
 - Ideals, bonds, flaws, appearance, and personality: To be added.
 - Privately intends to become the next Open Lord of Waterdeep; he disclosed this ambition telepathically to the [[Stone of Golorr]] but not to the party.
 - While attuned to the Stone, becomes blinded if more than 10 feet away from it.
+- Plans to create [[Dick's Magical Retail Network]], a worldwide magic-item business using pocket-dimensional storage and a Feywild entity as inventory manager. The plan is not yet operational.
 
 ## Campaign Events
 
@@ -80,7 +81,7 @@ tags:
 - Persuaded the authorities to drop all charges connected to Lilith's infiltration.
 - Recovered the [[Stone of Golorr]] from a cultist at the [[Abandoned Windmill]].
 - Questioned [[Arn Xalrondar]] and [[Seffia Naelryke]], persuading them to surrender to the City Watch.
-- Sent his spider familiar to observe Arn and Seffia's trip to the guard station; whether it returned with news is awaiting clarification from the DM.
+- Sent his spider familiar to observe Arn and Seffia's trip to the guard station. It was later confirmed that both surrendered and repeated substantially the same testimony.
 - Attuned to the Stone and learned the location and keys of the [[Vault of Dragons]].
 - Privately told the Stone that he intended to become Waterdeep's next Open Lord and proposed a partnership based on shared access to knowledge.
 - Purchased a toy unicorn and several [[Old Xoblob Curios]] for 10 gp.
@@ -90,6 +91,16 @@ tags:
 - Received 20,000 gp as his personal share and helped reserve 120,000 gp for business expenses.
 - Retained the thirty gemstones given up by [[Aurinax]], worth 100 gp each.
 - Reached level 5.
+
+### Session 6
+
+- Presented [[Laeral Silverhand]] with a 250,000 gp banknote as the first portion of the 260,000 gp intended for Waterdeep, leaving 10,000 gp still to return.
+- Recruited [[Yagra]] to testify under Zone of Truth that the Zhentarim were not responsible for the recent bank robberies.
+- Told Laeral directly that he wanted to become the next Open Lord.
+- Devised the recorded meeting used to expose [[Victoro Cassalanter]].
+- Used the [[Stone of Golorr]] and an [[Amulet of Asmodeus]] obtained overnight by [[Wentworth]] to pose as a favored servant of Asmodeus.
+- Deceived Victoro into confessing the required payment of 999,999 gp and 99 souls and swearing to the bargain by Asmodeus's name.
+- Helped heal injured guards during the raid on [[Cassalanter Villa]].
 
 ## Mechanical Snapshot
 
@@ -207,6 +218,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO
 - [[Ring of Spell Storing]].
 - [[Stone of Golorr]].
 - [[Old Xoblob Curios]].
+- [[Amulet of Asmodeus]].
 
 ### Session 2 Downtime Purchases
 
