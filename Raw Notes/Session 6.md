@@ -79,4 +79,21 @@ Are you going to continue to play this farce or do you need my help?
 (Deception Check: 29)
 What do you want for your help?
 I don't want anything. My lord wants to know why he should continue to help you if you're not even able to do anything on your own... How are you able to help him?
-We've been 
+We've been sacrificing peasants in his lords name for years now to keep our side of the bargain up but the final payment comes due.
+Are you even close?
+Yes.
+My lord don't believe you're close. My lord don't believe this is even going to be enough for you to finish paying him.
+My belief is the gold is meant to be a nuisance more than anything else. The real prize is the souls.
+How many do you plan to have? Founders' Day, yes?
+Yes.
+How many do you plan?
+(Insight Check: 12 from Cassalanter)
+The deal states one less than a million dragons (gold), one less than 100 souls.
+And you swear to our lord; put your hand on our emblem and swear to our lord out loud; that if I give you this stone you can honor your contract. This stone is more valuable than your life.
+*Slams hand on the emblem* I swear it.
+Swear it on our lord by name.
+I swear on the name of Asmodeus that if you give me the stone I will be able to fulfill my deal with him.
+
+With that, Lady Silverhand steps out of the room. Cordan drops from the ceiling and attempts to use Hold Person (he saves). Joe binds Lord Cassalanter with manacles.
+Cassalanter sat down and didn't resist Joe's attempts. Lady Silverhand calls for her guards to come and they take Cassalanter away. She sends word to the guards stationed at Cassalanter Villa to have the rest of the household taken away. The group leaves to go to the villa while Lady Silverhand and her guards take Lord Cassalanter. Cordan sent his spider with the two of them.
+The group made it to the villa just as the guards are bringing people out. Cordan keeps an eye out for anyone who may be trying to take any effects from the house. Cordan and Dick help out as needed by using Healing Word on the guards who need it. Lady Cassala
