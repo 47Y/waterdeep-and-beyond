@@ -51,3 +51,5 @@ Back at Dick's manor, Mr. T had a cat (from the Emerald Enclave) show up and giv
 Before going to sleep, the party (minus Dick who stayed back at the manor) took a carriage to the Dock Ward to look for the grell. The group tracked the grell's droppings to an alley where they found 2 grell. They were quickly dispatched and Cordan took one to dissect himself while the other was taken by Mr T to present to the Emerald Enclave on their way back to the manor.
 As a reward, each member of the Enclave gained 2 renown with the faction. We had 1 from the Snobeedle scarecrow mission. Master Fellbranch also gives each person a Charm of Heroism which lets each person grant themselves the benefits of a Potion of Heroism as an action once.
 Mr T asked if he had any information about Asmodeus. "Be very careful. He is the supreme master of the Nine Hells."
+
+Lady Silverhand, Lilith, Joe, and Twizzle set up in the hidden scrying room next to the study the meeting will take place. Mr T is hiding across the hallway so he has line of sight on the chair Lord Cassalanter is going to be sitting in. Cordan used 
