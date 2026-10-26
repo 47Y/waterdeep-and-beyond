@@ -55,3 +55,28 @@ Mr T asked if he had any information about Asmodeus. "Be very careful. He is the
 Overnight, Cordan dissected the grell and discovered (via being dosed by it) that they produce a paralytic poison. He plans to attempt to collect some of the poison the following night.
 
 Lady Silverhand, Lilith, Joe, Mr. T, and Twizzle set up in the hidden scrying room next to the study the meeting will take place. Cordan used Enhance Ability on Dick to give him a boost to Charisma checks before using Meld into Stone to conceal himself in the ceiling of the room of the meeting. Cordan then used his spider familiar's senses to see and hear the meeting as it happened.
+"Hello Lord Cassalanter."
+"Lord Mixon. It was a pleasant surprise to receive your invitation to brunch."
+"I'm glad you could attend. How's the family doing? Lady Ammelia.."
+"She's wonderful thank you for asking. She's making preparations for a special gathering we're having."
+"Ah. And the twins? Elzerina and Terenzio?"
+"They're doing well. They're doing their studies but with it being summer less studies."
+And how are you Victoro?
+I'm doing well. Business is well and our philanthropic endeavers are doing well. What about you sir?
+My businesses are doing excellent. My other businesses are doing better. *Pulls out Stone of Galor* My lord says you want this of me. I seem to be his favorite right now.
+Your lord?
+*Open drawer and take out amulet of Asmodeus* My lord. He's very pleased with me.
+Well... What does your lord want of me?
+I'm pretty sure you have your own little deal with him; so he says. And you need this for it?
+Indeed...
+*Put the stone into his pocket, Cassalanter's eyes follow it greedily* My lord is not happy with you. What would he have to be happy about, you've failed him at every instance.
+How have I failed?
+Which one of us has the stone?
+The stone is a means to an end, not the goal.
+Oh, you mean the gold.
+*Cassalanter goes pale and swallows hard* What gold?
+Are you going to continue to play this farce or do you need my help?
+(Deception Check: 29)
+What do you want for your help?
+I don't want anything. My lord wants to know why he should continue to help you if you're not even able to do anything on your own... How are you able to help him?
+We've been 
