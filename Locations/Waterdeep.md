@@ -4,6 +4,7 @@ status: known
 source:
   - Raw Notes/Cordan Backstory.md
   - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
+  - Raw Notes/Session 7.md
 tags:
   - location
   - waterdeep
@@ -36,6 +37,8 @@ It is also the current base of the [[Party]], which formed at [[The Yawning Port
 - [[Old Tower]]
 - [[Vault of Dragons]]
 - [[Temple of Waukeen]]
+- [[Temple of Tyr]]
+- [[Temple of Eilistraee]]
 - [[Castle Waterdeep]]
 
 ## Cordan's Connection
@@ -58,7 +61,7 @@ Source: [[Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion|Volo'
 ### City and Government
 
 - Known as the City of Splendors, Waterdeep stands on a plateau beside a deepwater harbor, with [[Mount Waterdeep]] to the west.
-- Lady Laeral Silverhand is the Open Lord; the other ruling lords keep their identities masked. Government business is conducted at the Palace of Waterdeep, while Castle Waterdeep is a defensive stronghold.
+- Volo's guide identifies Lady [[Laeral Silverhand]] as Open Lord. In current campaign events, [[Dick Mixon]] became Open Lord at the end of [[Session 7]]; the circumstances of the transition and Laeral's new role remain unknown. The other ruling lords keep their identities masked. Government business is conducted at the Palace of Waterdeep, while Castle Waterdeep is a defensive stronghold.
 - Volo traces the city's history through elven Aelinthaldaar, the Melairkyn dwarves, and Nimoar's settlement. Ahghairon established the system of Open and Masked Lords in 1032 DR.
 - The Spellplague of 1385 DR caused the walking statues to rampage. They now stand as prominent landmarks; the guide describes them as dormant for more than a decade.
 

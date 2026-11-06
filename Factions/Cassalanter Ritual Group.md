@@ -5,6 +5,7 @@ source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
   - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - faction
   - unresolved
@@ -33,5 +34,10 @@ The group's formal name remains unknown.
 - [[Victoro Cassalanter]] confessed to years of sacrifices and a final payment of 999,999 gp and 99 souls due on [[Founders' Day]].
 - Victoro, [[Ammalia Cassalanter]], their children, guards, and staff were detained.
 - Approximately 980,000 gp was found behind the secret door beneath [[Cassalanter Villa]].
-- The party intends to prevent [[Asmodeus]] from claiming the twins' souls.
+- At the end of Session 6, the party intended to prevent [[Asmodeus]] from claiming the twins' souls.
+
+## Session 7
+
+- [[Eilistraee]] saved [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from Asmodeus's claim on [[Founders' Day]].
+- The party learned that a chain devil chained in the villa attic was the missing [[Cassalanter Older Son|older Cassalanter son]], though his name and exact condition remain unconfirmed.
 

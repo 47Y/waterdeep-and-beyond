@@ -23,7 +23,7 @@ tags:
 
 - Alignment: Unknown.
 - Ideals, bonds, flaws, appearance, and personality: To be added.
-- Privately intends to become the next Open Lord of Waterdeep; he disclosed this ambition telepathically to the [[Stone of Golorr]] but not to the party.
+- Became Open Lord of Waterdeep at the end of [[Session 7]]. The circumstances of the transition are unknown.
 - While attuned to the Stone, becomes blinded if more than 10 feet away from it.
 - Plans to create [[Dick's Magical Retail Network]], a worldwide magic-item business using pocket-dimensional storage and a Feywild entity as inventory manager. The plan is not yet operational.
 
@@ -101,6 +101,18 @@ tags:
 - Used the [[Stone of Golorr]] and an [[Amulet of Asmodeus]] obtained overnight by [[Wentworth]] to pose as a favored servant of Asmodeus.
 - Deceived Victoro into confessing the required payment of 999,999 gp and 99 souls and swearing to the bargain by Asmodeus's name.
 - Helped heal injured guards during the raid on [[Cassalanter Villa]].
+
+### Session 7
+
+- Appealed to [[Waukeen]] through [[Archbishop Francis]] for help protecting the [[Cassalanter Children|Cassalanter twins]], then discussed money with Francis after Waukeen declined.
+- Used Comprehend Languages to understand [[Eilistraee]]'s promise: “I will try to take these souls.”
+- Gave [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] coins bearing his sigil that would grant them an audience with him at any time.
+- Used Sending to warn the high priestess at the [[Temple of Eilistraee]] when the twins came under supernatural attack.
+- Supported the prayers for the twins by singing “Somewhere Over the Rainbow.”
+- Identified the missing mushroom singers as [[Campestri]] that were not under any spells.
+- Helped recover all eight Campestri and invited [[Gwendolan]] and the choir to the grand opening of [[Trollskull Manor]].
+- Paid the party for their time working for him and offered another year of employment. The amount, terms, and acceptance are unknown.
+- Became Open Lord of [[Waterdeep]] at the end of the session. The circumstances of the transition are unknown.
 
 ## Mechanical Snapshot
 

@@ -1,8 +1,9 @@
 ---
 type: npc
-status: known
+status: former open lord
 source:
   - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
   - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
 tags:
   - npc
@@ -12,7 +13,7 @@ tags:
 
 # Laeral Silverhand
 
-Laeral Silverhand is the Open Lord of Waterdeep.
+Laeral Silverhand was the Open Lord of Waterdeep through [[Session 6]]. [[Dick Mixon]] became Open Lord at the end of [[Session 7]], but Laeral's resulting position and the circumstances of the transition were not recorded.
 
 ## Session 6
 
@@ -25,4 +26,9 @@ Laeral Silverhand is the Open Lord of Waterdeep.
 - Showed genuine interest in [[Cordan]]'s Feywild star map and the possibility of creating equivalent Material Plane star-map crystals.
 
 Dick directly told Laeral that he wanted to become the next Open Lord and believed he could perform the role better because he actively wanted it.
+
+## Session 7
+
+- Helped arrange a meeting involving [[Elzerina Cassalanter]], [[Terenzio Cassalanter]], and [[Ammalia Cassalanter]] while the party sought a way to protect the twins.
+- Was described as helping where she could with the effort to save the children.
 

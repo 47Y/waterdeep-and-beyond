@@ -19,7 +19,7 @@ Full notes: [[Session 6]] · All recaps: [[Recaps]]
 - **Grell mission:** An Emerald Enclave messenger reported that the [[Xanathar Guild]] was releasing monsters as distractions. The party killed two [[Grell|grells]] in the Dock Ward. The four Enclave members reached **3 renown** and each received a [[Charm of Heroism]].
 - **Victoro exposed:** At [[Dick's Manor]], Dick posed as a favored servant of [[Asmodeus]] and deceived [[Victoro Cassalanter]] into confessing to years of sacrifices and a final payment of **999,999 gp and 99 souls** due on [[Founders' Day]].
 - **Cassalanters arrested:** [[Laeral Silverhand]] detained Victoro, [[Ammalia Cassalanter]], the twins, guards, and staff. Approximately **980,000 gp** was found beneath [[Cassalanter Villa]].
-- **Twins endangered:** Ammalia revealed that failure to complete the bargain would forfeit the souls of [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]]. The party intends to find a way to protect them.
+- **Twins endangered:** Ammalia revealed that failure to complete the bargain would forfeit the souls of [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]]. Their rescue is continued in [[Session 7]].
 - **Estate resources:** The party now owns resources from the Cassalanter estate, but the complete inventory and final disposition await DM clarification.
-- **Unresolved:** The true bank robbers, the abducted woman's fate, grell-poison harvesting, the estate inventory, and how to save the twins.
+- **Unresolved at the end of Session 6:** The true bank robbers, the abducted woman's fate, grell-poison harvesting, and the estate inventory.
 

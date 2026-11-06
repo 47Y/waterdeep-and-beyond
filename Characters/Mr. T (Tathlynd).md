@@ -26,7 +26,7 @@ tags:
 - Alignment: Chaotic Good.
 - Gender: Male.
 - Appearance: dark gray skin, extensive scars from punishments in drow society, lavender mohawk, glowing violet eyes, 6' tall, 145 lb.
-- Faith: Eilistraee.
+- Faith: [[Eilistraee]].
 - Deserted drow society during his first raid.
 - Was hunted by four members of the raid and nearly killed.
 - Rescued by an ancient dragon named [[Dirlem]], who later brought him to an elven settlement and vouched for him.
@@ -92,6 +92,15 @@ tags:
 - Gained 2 Enclave renown, reaching 3, and received a [[Charm of Heroism]].
 - Asked [[Melannor Fellbranch]] about [[Asmodeus]] and was warned that he is the supreme master of the Nine Hells.
 - Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+
+### Session 7
+
+- Bought a silver sword, moon lilies, incense, and candles before appealing to [[Eilistraee]] for help protecting the [[Cassalanter Children|Cassalanter twins]].
+- Received Eilistraee's promise to try to claim and protect the twins' souls.
+- Led prayers at the [[Temple of Eilistraee]] while Eilistraee saved the twins from [[Asmodeus]].
+- Received a letter from [[Hlam]] asking the party to help choirmaster [[Gwendolan]].
+- Helped recover all eight missing [[Campestri]], including retrieving two from a twenty-foot rocky outcrop.
+- Returned to Hlam with tea, books, and news about the choirmaster.
 
 ## Mechanical Snapshot
 

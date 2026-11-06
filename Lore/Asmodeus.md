@@ -5,6 +5,7 @@ source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
   - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - lore
   - deity
@@ -19,4 +20,6 @@ Cordan suspected the ritual language was Infernal because of its apparent connec
 [[Seffia Naelryke]] reported a rumor that danger to the [[Cassalanter Children]] was connected to a deal involving Asmodeus. She did not know the deal's terms.
 
 [[Victoro Cassalanter]] and [[Ammalia Cassalanter]] later confirmed that the bargain demanded 999,999 gp and 99 souls. If they failed, Asmodeus would instead take the souls of [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]].
+
+On [[Founders' Day]], Asmodeus's claim on the twins was challenged at the [[Temple of Eilistraee]]. [[Eilistraee]] prevailed, and the twins' souls were saved.
 

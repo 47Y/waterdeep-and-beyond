@@ -19,6 +19,8 @@ tags:
 
 The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offered each member 100 gp for one season of work, with half paid in advance, a possible performance bonus, and required equipment supplied. The work could be anything Dick needed as long as it did not seem morally reprehensible. [[Joe Bauers]] was the only member who did not agree immediately.
 
+During [[Session 7]], Dick paid the party for their time working for him and offered another year of employment. The amount, terms, acceptance, and whether this concluded the original one-season contract remain unconfirmed.
+
 ## Property
 
 - [[Trollskull Manor]], acquired as payment from [[Volothamp Geddarm|Volo]] for rescuing [[Floon Blagmaar]].
@@ -29,7 +31,8 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 - [[Lilith D Gluv]] was released after all charges connected to [[Cassalanter Villa]] were dropped.
 - Trollskull Manor is being renovated for use as a tavern.
 - Current negotiated renovation cost: 1,000 gp total as of [[Session 3]].
-- The proposed six-month downtime has not begun. See [[Planned Six-Month Downtime]].
+- A downtime period began and ended during [[Session 7]]. Whether it was the proposed six-month downtime, and which proposed activities were completed, remain unconfirmed. See [[Planned Six-Month Downtime]].
+- [[Dick Mixon]] became Open Lord of Waterdeep at the end of Session 7; the transition details remain unknown.
 
 ## Faction Memberships
 
@@ -38,7 +41,7 @@ The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offe
 
 ## Current Investigation
 
-The party exposed [[Victoro Cassalanter]]'s bargain with [[Asmodeus]], leading [[Laeral Silverhand]] to detain Victoro, [[Ammalia Cassalanter]], their children, guards, and staff. The party is now trying to protect [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from forfeiting their souls under the bargain.
+The party exposed [[Victoro Cassalanter]]'s bargain with [[Asmodeus]], leading [[Laeral Silverhand]] to detain Victoro, [[Ammalia Cassalanter]], their children, guards, and staff. On [[Founders' Day]], the party helped [[Eilistraee]] save [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from forfeiting their souls. See [[Save the Cassalanter Twins]].
 
 The perpetrators of the [[Investigate the Bank Robberies|bank robberies]] being blamed on the [[Zhentarim]] remain unknown.
 
@@ -50,3 +53,7 @@ The perpetrators of the [[Investigate the Bank Robberies|bank robberies]] being 
 - [[Dick Mixon]] holds the thirty gemstones worth 100 gp each.
 - The [[Vault Side-Room Treasure]] is stored with the remaining Vault assets beneath [[Dick's Manor]].
 - Approximately 980,000 gp and other resources were found at [[Cassalanter Villa]]. The party now owns estate resources, but the complete inventory and final disposition are pending DM clarification and are not treated as available funds.
+
+## Other Shared Resources
+
+- Approximately 150 pounds of [[Wyvern Hide]].

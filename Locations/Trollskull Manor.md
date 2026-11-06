@@ -5,6 +5,7 @@ source:
   - Raw Notes/Session 1.md
   - Raw Notes/Session 2.md
   - Raw Notes/Session 3.md
+  - Raw Notes/Session 7.md
 tags:
   - location
   - waterdeep
@@ -36,3 +37,7 @@ tags:
 
 - [[Waterdeep Guilds and Business]]
 - [[Waterdeep Money and Taxes]]
+
+## Session 7
+
+After completing [[Recover Gwendolan's Campestri]], the party invited [[Gwendolan]] and her Campestri choir to the planned grand opening.

@@ -1,7 +1,9 @@
 ---
 type: plan
-status: deferred
-source: Raw Notes/Session 6.md
+status: awaiting clarification
+source:
+  - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - plan
   - downtime
@@ -9,7 +11,7 @@ tags:
 
 # Planned Six-Month Downtime
 
-These activities have **not happened**. The downtime is not expected to begin for at least another session or two.
+[[Session 7]] included a downtime period that began and ended. The source does not state its duration or confirm that it was the previously proposed six-month downtime. None of the activities below are treated as completed without clarification.
 
 - [[Twizzle]] plans to seek +1 half plate and watch the guards for unusual activity.
 - [[Lilith D Gluv]] plans to acquire the best full plate available and research monsters.

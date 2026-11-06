@@ -83,6 +83,12 @@ tags:
 - Helped kill two [[Grell|grells]] in the Dock Ward.
 - Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
 
+### Session 7
+
+- Appealed to [[Tyr]] at the [[Temple of Tyr]] for help protecting the [[Cassalanter Children|Cassalanter twins]]. Darkness and unnatural cold followed her prayer, leading her to believe she had angered Tyr.
+- Offered her greataxe during the effort to save the twins. Whether it was permanently surrendered is unknown.
+- Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
@@ -203,3 +209,5 @@ These values predate later campaign transactions. See [[Party#Finances]] for the
 
 - What are Lilith's ideals, bonds, flaws, personality, and backstory?
 - What prior connection does Lilith have with Dick?
+- Why does Lilith believe she angered Tyr?
+- Did Lilith permanently surrender her greataxe while praying for the Cassalanter twins?

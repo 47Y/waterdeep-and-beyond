@@ -15,3 +15,4 @@ For short bullet-point summaries, see [[Recaps]].
 - [[Session 4]]
 - [[Session 5]]
 - [[Session 6]]
+- [[Session 7]]

@@ -108,6 +108,5 @@ The party now owns resources from the Cassalanter estate, but the DM has not yet
 - Was the elderly woman abducted by the grell rescued?
 - Can Cordan safely collect and use grell paralytic poison?
 - What is the complete inventory of Cassalanter estate resources now owned by the party?
-- Can the party save Elzerina and Terenzio from the Asmodean bargain, and how?
 - Who was the Secret Lord Dick suspected of supporting the Cassalanters?
 

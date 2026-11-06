@@ -5,6 +5,7 @@ source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
   - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - npc
   - noble
@@ -25,4 +26,8 @@ Ammalia Cassalanter resides at [[Cassalanter Villa]].
 ## Confession and Arrest
 
 Ammalia was detained during the raid on [[Cassalanter Villa]]. She disclosed the bargain with [[Asmodeus]]: the family owed 999,999 gp and 99 souls, and failure would forfeit the souls of [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]]. She cooperated because she wanted to protect the twins.
+
+## Session 7
+
+A meeting involving Ammalia and the twins was arranged while the party sought divine protection for them. Ammalia told the children to study hard. The twins' souls were later saved through [[Eilistraee]]'s intervention.
 

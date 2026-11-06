@@ -102,6 +102,12 @@ tags:
 - Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
 - Bound Victoro with manacles after his confession.
 
+### Session 7
+
+- Entertained [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] with hide-and-seek at [[Dick's Manor]].
+- Offered his spear during the prayers that helped [[Eilistraee]] save the twins' souls. Whether the spear was permanently surrendered is unknown.
+- Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 5 class distribution and mechanics have not yet been provided.

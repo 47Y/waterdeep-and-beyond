@@ -7,6 +7,7 @@ source:
   - Raw Notes/Session 4.md
   - Raw Notes/Session 5.md
   - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - location
   - waterdeep
@@ -25,3 +26,5 @@ During [[Session 5]], [[Dick Mixon]] questioned [[Arn Xalrondar]] and [[Seffia N
 The [[Vault Side-Room Treasure]] and remaining party Vault assets are stored in the manor's vault. Dick personally holds the thirty gemstones received from [[Aurinax]].
 
 During [[Session 6]], the manor hosted the recorded meeting in which [[Victoro Cassalanter]] confessed. [[Laeral Silverhand]], [[Lilith D Gluv]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] observed from a hidden adjacent scrying room while [[Cordan]] concealed himself in the study ceiling.
+
+During [[Session 7]], Joe entertained [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] here with hide-and-seek while the party sought a way to protect their souls.

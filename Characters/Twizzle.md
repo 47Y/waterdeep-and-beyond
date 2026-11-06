@@ -24,12 +24,12 @@ tags:
 - Age: 80.
 - Gender: Female.
 - Alignment: chaotic good.
-- Faith: Hadar.
+- Faith: [[Hadar]].
 - Appearance: hazel eyes, dark brown hair, light skin, 6'3", 150 lb.
 - Survivor of a vicious attack on her family's merchant ship.
 - Suspects corrupt guards or lords were responsible.
 - Is in hiding because she suspects they are looking for her.
-- Contact: [[Obaya Uday]], a cleric of Waukeen. The nature of their connection is unknown.
+- Contact: [[Obaya Uday]], a cleric of [[Waukeen]]. The nature of their connection is unknown.
 - Trait: never passes up a friendly wager.
 - Ideal: Fairness.
 - Bond: has a paramour in a harbor town whose eyes nearly stole her from the sea.
@@ -83,6 +83,13 @@ tags:
 - Helped kill two [[Grell|grells]] in the Dock Ward.
 - Gained 2 [[Emerald Enclave]] renown, reaching 3, and received a [[Charm of Heroism]].
 - Waited in the hidden scrying room during [[Dick Mixon]]'s meeting with [[Victoro Cassalanter]].
+
+### Session 7
+
+- Contacted [[Hadar]] with a drop of blood and a prayer while seeking help for the [[Cassalanter Children|Cassalanter twins]]. She experienced a sensation of being underwater followed by amusement and indifference; Hadar did not help.
+- Joined the prayers at the [[Temple of Eilistraee]] that saved the twins' souls.
+- Shot a moving bag carried by an old man, injuring his hand and freeing two [[Campestri]]. She tied him up and questioned him before releasing him.
+- Helped recover all eight missing Campestri for [[Gwendolan]].
 
 ## Mechanical Snapshot
 
