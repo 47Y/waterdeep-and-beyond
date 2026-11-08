@@ -8,4 +8,4 @@ After the ceremony, Dick and the party walked to The Black Key (the tavern/casin
 
 This is the grand opening of The Black Key. Dick set up on the second floor in the VIP booth so people could come visit him with some amount of privacy without being completely secluded.
 
-The Black Key has its own folder in the notes section with details provided by Joe's player. 
+The Black Key has its own folder in the notes section with details provided by Joe's player. I don't know if it provides information about the tavern or inn sections of the business. Today's events are Sausage Roulette, Pit Fighting, Beholder's Eye Darts, and Lizard Races in the evening.

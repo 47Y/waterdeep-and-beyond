@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raw Notes/Session 8.md",
+                "file": "The Black Key/Arena Combat Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8"
+              "title": "Arena Combat Rules"
             }
           }
         ]
@@ -197,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bd21bc6e8309ec9",
+  "active": "1b68223990a6f798",
   "lastOpenFiles": [
-    "Raw Notes/Session 7.md",
+    "The Black Key/Arena/Yearly/1 - Champion (Pit Fighter).md",
     "Raw Notes/Session 8.md",
+    "Raw Notes/Session 7.md",
     "Recaps/Session 7 Recap.md",
     "Games/Drunk Track.md",
     "Games/Casino/Rotating/1 - Liar's Bones.md",
@@ -224,7 +225,6 @@
     "Lore/Eilistraee.md",
     "Locations/Temple of Tyr.md",
     "Locations/Temple of Eilistraee.md",
-    "NPCs/Campestri.md",
     "Plans",
     "Events",
     "Quests",
