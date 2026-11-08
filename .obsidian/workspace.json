@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Proposition Betting.md",
-                "mode": "preview",
+                "file": "Raw Notes/Session 7.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposition Betting"
+              "title": "Session 7"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "1b68223990a6f798",
   "lastOpenFiles": [
+    "Recaps/Session 7 Recap.md",
     "Games/Drunk Track.md",
     "Games/Casino/Rotating/1 - Liar's Bones.md",
     "Games/Casino/Rotating/1 - Bones of Fortune.md",
@@ -224,7 +225,6 @@
     "Locations/Temple of Eilistraee.md",
     "NPCs/Campestri.md",
     "NPCs/Cassalanter Older Son.md",
-    "NPCs/Gwendolan.md",
     "Plans",
     "Events",
     "Quests",
