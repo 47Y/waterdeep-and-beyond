@@ -13,7 +13,7 @@ tags:
 
 # Cassalanter Children
 
-According to rumors shared by [[Seffia Naelryke]], the oldest Cassalanter child disappeared several years ago. During [[Session 7]], the party learned that a chain devil chained in the attic of [[Cassalanter Villa]] was the missing [[Cassalanter Older Son|older son]]. His recorded name and exact condition remain unconfirmed.
+According to rumors shared by [[Seffia Naelryke]], the oldest Cassalanter child disappeared several years ago. During [[Session 7]], the party learned that the missing child was [[Osvaldo Cassalanter]], who had been transformed into a chain devil and chained in the attic of [[Cassalanter Villa]].
 
 The two remaining children are [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]]. [[Ammalia Cassalanter]] confessed that if the family failed to deliver 999,999 gp and 99 souls to [[Asmodeus]], the twins' souls would be taken instead.
 

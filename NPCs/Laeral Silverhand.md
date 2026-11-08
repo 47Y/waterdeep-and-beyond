@@ -13,7 +13,7 @@ tags:
 
 # Laeral Silverhand
 
-Laeral Silverhand was the Open Lord of Waterdeep through [[Session 6]]. [[Dick Mixon]] became Open Lord at the end of [[Session 7]], but Laeral's resulting position and the circumstances of the transition were not recorded.
+Laeral Silverhand was the Open Lord of Waterdeep through [[Session 6]]. After [[Dick Mixon]] interviewed with the [[Lords of Waterdeep]] and became Open Lord at the end of [[Session 7]], Laeral became an advisor. No other role was disclosed to the players.
 
 ## Session 6
 
@@ -31,4 +31,6 @@ Dick directly told Laeral that he wanted to become the next Open Lord and believ
 
 - Helped arrange a meeting involving [[Elzerina Cassalanter]], [[Terenzio Cassalanter]], and [[Ammalia Cassalanter]] while the party sought a way to protect the twins.
 - Was described as helping where she could with the effort to save the children.
+- Worked with [[Cordan]] at various points during the six-month downtime to discuss and study the stars.
+- Became an advisor after Dick's appointment as Open Lord; no other role was disclosed to the players.
 

@@ -3,7 +3,7 @@ type: session
 session: 7
 status: completed
 source: Raw Notes/Session 7.md
-source_note: Reported by Lilith's player; Cordan's player was absent.
+source_note: Reported by Lilith's player because Cordan's player was absent; ambiguities clarified by the user on 2026-11-08.
 tags:
   - session
 ---
@@ -25,19 +25,19 @@ The twins were enrolled in Eilistraee's church. Each received a coin bearing Dic
 
 ## The Older Cassalanter Son
 
-In a privately handled continuity addition, the party learned that a chain devil was chained in the attic of [[Cassalanter Villa]] and was the Cassalanters' older son. The session notes record his name as “El Waldo,” but the spelling and the exact nature of his condition remain unconfirmed. See [[Cassalanter Older Son]].
+In a privately handled continuity addition, the party learned that [[Osvaldo Cassalanter]], the Cassalanters' older son, had been transformed into a chain devil and chained in the attic of [[Cassalanter Villa]].
 
 ## Founders' Day and the Twins' Souls
 
 On [[Founders' Day]], the party watched over the twins' room. During the night, Elzerina began screaming and lost consciousness while Terenzio appeared possessed. Everyone except Twizzle entered the room.
 
-The party carried the children to the [[Temple of Eilistraee]], collecting Twizzle on the way. Dick used Sending to warn the temple's high priestess. Tathlynd prayed while Dick helped by singing “Somewhere Over the Rainbow.” Lilith offered her greataxe, Joe offered his spear, and Twizzle joined the prayers.
+The party carried the children to the [[Temple of Eilistraee]], collecting Twizzle on the way. Dick used Sending to warn the temple's high priestess. Tathlynd prayed while Dick helped by singing “Somewhere Over the Rainbow.” Lilith permanently surrendered her greataxe, Joe permanently surrendered his spear, and Twizzle joined the prayers. Lilith and Joe later obtained replacements for the surrendered weapons.
 
 The unconscious children screamed while the party perceived the gods as battling over their souls. Eilistraee prevailed, the screaming stopped, and the twins' souls were saved from Asmodeus.
 
 ## Downtime
 
-A downtime period began and ended during the session. The notes do not establish its duration or confirm whether it was the previously proposed six-month downtime. None of the activities in [[Planned Six-Month Downtime]] are treated as completed without clarification.
+The previously proposed six-month downtime began and ended during the session. Based on current player recollection, all activities in [[Planned Six-Month Downtime]] were completed. [[Cordan]] spent portions of the downtime working with [[Laeral Silverhand]] to discuss and study the stars.
 
 During the downtime, [[Mr. T (Tathlynd)]] received a letter from [[Hlam]] asking the party to help a stranded choirmaster named [[Gwendolan]]. Eight mushroom singers had gone missing in four pairs.
 
@@ -49,11 +49,11 @@ Twizzle tied up and questioned the man while Dick healed him. He said he had not
 
 The first pair wanted to return to Gwendolan and appeared happy after the party brought them back. The party then recovered the remaining six:
 
-- Two described as the altos were rescued after the party killed a giant mollusk-like creature occupying a foul-smelling cave.
+- Two described as the altos were rescued after the party killed a [[Giant Snail|giant snail]] occupying a foul-smelling cave.
 - Two tenors were found singing in a flowered clearing atop a twenty-foot rocky outcrop. Tathlynd retrieved them. A wyvern attacked, and the party killed and skinned it.
 - The final two were found dehydrating at a bandit camp. The party killed the bandits, healed the Campestri, and extinguished a fire Dick had started during the fight by using the wyvern hide.
 
-All eight Campestri were returned to Gwendolan. The party invited her and the choir to the grand opening of [[Trollskull Manor]]. After the rescue, the party retained approximately 150 pounds of [[Wyvern Hide]].
+All eight Campestri were members of Gwendolan's choir and were not slaves. They were returned to Gwendolan, and the party invited her and the choir to the grand opening of [[Trollskull Manor]]. After the rescue, the party retained approximately 150 pounds of [[Wyvern Hide]].
 
 Dick paid the party for their time working for him and offered to employ them for another year. The amount, exact terms, acceptance, and whether this concluded the original one-season contract were not recorded.
 
@@ -61,16 +61,11 @@ Tathlynd later returned to Hlam with tea, books, and news of the choirmaster.
 
 ## New Open Lord
 
-At the end of the session, [[Dick Mixon]] became the Open Lord of [[Waterdeep]]. The circumstances of the transition and [[Laeral Silverhand]]'s resulting position were not recorded.
+At the end of the session, [[Dick Mixon]] interviewed with the [[Lords of Waterdeep]] and became the Open Lord of [[Waterdeep]]. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 
 ## Open Questions
 
-- Is the older Cassalanter son's name really “El Waldo,” and was he transformed into a chain devil or otherwise connected to it?
 - Are “Archbishop Francis” and his title spelled correctly?
-- Were Lilith's greataxe and Joe's spear permanently surrendered during the prayers?
-- Was this the planned six-month downtime, and which previously proposed downtime activities were completed?
-- Is “Gwendolan” the correct spelling, and what is her exact relationship to the Campestri described in the source as “slave singers”?
-- What was the giant mollusk-like creature in the cave?
+- Is “Gwendolan” the correct spelling?
 - How much did Dick pay the party, did they accept his offer for another year, and did this conclude the original one-season contract?
-- How did Dick become Open Lord, and what is Laeral Silverhand's current role?
 

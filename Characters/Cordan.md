@@ -119,6 +119,11 @@ tags:
 - Attempted Hold Person on [[Victoro Cassalanter]], but Victoro resisted.
 - Helped heal injured guards during the raid on Cassalanter Villa.
 
+### Session 7
+
+- Spent portions of the six-month downtime working with [[Laeral Silverhand]] to discuss and study the stars.
+- Continued investigating the [[Starless Convergence]] and comparing celestial information from the Feywild and Material Plane.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

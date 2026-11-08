@@ -31,3 +31,5 @@ Ammalia was detained during the raid on [[Cassalanter Villa]]. She disclosed the
 
 A meeting involving Ammalia and the twins was arranged while the party sought divine protection for them. Ammalia told the children to study hard. The twins' souls were later saved through [[Eilistraee]]'s intervention.
 
+The party also learned that Ammalia's missing older son, [[Osvaldo Cassalanter]], had been transformed into a chain devil and chained in the attic of [[Cassalanter Villa]].
+

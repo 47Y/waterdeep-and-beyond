@@ -101,6 +101,7 @@ tags:
 - Received a letter from [[Hlam]] asking the party to help choirmaster [[Gwendolan]].
 - Helped recover all eight missing [[Campestri]], including retrieving two from a twenty-foot rocky outcrop.
 - Returned to Hlam with tea, books, and news about the choirmaster.
+- During the six-month downtime, pursued equipment upgrades and hunted or gathered for income and sustenance. The exact upgrades and proceeds were not recorded.
 
 ## Mechanical Snapshot
 

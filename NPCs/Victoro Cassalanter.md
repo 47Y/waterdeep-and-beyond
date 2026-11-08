@@ -37,3 +37,5 @@ During a recorded meeting at [[Dick's Manor]], Victoro confessed that:
 
 He swore by Asmodeus that receiving the Stone would let him honor the contract. [[Laeral Silverhand]] then entered, and [[Joe Bauers]] placed him in manacles. Victoro was taken into custody without further resistance.
 
+During [[Session 7]], the party learned that Victoro's missing older son, [[Osvaldo Cassalanter]], had been transformed into a chain devil and chained in the attic of [[Cassalanter Villa]].
+

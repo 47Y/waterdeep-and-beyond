@@ -12,7 +12,7 @@ During downtime, [[Hlam]] contacted [[Mr. T (Tathlynd)]] about a stranded choirm
 
 ## Outcome
 
-The party recovered all eight Campestri from a would-be cook, a giant mollusk-like creature, a wyvern encounter, and a bandit camp. The Campestri were returned to Gwendolan, who was invited to the grand opening of [[Trollskull Manor]].
+The party recovered all eight Campestri from a would-be cook, a [[Giant Snail|giant snail]], a wyvern encounter, and a bandit camp. The Campestri were returned to Gwendolan, who was invited to the grand opening of [[Trollskull Manor]].
 
-Whether the Campestri were free choir members or were controlled by Gwendolan remains unclear because the source called them “slave singers,” although the first rescued pair wanted to return and appeared happy afterward.
+The Campestri were members of Gwendolan's choir and were not slaves.
 

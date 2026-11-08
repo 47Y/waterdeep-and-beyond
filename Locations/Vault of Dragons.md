@@ -22,6 +22,8 @@ The party opened the Vault beneath the [[Old Tower]] during [[Session 5]].
 - A hidden passage opened by speaking a secret never before told in Dwarvish.
 - A lower chamber containing the hoard guarded by [[Aurinax]].
 
+During the six-month downtime in [[Session 7]], [[Dick Mixon]] removed, dismantled, and sold the Vault's adamantine entrance doors to fund [[Dick's Magical Retail Network]].
+
 ## Recovered Wealth
 
 The primary hoard contained 500,000 gp. [[Aurinax]] also released thirty gemstones worth 100 gp each.

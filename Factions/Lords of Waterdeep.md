@@ -13,8 +13,8 @@ tags:
 
 [[Waterdeep]] is governed by an Open Lord and a council of Masked Lords.
 
-- **Current Open Lord:** [[Dick Mixon]], who took office at the end of [[Session 7]]. The circumstances of the transition are unknown.
-- **Previous Open Lord:** [[Laeral Silverhand]], as identified in Volo's guide and confirmed through Session 6. Her current role is unknown.
+- **Current Open Lord:** [[Dick Mixon]], who took office after interviewing with the Lords at the end of [[Session 7]].
+- **Previous Open Lord:** [[Laeral Silverhand]], as identified in Volo's guide and confirmed through Session 6. She now serves as an advisor; no other role was disclosed to the players.
 - The other lords' identities are concealed to protect them from bribery and threats. Ahghairon established this system in 1032 DR.
 - Government business and audiences are held at the [[Palace of Waterdeep]]. Castle Waterdeep serves as a defensive stronghold.
 - A Masked Lord can overturn a magister's ruling under the [[Code Legal]].

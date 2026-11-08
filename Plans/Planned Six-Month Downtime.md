@@ -1,22 +1,23 @@
 ---
 type: plan
-status: awaiting clarification
+status: completed
 source:
   - Raw Notes/Session 6.md
   - Raw Notes/Session 7.md
+source_note: Completion and Cordan's activity clarified by the user on 2026-11-08.
 tags:
   - plan
   - downtime
 ---
 
-# Planned Six-Month Downtime
+# Six-Month Downtime
 
-[[Session 7]] included a downtime period that began and ended. The source does not state its duration or confirm that it was the previously proposed six-month downtime. None of the activities below are treated as completed without clarification.
+The planned six-month downtime began and ended during [[Session 7]]. Based on current player recollection, all proposed activities were completed. Detailed results were not provided for every activity.
 
-- [[Twizzle]] plans to seek +1 half plate and watch the guards for unusual activity.
-- [[Lilith D Gluv]] plans to acquire the best full plate available and research monsters.
-- [[Mr. T (Tathlynd)]] plans to seek equipment upgrades and hunt or gather for income and sustenance.
-- [[Joe Bauers]] plans to establish an arena fighting pit and casino with guest rooms as the beginning of an information network.
-- [[Dick Mixon]] plans to remove, dismantle, and sell the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
-- [[Cordan]] plans to focus on investigating the stars and the [[Starless Convergence]].
+- [[Twizzle]] obtained +1 half plate and watched the guards for unusual activity. No results from that surveillance were recorded.
+- [[Lilith D Gluv]] acquired the best full plate available to her and researched monsters. The armor's exact properties and research findings were not recorded.
+- [[Mr. T (Tathlynd)]] pursued equipment upgrades and hunted or gathered for income and sustenance. The exact upgrades and proceeds were not recorded.
+- [[Joe Bauers]] established an arena fighting pit and casino with guest rooms as the beginning of an information network. Further operational details were not recorded in the session notes.
+- [[Dick Mixon]] removed, dismantled, and sold the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
+- [[Cordan]] investigated the stars and the [[Starless Convergence]], working with [[Laeral Silverhand]] at various points to discuss and study the stars.
 

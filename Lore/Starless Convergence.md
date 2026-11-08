@@ -26,6 +26,7 @@ The Starless Convergence is a rare celestial phenomenon witnessed by [[Cordan]] 
 - He believes the Material Plane sky may contain information unavailable in [[Astraelith]].
 - He compares Feywild stars with Material Plane stars.
 - He keeps most of this research private.
+- During the six-month downtime in [[Session 7]], he worked with [[Laeral Silverhand]] at various points to discuss and study the stars.
 
 ## Open Questions
 

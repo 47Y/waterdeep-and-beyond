@@ -39,5 +39,5 @@ The group's formal name remains unknown.
 ## Session 7
 
 - [[Eilistraee]] saved [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from Asmodeus's claim on [[Founders' Day]].
-- The party learned that a chain devil chained in the villa attic was the missing [[Cassalanter Older Son|older Cassalanter son]], though his name and exact condition remain unconfirmed.
+- The party learned that [[Osvaldo Cassalanter]], the missing older Cassalanter son, had been transformed into a chain devil and chained in the villa attic.
 

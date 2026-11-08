@@ -23,7 +23,7 @@ tags:
 
 - Alignment: Unknown.
 - Ideals, bonds, flaws, appearance, and personality: To be added.
-- Became Open Lord of Waterdeep at the end of [[Session 7]]. The circumstances of the transition are unknown.
+- Became Open Lord of Waterdeep after interviewing with the [[Lords of Waterdeep]] at the end of [[Session 7]]. [[Laeral Silverhand]] now serves as an advisor.
 - While attuned to the Stone, becomes blinded if more than 10 feet away from it.
 - Plans to create [[Dick's Magical Retail Network]], a worldwide magic-item business using pocket-dimensional storage and a Feywild entity as inventory manager. The plan is not yet operational.
 
@@ -112,7 +112,8 @@ tags:
 - Identified the missing mushroom singers as [[Campestri]] that were not under any spells.
 - Helped recover all eight Campestri and invited [[Gwendolan]] and the choir to the grand opening of [[Trollskull Manor]].
 - Paid the party for their time working for him and offered another year of employment. The amount, terms, and acceptance are unknown.
-- Became Open Lord of [[Waterdeep]] at the end of the session. The circumstances of the transition are unknown.
+- During the six-month downtime, removed, dismantled, and sold the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
+- Interviewed with the [[Lords of Waterdeep]] and became Open Lord of [[Waterdeep]]. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 
 ## Mechanical Snapshot
 

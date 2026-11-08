@@ -9,7 +9,7 @@ tags:
 
 # Gwendolan
 
-Gwendolan is a choirmaster whose eight [[Campestri]] singers went missing while she was delayed during travel. [[Hlam]] asked the party to help her.
+Gwendolan is a choirmaster whose eight [[Campestri]] choir members went missing while she was delayed during travel. They were not slaves. [[Hlam]] asked the party to help her.
 
-The party recovered all eight Campestri and invited Gwendolan and the choir to the grand opening of [[Trollskull Manor]]. Her name's spelling and her exact relationship to the Campestri remain unconfirmed.
+The party recovered all eight Campestri and invited Gwendolan and the choir to the grand opening of [[Trollskull Manor]]. Her name's spelling remains unconfirmed.
 

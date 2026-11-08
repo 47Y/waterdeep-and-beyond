@@ -31,8 +31,8 @@ During [[Session 7]], Dick paid the party for their time working for him and off
 - [[Lilith D Gluv]] was released after all charges connected to [[Cassalanter Villa]] were dropped.
 - Trollskull Manor is being renovated for use as a tavern.
 - Current negotiated renovation cost: 1,000 gp total as of [[Session 3]].
-- A downtime period began and ended during [[Session 7]]. Whether it was the proposed six-month downtime, and which proposed activities were completed, remain unconfirmed. See [[Planned Six-Month Downtime]].
-- [[Dick Mixon]] became Open Lord of Waterdeep at the end of Session 7; the transition details remain unknown.
+- The planned [[Planned Six-Month Downtime|six-month downtime]] was completed during [[Session 7]]. Based on current player recollection, all proposed activities occurred.
+- After interviewing with the [[Lords of Waterdeep]], [[Dick Mixon]] became Open Lord. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 
 ## Faction Memberships
 

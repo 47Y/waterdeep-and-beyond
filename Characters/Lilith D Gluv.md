@@ -86,8 +86,9 @@ tags:
 ### Session 7
 
 - Appealed to [[Tyr]] at the [[Temple of Tyr]] for help protecting the [[Cassalanter Children|Cassalanter twins]]. Darkness and unnatural cold followed her prayer, leading her to believe she had angered Tyr.
-- Offered her greataxe during the effort to save the twins. Whether it was permanently surrendered is unknown.
+- Permanently surrendered her greataxe during the effort to save the twins, then obtained a replacement greataxe.
 - Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
+- During the six-month downtime, acquired the best full plate available to her and researched monsters. The armor's exact properties and her research findings were not recorded.
 
 ## Mechanical Snapshot
 
@@ -166,7 +167,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3X
 - Chain Mail.
 - Amulet.
 - Maul.
-- Greataxe.
+- Replacement Greataxe.
 - 5 Javelins.
 - Dagger.
 - Manacles.
@@ -194,6 +195,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3X
 - 2 blocks of Incense.
 - Censer.
 - Vestments.
+- Full Plate acquired during the six-month downtime; exact properties and equipped status were not recorded.
 
 ## Currency (Foundry Snapshot)
 
@@ -210,4 +212,3 @@ These values predate later campaign transactions. See [[Party#Finances]] for the
 - What are Lilith's ideals, bonds, flaws, personality, and backstory?
 - What prior connection does Lilith have with Dick?
 - Why does Lilith believe she angered Tyr?
-- Did Lilith permanently surrender her greataxe while praying for the Cassalanter twins?

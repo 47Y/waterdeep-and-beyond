@@ -1,7 +1,9 @@
 ---
 type: plan
-status: early-planning
-source: Raw Notes/Session 6.md
+status: funded development
+source:
+  - Raw Notes/Session 6.md
+  - Raw Notes/Session 7.md
 tags:
   - plan
   - business
@@ -19,5 +21,7 @@ Out of character, this concept is called "Magical Wal-Mart." That is not current
 - Magically transport requested items to individual stores.
 - Employ enchanters to build inventory before storage and distribution are operational.
 
-Dick hopes [[Cordan]] can help contact a suitable Feywild entity. No entity, pocket dimension, store location, or confirmed hire has yet been established.
+Dick funded development of the network during the six-month downtime by removing, dismantling, and selling the adamantine doors from the [[Vault of Dragons]].
+
+Dick hopes [[Cordan]] can help contact a suitable Feywild entity. No entity, pocket dimension, store location, or confirmed hire has yet been established, and the network is not yet confirmed operational.
 

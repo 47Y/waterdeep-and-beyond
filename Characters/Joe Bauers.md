@@ -105,8 +105,9 @@ tags:
 ### Session 7
 
 - Entertained [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] with hide-and-seek at [[Dick's Manor]].
-- Offered his spear during the prayers that helped [[Eilistraee]] save the twins' souls. Whether the spear was permanently surrendered is unknown.
+- Permanently surrendered his spear during the prayers that helped [[Eilistraee]] save the twins' souls, then obtained a replacement spear.
 - Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
+- During the six-month downtime, established an arena fighting pit and casino with guest rooms as the beginning of an information network.
 
 ## Mechanical Snapshot
 
@@ -168,7 +169,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LUL
 ### Equipped
 
 - Shield.
-- Spear.
+- Replacement Spear.
 - 5 Javelins.
 - +1 Half Plate.
 - Handaxe.

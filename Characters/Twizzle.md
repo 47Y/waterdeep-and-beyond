@@ -90,6 +90,7 @@ tags:
 - Joined the prayers at the [[Temple of Eilistraee]] that saved the twins' souls.
 - Shot a moving bag carried by an old man, injuring his hand and freeing two [[Campestri]]. She tied him up and questioned him before releasing him.
 - Helped recover all eight missing Campestri for [[Gwendolan]].
+- During the six-month downtime, obtained +1 half plate and watched the guards for unusual activity. No surveillance results were recorded.
 
 ## Mechanical Snapshot
 
@@ -197,6 +198,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.j
 - Waterskin.
 - Hempen Rope, 50 feet.
 - Lucky Charm.
+- +1 Half Plate acquired during the six-month downtime; equipped status was not recorded.
 
 ## Currency (Foundry Snapshot)
 
