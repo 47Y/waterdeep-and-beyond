@@ -4,4 +4,8 @@ The session started with the ceremony for Dick taking over as Open Lord. The pre
 
 Various Lords/Ladies approached and gave gifts to Dick. After them, Dick had the party members approach and gave each of them various gifts. After that, others were able to approach and give him gifts or make their names known.
 
-After the ceremony, Dick and the party walked to The Black Key (the tavern/casino that Joe created during his downtime). The event had been advertised extensively so it became a sort of parade and everyone was encouraged to join in the festivities. This created a bit of a traffic jam but it wasn't too bad since the route and such was known ahead of time. Upon arrival at the Black Key, many people went to the nearby Market where banquet tables and various stalls were set up. Dick ensured that all food vendors were paid to provide food for free to everyone. Other stalls selling trinkets and such were not covered but 
+After the ceremony, Dick and the party walked to The Black Key (the tavern/casino that Joe created during his downtime). The event had been advertised extensively so it became a sort of parade and everyone was encouraged to join in the festivities. This created a bit of a traffic jam but it wasn't too bad since the route and such was known ahead of time. Upon arrival at the Black Key, many people went to the nearby Market where banquet tables and various stalls were set up. Dick ensured that all food vendors were paid to provide food for free to everyone. Other stalls selling trinkets and such were not covered but did exist. Dick also paid any nearby taverns to shut down for the day, only allowing alcohol to be served at The Black Key.
+
+This is the grand opening of The Black Key. Dick set up on the second floor in the VIP booth so people could come visit him with some amount of privacy without being completely secluded.
+
+The Black Key has its own folder in the notes section with details provided by Joe's player. 
