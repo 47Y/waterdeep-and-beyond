@@ -2,7 +2,9 @@
 type: faction
 status: known
 created: 2026-10-12
-source: Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
+source:
+  - Raw Notes/Session 8.md
+  - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
 tags:
   - faction
   - waterdeep
@@ -18,6 +20,12 @@ tags:
 - The other lords' identities are concealed to protect them from bribery and threats. Ahghairon established this system in 1032 DR.
 - Government business and audiences are held at the [[Palace of Waterdeep]]. Castle Waterdeep serves as a defensive stronghold.
 - A Masked Lord can overturn a magister's ruling under the [[Code Legal]].
+
+## Dick's Investiture
+
+[[Laeral Silverhand]] introduced [[Dick Mixon]] before the assembled nobles during [[Dick's Investiture as Open Lord]]. Dick knelt and placed the [[Crown of Silver Tongues]] on his head.
+
+Dick suspects [[Lord Zulpair]] may be one of the concealed Lords because Zulpair claimed other obligations prevented him from attending the ceremony. This is an inference, not confirmed evidence.
 
 ## Source
 

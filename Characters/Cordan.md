@@ -124,6 +124,15 @@ tags:
 - Spent portions of the six-month downtime working with [[Laeral Silverhand]] to discuss and study the stars.
 - Continued investigating the [[Starless Convergence]] and comparing celestial information from the Feywild and Material Plane.
 
+### Session 8
+
+- Fought a bandit captain at [[The Black Key]] and won by forfeit after several rounds.
+- Spotted two people cheating while gambling and used Faerie Fire to mark them for security.
+- Gave [[Twizzle]] a drink and subtly directed her away after she became aggressive toward [[Lord Zulpair]].
+- Hosted [[Bagman's Bet]], a Feywild storytelling game intended to share adventurers' experiences with ordinary people.
+- Watched the crowd while [[Laeral Silverhand]] discussed [[Laeral's Cubic Gate]].
+- Noticed a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest, wrote down identifying details, and planned to give the description to Laeral.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

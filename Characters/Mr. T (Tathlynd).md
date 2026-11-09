@@ -103,6 +103,11 @@ tags:
 - Returned to Hlam with tea, books, and news about the choirmaster.
 - During the six-month downtime, pursued equipment upgrades and hunted or gathered for income and sustenance. The exact upgrades and proceeds were not recorded.
 
+### Session 8
+
+- Attended [[The Black Key]]'s grand opening.
+- Was the only party member who did not participate in [[Bagman's Bet]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

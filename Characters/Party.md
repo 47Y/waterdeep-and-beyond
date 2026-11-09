@@ -33,6 +33,7 @@ During [[Session 7]], Dick paid the party for their time working for him and off
 - Current negotiated renovation cost: 1,000 gp total as of [[Session 3]].
 - The planned [[Planned Six-Month Downtime|six-month downtime]] was completed during [[Session 7]]. Based on current player recollection, all proposed activities occurred.
 - After interviewing with the [[Lords of Waterdeep]], [[Dick Mixon]] became Open Lord. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
+- Dick's formal investiture took place during [[Session 8]], followed by the grand opening of [[The Black Key]].
 
 ## Faction Memberships
 
@@ -44,6 +45,10 @@ During [[Session 7]], Dick paid the party for their time working for him and off
 The party exposed [[Victoro Cassalanter]]'s bargain with [[Asmodeus]], leading [[Laeral Silverhand]] to detain Victoro, [[Ammalia Cassalanter]], their children, guards, and staff. On [[Founders' Day]], the party helped [[Eilistraee]] save [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] from forfeiting their souls. See [[Save the Cassalanter Twins]].
 
 The perpetrators of the [[Investigate the Bank Robberies|bank robberies]] being blamed on the [[Zhentarim]] remain unknown.
+
+The party is preparing to examine [[Lord Zulpair]]'s shipping ledgers for evidence connected to the destruction of [[Twizzle]]'s home and attack on her family. See [[Investigate Lord Zulpair]].
+
+[[Cordan]] also identified a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest in [[Laeral's Cubic Gate]].
 
 ## Finances
 

@@ -16,3 +16,4 @@ For short bullet-point summaries, see [[Recaps]].
 - [[Session 5]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]

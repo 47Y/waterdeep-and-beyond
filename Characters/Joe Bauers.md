@@ -109,6 +109,11 @@ tags:
 - Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
 - During the six-month downtime, established an arena fighting pit and casino with guest rooms as the beginning of an information network.
 
+### Session 8
+
+- Opened [[The Black Key]], his tavern, casino, arena, and lodging business.
+- Fought [[Twizzle]] in The Black Key's arena and won decisively.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 5 class distribution and mechanics have not yet been provided.

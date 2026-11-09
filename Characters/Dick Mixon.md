@@ -115,6 +115,20 @@ tags:
 - During the six-month downtime, removed, dismantled, and sold the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
 - Interviewed with the [[Lords of Waterdeep]] and became Open Lord of [[Waterdeep]]. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 
+### Session 8
+
+- Was formally invested as Open Lord after Laeral introduced him before Waterdeep's nobles.
+- Used Disguise Self to appear slightly thinner and without visible blemishes during the ceremony.
+- Knelt and placed the [[Crown of Silver Tongues]] on his head.
+- Promised to make Waterdeep a center of commerce and trade whose prosperity would benefit the whole population.
+- Received unspecified gifts from nobles and gave unspecified gifts to each party member.
+- Led the public procession to the grand opening of [[The Black Key]].
+- Paid Market food vendors to serve everyone for free and paid nearby taverns to close for the day.
+- Cast Revivify on [[Lilith D Gluv]]'s defeated arena opponent.
+- Used Subtle Spell Sending to warn [[Twizzle]] to remain calm around [[Lord Zulpair]].
+- Arranged a first-light meeting with Zulpair and requested the previous year's shipping ledgers.
+- Suspects Zulpair may be one of Waterdeep's concealed Lords, but this is unconfirmed.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO6.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.
@@ -232,6 +246,7 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-dick-mixon-SiFB59XyWusIGaO
 - [[Stone of Golorr]].
 - [[Old Xoblob Curios]].
 - [[Amulet of Asmodeus]].
+- [[Crown of Silver Tongues]], worn as Open Lord regalia during the investiture ceremony.
 
 ### Session 2 Downtime Purchases
 

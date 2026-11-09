@@ -90,6 +90,12 @@ tags:
 - Helped recover all eight missing [[Campestri]] for [[Gwendolan]].
 - During the six-month downtime, acquired the best full plate available to her and researched monsters. The armor's exact properties and her research findings were not recorded.
 
+### Session 8
+
+- Fought an unnamed level-5 combatant in [[The Black Key]]'s arena.
+- Won an extremely close fight through massive damage.
+- [[Dick Mixon]] cast Revivify on her defeated opponent.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

@@ -17,7 +17,7 @@ The planned six-month downtime began and ended during [[Session 7]]. Based on cu
 - [[Twizzle]] obtained +1 half plate and watched the guards for unusual activity. No results from that surveillance were recorded.
 - [[Lilith D Gluv]] acquired the best full plate available to her and researched monsters. The armor's exact properties and research findings were not recorded.
 - [[Mr. T (Tathlynd)]] pursued equipment upgrades and hunted or gathered for income and sustenance. The exact upgrades and proceeds were not recorded.
-- [[Joe Bauers]] established an arena fighting pit and casino with guest rooms as the beginning of an information network. Further operational details were not recorded in the session notes.
+- [[Joe Bauers]] established [[The Black Key]], a tavern, arena, casino, and lodging business with guest rooms that began his information network.
 - [[Dick Mixon]] removed, dismantled, and sold the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
 - [[Cordan]] investigated the stars and the [[Starless Convergence]], working with [[Laeral Silverhand]] at various points to discuss and study the stars.
 

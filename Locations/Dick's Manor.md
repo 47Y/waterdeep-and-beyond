@@ -8,6 +8,7 @@ source:
   - Raw Notes/Session 5.md
   - Raw Notes/Session 6.md
   - Raw Notes/Session 7.md
+  - Raw Notes/Session 8.md
 tags:
   - location
   - waterdeep
@@ -28,3 +29,5 @@ The [[Vault Side-Room Treasure]] and remaining party Vault assets are stored in 
 During [[Session 6]], the manor hosted the recorded meeting in which [[Victoro Cassalanter]] confessed. [[Laeral Silverhand]], [[Lilith D Gluv]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] observed from a hidden adjacent scrying room while [[Cordan]] concealed himself in the study ceiling.
 
 During [[Session 7]], Joe entertained [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] here with hide-and-seek while the party sought a way to protect their souls.
+
+At the end of [[Session 8]], the party returned here to plan for a first-light meeting with [[Lord Zulpair]]. Dick had asked Zulpair to bring the previous year's shipping ledgers so the party could investigate the attack on [[Twizzle]]'s home and family.

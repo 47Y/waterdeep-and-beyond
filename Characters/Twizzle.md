@@ -27,7 +27,7 @@ tags:
 - Faith: [[Hadar]].
 - Appearance: hazel eyes, dark brown hair, light skin, 6'3", 150 lb.
 - Survivor of a vicious attack on her family's merchant ship.
-- Suspects corrupt guards or lords were responsible.
+- Her downtime investigation identified [[Lord Zulpair]] as responsible for destroying her home and attacking her family.
 - Is in hiding because she suspects they are looking for her.
 - Contact: [[Obaya Uday]], a cleric of [[Waukeen]]. The nature of their connection is unknown.
 - Trait: never passes up a friendly wager.
@@ -91,6 +91,13 @@ tags:
 - Shot a moving bag carried by an old man, injuring his hand and freeing two [[Campestri]]. She tied him up and questioned him before releasing him.
 - Helped recover all eight missing Campestri for [[Gwendolan]].
 - During the six-month downtime, obtained +1 half plate and watched the guards for unusual activity. No surveillance results were recorded.
+
+### Session 8
+
+- Fought [[Joe Bauers]] in [[The Black Key]]'s arena and lost decisively.
+- Confronted [[Lord Zulpair]], whom her downtime investigation connected to the destruction of her home and attack on her family.
+- Tried to follow Dick's Subtle Spell Sending instruction to “play it cool,” but glared at Zulpair and became aggressive.
+- Was given a drink and subtly directed to a nearby table by [[Cordan]].
 
 ## Mechanical Snapshot
 
@@ -213,5 +220,4 @@ These values predate later campaign transactions. See [[Party#Finances]] for the
 ## Open Questions
 
 - What is Obaya Uday's relationship to Twizzle?
-- Which corrupt guards or lords does Twizzle suspect?
 - What harbor town is connected to Twizzle's paramour?

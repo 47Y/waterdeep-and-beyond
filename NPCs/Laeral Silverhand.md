@@ -4,6 +4,7 @@ status: former open lord
 source:
   - Raw Notes/Session 6.md
   - Raw Notes/Session 7.md
+  - Raw Notes/Session 8.md
   - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
 tags:
   - npc
@@ -33,4 +34,12 @@ Dick directly told Laeral that he wanted to become the next Open Lord and believ
 - Was described as helping where she could with the effort to save the children.
 - Worked with [[Cordan]] at various points during the six-month downtime to discuss and study the stars.
 - Became an advisor after Dick's appointment as Open Lord; no other role was disclosed to the players.
+
+## Session 8
+
+- Introduced [[Dick Mixon]] before Waterdeep's nobles at [[Dick's Investiture as Open Lord|his formal investiture]].
+- Attended [[The Black Key]]'s grand opening.
+- Participated in [[Bagman's Bet]] and told the story of [[Laeral's Cubic Gate]] when it was drawn.
+- Had been drinking and was not at her best during the game.
+- Was the intended recipient of [[Cordan]]'s written description of a [[Hooded Cubic Gate Observer|hooded observer]] who showed unusual interest in the Cubic Gate.
 
