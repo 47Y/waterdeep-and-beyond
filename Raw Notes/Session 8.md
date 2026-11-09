@@ -9,3 +9,7 @@ After the ceremony, Dick and the party walked to The Black Key (the tavern/casin
 This is the grand opening of The Black Key. Dick set up on the second floor in the VIP booth so people could come visit him with some amount of privacy without being completely secluded.
 
 The Black Key has its own folder in the notes section with details provided by Joe's player. I don't know if it provides information about the tavern or inn sections of the business. Today's events are Sausage Roulette, Pit Fighting, Beholder's Eye Darts, and Lizard Races in the evening.
+
+Cordan fought an NPC (bandit captain) and won by forfeit after a few rounds. In the middle of the fight, he managed to spot 2 people cheating while gambling and narratively used Faerie Fire to highlight them for security to deal with. Lilith fought a level 5 character I had created for a different campaign. It was extremely close but Lilith won with Massive Damage resulting in Dick jumping down from the VIP booth on the 2nd floor to cast Revivify. Joe and Twizzle fought.
+
+Another big event hosted was Bagman's Bet, a game Cordan brought from the Feywild. It is designed as a way for the common folk to hear about and vicariously experience adventures they will never go on.
