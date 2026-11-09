@@ -1,7 +1,8 @@
 ---
 type: item
-status: used-at-black-key
+status: kept-at-black-key
 source: Raw Notes/Session 8.md
+source_note: Storage and access clarified by the user on 2026-11-08.
 tags:
   - item
   - feywild
@@ -14,5 +15,5 @@ The Bagman's Bet Bag is a customized Bag of Holding blessed by [[Tymora]] and us
 
 The bag is stocked with one hundred items in a fixed rarity and danger distribution. An owner who does not want an item physically handled may substitute a slip of paper representing it.
 
-Its owner and current storage location were not recorded.
+The bag is kept with [[The Black Key]]'s business materials. The party does not have ready access to it outside [[Bagman's Bet]].
 

@@ -35,5 +35,5 @@ Opening-day events included:
 - [[Tavern Schedule]]
 - [[Yearly Calendar]]
 
-The exact tavern, inn, and guest-room layout has not yet been identified in the supplied notes.
+The exact tavern, inn, and guest-room layout has not yet been provided and is marked **To be added**.
 

@@ -111,8 +111,10 @@ tags:
 
 ### Session 8
 
+- Received an [[Earring of Message]], two [[Clockwork Amulet|Clockwork Amulets]], and an additional gift whose name remains incomplete in the clarification.
 - Opened [[The Black Key]], his tavern, casino, arena, and lodging business.
 - Fought [[Twizzle]] in The Black Key's arena and won decisively.
+- Drew an [[Alchemy Jug]] during [[Bagman's Bet]]; whether he retained it is unknown.
 
 ## Mechanical Snapshot
 
@@ -198,6 +200,8 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LUL
 - Potion of Healing.
 - Heavy Crossbow and bolts, received from Cordan during [[Session 2]].
 - Scale Mail, replaced by the +1 half plate during Session 2.
+- [[Earring of Message]].
+- 2 [[Clockwork Amulet|Clockwork Amulets]].
 
 ## Currency (Foundry Snapshot)
 

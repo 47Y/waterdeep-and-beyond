@@ -126,10 +126,12 @@ tags:
 
 ### Session 8
 
+- Received an [[Earring of Message]], two [[Clockwork Amulet|Clockwork Amulets]], and a [[Survival Mantle]] from [[Dick Mixon]] during the investiture ceremony.
 - Fought a bandit captain at [[The Black Key]] and won by forfeit after several rounds.
 - Spotted two people cheating while gambling and used Faerie Fire to mark them for security.
 - Gave [[Twizzle]] a drink and subtly directed her away after she became aggressive toward [[Lord Zulpair]].
 - Hosted [[Bagman's Bet]], a Feywild storytelling game intended to share adventurers' experiences with ordinary people.
+- Drew [[Weaver's Tools|weaver's tools]] during Bagman's Bet; whether he retained them is unknown.
 - Watched the crowd while [[Laeral Silverhand]] discussed [[Laeral's Cubic Gate]].
 - Noticed a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest, wrote down identifying details, and planned to give the description to Laeral.
 
@@ -244,6 +246,9 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.js
 - 10 Rations.
 - Waterskin.
 - Hempen Rope, 50 feet.
+- [[Earring of Message]].
+- 2 [[Clockwork Amulet|Clockwork Amulets]].
+- [[Survival Mantle]].
 
 ## Currency (Foundry Snapshot)
 

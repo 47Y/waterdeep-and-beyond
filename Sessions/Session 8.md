@@ -3,6 +3,7 @@ type: session
 session: 8
 status: completed
 source: Raw Notes/Session 8.md
+source_note: Ceremony, gifts, Paradox, and Bagman's Bet details clarified by the user on 2026-11-08.
 tags:
   - session
 ---
@@ -11,11 +12,11 @@ tags:
 
 ## Dick's Investiture
 
-The session opened with [[Dick's Investiture as Open Lord|Dick's formal ceremony as Open Lord]]. [[Laeral Silverhand]], the previous Open Lord, introduced him before the assembled nobles. [[Dick Mixon]] used Disguise Self to appear slightly thinner and without visible blemishes, followed the ceremony's protocol for the most part, knelt, and placed the [[Crown of Silver Tongues]] on his head.
+The session opened at the [[Palace of Waterdeep]] with [[Dick's Investiture as Open Lord|Dick's formal ceremony as Open Lord]]. [[Laeral Silverhand]], the previous Open Lord, introduced him before the assembled nobles. [[Dick Mixon]] used Disguise Self to appear slightly thinner and without visible blemishes, followed the ceremony's protocol for the most part, knelt, and placed the [[Crown of Silver Tongues]] on his head.
 
 In his speech, Dick promised to turn [[Waterdeep]] into a major center of commerce and trade whose prosperity would benefit the entire population. He acknowledged that he was new to the role and invited the concealed Lords, the party, and then the other attendees to approach him.
 
-Various lords and ladies presented Dick with gifts. Dick then called the party forward and gave each member gifts before opening the audience to the remaining guests. The gifts were not described in the notes.
+Various lords and ladies presented Dick with gifts that remain undescribed. Dick then called his five companions forward and gave each of them one [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]]. [[Cordan]] also received a [[Survival Mantle]]. Joe received an additional gift, but its name was not included in the clarification. Dick then opened the audience to the remaining guests.
 
 ## Parade to The Black Key
 
@@ -35,7 +36,7 @@ The day's advertised events included:
 ## Arena Fights
 
 - [[Cordan]] fought a bandit captain and won by forfeit after several rounds. During the fight, he noticed two people cheating while gambling and narratively used Faerie Fire to mark them for security.
-- [[Lilith D Gluv]] fought an unnamed level-5 combatant. The fight was extremely close, but Lilith won through massive damage. Dick jumped down from the second-floor booth and cast Revivify on Lilith's opponent.
+- [[Lilith D Gluv]] fought [[Paradox]], a level-5 Warforged Chronurgy wizard created for another campaign. The fight was extremely close, but Lilith won through massive damage. Dick jumped down from the second-floor booth and cast Revivify on Paradox.
 - Joe fought [[Twizzle]] and won decisively.
 
 ## Lord Zulpair
@@ -54,7 +55,17 @@ Cordan hosted [[Bagman's Bet]], a game he brought from the Feywild. Its purpose 
 
 The game uses the [[Bagman's Bet Bag]], a customized Bag of Holding blessed by [[Tymora]]. It holds one hundred items in a set distribution. A participant draws a random item or a representing slip of paper and tells an entertaining, plausible story about it. The story does not need to be true.
 
-Every party member except [[Mr. T (Tathlynd)]] took a turn. Laeral also told the story of [[Laeral's Cubic Gate]] when it was drawn.
+Every party member except [[Mr. T (Tathlynd)]] took a turn:
+
+- Dick drew a [[Spyglass|spyglass]].
+- Cordan drew [[Weaver's Tools|weaver's tools]].
+- Twizzle drew a [[Wand of Fireballs]].
+- Joe drew an [[Alchemy Jug]].
+- Lilith drew a [[Ring of Spell Storing]].
+
+Laeral also told the story of [[Laeral's Cubic Gate]] when it was drawn. The session notes do not establish that the party members retained the items they drew.
+
+The Bagman's Bet Bag is kept with The Black Key's business materials. The party does not have ready access to it outside the event.
 
 Laeral had been drinking and was not at her best, so Cordan watched the crowd for anyone who might exploit the knowledge that she possessed the Cubic Gate. He noticed a person showing unusual interest who pulled up a dark hood and left. Cordan wrote down as much identifying detail as he could and planned to give the note to Laeral within the next few days. See [[Hooded Cubic Gate Observer]].
 
@@ -64,13 +75,10 @@ As the celebrations ended, the party returned to Dick's Manor to plan for the me
 
 ## Open Questions
 
-- Where was Dick's investiture ceremony held?
-- What gifts did the nobles give Dick, and what gifts did Dick give each party member?
-- Does the Crown of Silver Tongues have known magical properties or duties associated with it?
-- What tavern, inn, and guest-room details are established for The Black Key?
-- Who was Lilith's unnamed opponent?
-- What did each participant draw from the Bagman's Bet Bag, and what stories did they tell?
-- Who owns the Bagman's Bet Bag, and where is it normally stored?
+- What gifts did the nobles give Dick?
+- What additional personal gift did Joe receive from Dick?
+- What stories did the participants tell about their Bagman's Bet draws?
+- Did any party member retain the item they drew during Bagman's Bet?
 - Is Lord Zulpair actually one of Waterdeep's concealed Lords?
 - What will Zulpair's shipping ledgers reveal about the attack on Twizzle's home and family?
 - Who was the hooded observer interested in Laeral's Cubic Gate?

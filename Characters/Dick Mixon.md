@@ -121,13 +121,15 @@ tags:
 - Used Disguise Self to appear slightly thinner and without visible blemishes during the ceremony.
 - Knelt and placed the [[Crown of Silver Tongues]] on his head.
 - Promised to make Waterdeep a center of commerce and trade whose prosperity would benefit the whole population.
-- Received unspecified gifts from nobles and gave unspecified gifts to each party member.
+- Received unspecified gifts from nobles.
+- Gave each of his five companions an [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]], and gave [[Cordan]] a [[Survival Mantle]]. Joe's additional personal gift remains unidentified.
 - Led the public procession to the grand opening of [[The Black Key]].
 - Paid Market food vendors to serve everyone for free and paid nearby taverns to close for the day.
 - Cast Revivify on [[Lilith D Gluv]]'s defeated arena opponent.
 - Used Subtle Spell Sending to warn [[Twizzle]] to remain calm around [[Lord Zulpair]].
 - Arranged a first-light meeting with Zulpair and requested the previous year's shipping ledgers.
 - Suspects Zulpair may be one of Waterdeep's concealed Lords, but this is unconfirmed.
+- Drew a [[Spyglass|spyglass]] during [[Bagman's Bet]]; whether he retained it is unknown.
 
 ## Mechanical Snapshot
 

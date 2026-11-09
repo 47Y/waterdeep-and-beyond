@@ -105,6 +105,7 @@ tags:
 
 ### Session 8
 
+- Received an [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]] from [[Dick Mixon]] during the investiture ceremony.
 - Attended [[The Black Key]]'s grand opening.
 - Was the only party member who did not participate in [[Bagman's Bet]].
 
@@ -222,6 +223,8 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WO
 - Waterskin.
 - Hempen Rope, 50 feet.
 - 37 Arrows.
+- [[Earring of Message]].
+- 2 [[Clockwork Amulet|Clockwork Amulets]].
 
 ## Currency (Foundry Snapshot)
 

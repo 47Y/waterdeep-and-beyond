@@ -34,6 +34,7 @@ During [[Session 7]], Dick paid the party for their time working for him and off
 - The planned [[Planned Six-Month Downtime|six-month downtime]] was completed during [[Session 7]]. Based on current player recollection, all proposed activities occurred.
 - After interviewing with the [[Lords of Waterdeep]], [[Dick Mixon]] became Open Lord. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 - Dick's formal investiture took place during [[Session 8]], followed by the grand opening of [[The Black Key]].
+- During the investiture, each of Dick's five companions received an [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]]. [[Cordan]] also received a [[Survival Mantle]], while Joe's additional personal gift remains unidentified.
 
 ## Faction Memberships
 

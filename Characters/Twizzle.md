@@ -94,10 +94,12 @@ tags:
 
 ### Session 8
 
+- Received an [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]] from [[Dick Mixon]] during the investiture ceremony.
 - Fought [[Joe Bauers]] in [[The Black Key]]'s arena and lost decisively.
 - Confronted [[Lord Zulpair]], whom her downtime investigation connected to the destruction of her home and attack on her family.
 - Tried to follow Dick's Subtle Spell Sending instruction to “play it cool,” but glared at Zulpair and became aggressive.
 - Was given a drink and subtly directed to a nearby table by [[Cordan]].
+- Drew a [[Wand of Fireballs]] during [[Bagman's Bet]]; whether she retained it is unknown.
 
 ## Mechanical Snapshot
 
@@ -206,6 +208,8 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-twizzle-X2RoslrAWh7zbnGc.j
 - Hempen Rope, 50 feet.
 - Lucky Charm.
 - +1 Half Plate acquired during the six-month downtime; equipped status was not recorded.
+- [[Earring of Message]].
+- 2 [[Clockwork Amulet|Clockwork Amulets]].
 
 ## Currency (Foundry Snapshot)
 

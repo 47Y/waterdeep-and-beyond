@@ -92,9 +92,11 @@ tags:
 
 ### Session 8
 
-- Fought an unnamed level-5 combatant in [[The Black Key]]'s arena.
+- Received an [[Earring of Message]] and two [[Clockwork Amulet|Clockwork Amulets]] from [[Dick Mixon]] during the investiture ceremony.
+- Fought [[Paradox]], a level-5 Warforged Chronurgy wizard, in [[The Black Key]]'s arena.
 - Won an extremely close fight through massive damage.
-- [[Dick Mixon]] cast Revivify on her defeated opponent.
+- [[Dick Mixon]] cast Revivify on Paradox.
+- Drew a [[Ring of Spell Storing]] during [[Bagman's Bet]]; whether she retained it is unknown.
 
 ## Mechanical Snapshot
 
@@ -202,6 +204,8 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3X
 - Censer.
 - Vestments.
 - Full Plate acquired during the six-month downtime; exact properties and equipped status were not recorded.
+- [[Earring of Message]].
+- 2 [[Clockwork Amulet|Clockwork Amulets]].
 
 ## Currency (Foundry Snapshot)
 

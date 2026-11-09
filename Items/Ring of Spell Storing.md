@@ -20,3 +20,7 @@ Owned by [[Dick Mixon]].
 - Dick took back and attuned to the ring, then cast Find Familiar and also received a spider.
 - Cordan stored two castings of Charm Person in the ring.
 
+## Bagman's Bet
+
+During [[Session 8]], [[Lilith D Gluv]] drew a Ring of Spell Storing during [[Bagman's Bet]]. This was separate from Dick's established ring unless later clarified otherwise. The draw does not establish that Lilith retained the item afterward.
+

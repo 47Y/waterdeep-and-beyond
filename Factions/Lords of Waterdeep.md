@@ -23,7 +23,7 @@ tags:
 
 ## Dick's Investiture
 
-[[Laeral Silverhand]] introduced [[Dick Mixon]] before the assembled nobles during [[Dick's Investiture as Open Lord]]. Dick knelt and placed the [[Crown of Silver Tongues]] on his head.
+At the [[Palace of Waterdeep]], [[Laeral Silverhand]] introduced [[Dick Mixon]] before the assembled nobles during [[Dick's Investiture as Open Lord]]. Dick knelt and placed the [[Crown of Silver Tongues]] on his head.
 
 Dick suspects [[Lord Zulpair]] may be one of the concealed Lords because Zulpair claimed other obligations prevented him from attending the ceremony. This is an inference, not confirmed evidence.
 
