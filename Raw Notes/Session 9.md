@@ -1,0 +1,1 @@
+Shortly after an early breakfast, Lord Zulpair arrived with a guard and butler. They had multiple boxes with them. He continued to hold to everything being on the up-and-up. Dick had his house wizard assist him with looking through the books (the plan is to have the house wizard who has Keen Mind)
