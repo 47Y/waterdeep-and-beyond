@@ -1,3 +1,6 @@
+From the previous session, not included in the notes:
+> Fuski and Springmaul: guards involved in the killing of Dawnveil family; Twizzle got some information from them regarding the killing of her family.
+
 Shortly after an early breakfast, Lord Zulpair arrived with a guard and butler. They had multiple boxes with them. He continued to hold to everything being on the up-and-up. Dick had his house wizard assist him with looking through the books (the plan is to have the house wizard who has Keen Mind be able to make copies of the books after he leaves).
 Zulpair's family worships The Sea Bitch (Umberlee; use online resources to add some basic information to the notes). He says it is mostly ancestral reasons for worship for him.
 Dick: "I've heard a bit of a rumor as of late as well about the Dawnveil family. Can you give me a bit of insight about that?"
@@ -31,3 +34,4 @@ Saeth suggests that Joe retires from his city watch position and then they would
 Joe is distracted and fairly obviously not in a great mood for a while. Cordan does confront him about it directly but Joe deflects the question. Cordan ignores the social queues and asks multiple follow up questions that Joe continues to deflect. Eventually Cordan shrugs and walks off.
 
 The group found multiple references to a lighthouse that was purchased by Zulpair for much cheaper than it should have been. Twizzle recognizes the lighthouse as Skyhorn, a functional lighthouse that should have been worth a lot more than what was paid.
+Joe talked to Saeth about Fuski and Springmaul and was directed to someone else. Joe told the party about the supervisor. The group prepared to meet with the supervisor
