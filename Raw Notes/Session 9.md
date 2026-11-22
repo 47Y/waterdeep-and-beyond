@@ -34,4 +34,14 @@ Saeth suggests that Joe retires from his city watch position and then they would
 Joe is distracted and fairly obviously not in a great mood for a while. Cordan does confront him about it directly but Joe deflects the question. Cordan ignores the social queues and asks multiple follow up questions that Joe continues to deflect. Eventually Cordan shrugs and walks off.
 
 The group found multiple references to a lighthouse that was purchased by Zulpair for much cheaper than it should have been. Twizzle recognizes the lighthouse as Skyhorn, a functional lighthouse that should have been worth a lot more than what was paid.
-Joe talked to Saeth about Fuski and Springmaul and was directed to someone else. Joe told the party about the supervisor. The group prepared to meet with the supervisor
+Joe talked to Saeth about Fuski and Springmaul and was directed to someone else. Joe told the party about the supervisor. The group prepared to meet with the supervisor. Dick disguised himself as the captain of the guard and said he had some questions for the two of them.
+They were put in separate interrogation rooms and Dick told them to tell him what happened that night regardless of what was put in their reports. He wants the full story.
+"A few days prior to the night in question I was told by my superior that a family of merchants was going to be coming into the harbor and that they were in secret pirates and their goods were stolen. We were tasked with bringing them in for questioning."
+Is that everything?
+No sir
+Continue
+I received a letter containing some money asking me to pick a fight.
+Who was this letter from?
+Lord Zulpair.
+And is that what you did?
+Yes.
