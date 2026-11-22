@@ -160,7 +160,7 @@ The party also recovered the treasure from the secret room, including the urns a
 
 Dick retained Aurinax's thirty gemstones. The side-room treasure was stored with the remaining Vault assets in the vault beneath [[Dick's Manor]].
 
-After the session, Cordan experimented on the spined-devil corpse he had carried away, similarly to his earlier examination of the intellect devourer. It is unknown whether he learned anything.
+After the session, Cordan experimented on the spined-devil corpse he had carried away, similarly to his earlier examination of the intellect devourer. As established in [[Session 6]], he learned that it had twelve tail spines that could be fired and later regrown.
 
 The session ended with a long rest, and every party member reached level 5.
 

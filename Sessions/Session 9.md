@@ -17,6 +17,8 @@ Information omitted from the previous session established that [[Fuski and Sprin
 
 Shortly after an early breakfast, [[Lord Zulpair]] arrived at [[Dick's Manor]] with a guard, a butler, and several boxes of business records. He continued to insist that his affairs were legitimate.
 
+During the meeting, Zulpair confirmed to [[Dick Mixon]] that he is one of Waterdeep's Secret, or [[Lords of Waterdeep|Masked]], Lords.
+
 [[Dick Mixon]] had [[Dick's House Wizard|his house wizard]] help inspect the books. Because the wizard has Keen Mind, the plan was to memorize and reproduce the records after Zulpair's departure. Copying the books was expected to take several days. Zulpair left his butler with the records to retrieve them after Dick finished.
 
 Zulpair said his family worships [[Umberlee]], whom the notes call “the Sea Bitch,” primarily for ancestral reasons.
@@ -66,7 +68,6 @@ After reaching Skyhorn's dock, the ship's captain refused to leave until she had
 
 ## Open Questions
 
-- Is Lord Zulpair one of Waterdeep's concealed Lords?
 - What further evidence will the copied business records reveal?
 - Why was Skyhorn sold to Zulpair for far less than its expected value?
 - Where is Azura Dawnveil now, and what condition is she in?

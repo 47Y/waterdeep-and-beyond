@@ -9,6 +9,7 @@ source:
   - Raw Notes/Session 6.md
   - Raw Notes/Session 7.md
   - Raw Notes/Session 8.md
+  - Raw Notes/Session 9.md
 tags:
   - location
   - waterdeep
@@ -31,3 +32,7 @@ During [[Session 6]], the manor hosted the recorded meeting in which [[Victoro C
 During [[Session 7]], Joe entertained [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]] here with hide-and-seek while the party sought a way to protect their souls.
 
 At the end of [[Session 8]], the party returned here to plan for a first-light meeting with [[Lord Zulpair]]. Dick had asked Zulpair to bring the previous year's shipping ledgers so the party could investigate the attack on [[Twizzle]]'s home and family.
+
+During [[Session 9]], Zulpair arrived with a guard, a butler, and several boxes of [[Zulpair Business Records|business records]]. [[Dick's House Wizard]] began inspecting, memorizing, and reproducing them. Zulpair's butler remained with the books so they could be returned after the review.
+
+The manor also received the [[Dawnveil Investigation Papers]] several days later.

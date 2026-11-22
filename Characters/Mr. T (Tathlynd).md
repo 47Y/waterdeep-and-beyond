@@ -109,6 +109,11 @@ tags:
 - Attended [[The Black Key]]'s grand opening.
 - Was the only party member who did not participate in [[Bagman's Bet]].
 
+### Session 9
+
+- Spotted the active [[Skyhorn]] lighthouse and its unsecured, wind-blown door with [[Cordan]].
+- Dealt most of the damage to the water elemental attacking the hired ship while under Haste from [[Dick Mixon]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-mr.-t-(tathlynd)-Ff5BDv9WOp0oULeE.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

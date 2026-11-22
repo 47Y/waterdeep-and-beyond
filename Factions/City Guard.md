@@ -2,7 +2,9 @@
 type: faction
 status: known
 created: 2026-10-12
-source: Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
+source:
+  - Raw Notes/Session 9.md
+  - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
 tags:
   - faction
   - waterdeep
@@ -15,6 +17,12 @@ tags:
 
 - The Guard maintains a training camp in [[Undercliff]].
 - Guard patrols collect the monthly resident tax; see [[Waterdeep Money and Taxes]].
+
+## Dawnveil Murders
+
+During [[Session 9]], [[Fuski and Springmaul]] confessed that [[Lord Zulpair]] paid guards to provoke a confrontation with the legitimate merchant [[Dawnveil Family]]. About a dozen guards were implicated in the murders and resulting cover-up.
+
+Dick had the named guards arrested and briefed the actual guard captain, who agreed to investigate further.
 
 ## Griffon Cavalry
 

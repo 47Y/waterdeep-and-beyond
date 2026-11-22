@@ -43,7 +43,7 @@ The day's advertised events included:
 
 After Joe and Twizzle's fight, [[Lord Zulpair]] approached Dick. Twizzle's downtime investigation had identified Zulpair as the person responsible for destroying her home and attacking her family. His family operates a merchant shipping company that remains profitable through most of the year outside winter.
 
-Zulpair expressed interest in shipping agreements with Dick. When Dick asked why he had approached at The Black Key rather than during the main ceremony, Zulpair said he had other obligations. Dick interpreted this as evidence that Zulpair might be one of Waterdeep's concealed Lords, but this remains unconfirmed.
+Zulpair expressed interest in shipping agreements with Dick. When Dick asked why he had approached at The Black Key rather than during the main ceremony, Zulpair said he had other obligations. Dick interpreted this as evidence that Zulpair might be one of Waterdeep's concealed Lords; Zulpair later confirmed the suspicion during his meeting with Dick.
 
 Dick used a Subtle Spell Sending to tell Twizzle to “play it cool.” She joined the conversation and glared at Zulpair. When she became too aggressive, Cordan gave her a drink and subtly directed her to a nearby table to calm down.
 
@@ -73,14 +73,16 @@ Laeral had been drinking and was not at her best, so Cordan watched the crowd fo
 
 As the celebrations ended, the party returned to Dick's Manor to plan for the meeting with Lord Zulpair. Zulpair was expected at first light.
 
+## Backfilled Dawnveil Lead
+
+Information later added in [[Session 9]] established that [[Fuski and Springmaul]], guards involved in killing members of the [[Dawnveil Family]], had already provided [[Twizzle]] with some information about the attack.
+
 ## Open Questions
 
 - What gifts did the nobles give Dick?
 - What additional personal gift did Joe receive from Dick?
 - What stories did the participants tell about their Bagman's Bet draws?
 - Did any party member retain the item they drew during Bagman's Bet?
-- Is Lord Zulpair actually one of Waterdeep's concealed Lords?
-- What will Zulpair's shipping ledgers reveal about the attack on Twizzle's home and family?
 - Who was the hooded observer interested in Laeral's Cubic Gate?
 - Did Cordan deliver his written description of the observer to Laeral?
 

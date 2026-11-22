@@ -2,7 +2,9 @@
 type: faction
 status: known
 created: 2026-10-12
-source: Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
+source:
+  - Raw Notes/Session 9.md
+  - Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion.md
 tags:
   - faction
   - waterdeep
@@ -19,6 +21,10 @@ The street police of [[Waterdeep]], responsible for patrols, investigations, and
 - The Watch does not patrol the unofficial Field Ward.
 - Volo praises the Watch's discipline and reliability; this is his assessment of the institution.
 - The [[City Guard]] handles walls, roads, and civic protection instead.
+
+## Joe Bauers
+
+During [[Session 9]], [[Saeth Cromley]] and [[Joe Bauers]] prepared paperwork for Joe to retire from regular Watch service within a week. Joe may instead perform contract work for the Watch when needed. He must return his uniform, guard-summoning horn, and other Watch equipment when the retirement is finalized.
 
 ## Useful Watch Terms
 

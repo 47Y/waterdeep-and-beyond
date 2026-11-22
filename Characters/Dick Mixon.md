@@ -128,8 +128,19 @@ tags:
 - Cast Revivify on [[Lilith D Gluv]]'s defeated arena opponent.
 - Used Subtle Spell Sending to warn [[Twizzle]] to remain calm around [[Lord Zulpair]].
 - Arranged a first-light meeting with Zulpair and requested the previous year's shipping ledgers.
-- Suspects Zulpair may be one of Waterdeep's concealed Lords, but this is unconfirmed.
+- Suspected Zulpair might be one of Waterdeep's concealed Lords; Zulpair later confirmed his status as a Secret, or Masked, Lord.
 - Drew a [[Spyglass|spyglass]] during [[Bagman's Bet]]; whether he retained it is unknown.
+
+### Session 9
+
+- Received [[Lord Zulpair]] and several boxes of business records at [[Dick's Manor]].
+- Received confirmation from Zulpair that he is one of Waterdeep's Secret, or [[Lords of Waterdeep|Masked]], Lords.
+- Assigned [[Dick's House Wizard|his house wizard]] to inspect, memorize, and reproduce the books.
+- Questioned Zulpair about the [[Dawnveil Family]] and obtained the [[Dawnveil Investigation Papers]].
+- Disguised himself as the captain of the guard and separately interrogated [[Fuski and Springmaul]].
+- Obtained confessions implicating Zulpair and about a dozen guards in murdering legitimate merchants and falsifying the pirate story.
+- Had Fuski, Springmaul, and the other named guards arrested, then briefed the actual guard captain.
+- Cast Haste on [[Mr. T (Tathlynd)]] during the water elemental fight en route to [[Skyhorn]].
 
 ## Mechanical Snapshot
 

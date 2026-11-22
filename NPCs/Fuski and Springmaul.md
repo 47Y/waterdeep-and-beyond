@@ -10,7 +10,7 @@ tags:
 
 # Fuski and Springmaul
 
-Fuski and Springmaul were guards involved in the attack on the [[Dawnveil Family]]. They gave [[Twizzle]] some information before [[Session 9]] and were later interrogated separately by [[Dick Mixon]], who was disguised as the captain of the guard.
+Fuski and Springmaul were [[City Guard|guards]] involved in the attack on the [[Dawnveil Family]]. They gave [[Twizzle]] some information before [[Session 9]] and were later interrogated separately by [[Dick Mixon]], who was disguised as the captain of the guard.
 
 Both confessed that [[Lord Zulpair]] sent money and notes instructing guards to provoke a fight with the Dawnveils. Their accounts established that the Dawnveils were legitimate merchants, their cargo logs were valid, and the pirate accusation was a cover story for murder.
 

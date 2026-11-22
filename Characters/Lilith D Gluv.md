@@ -98,6 +98,10 @@ tags:
 - [[Dick Mixon]] cast Revivify on Paradox.
 - Drew a [[Ring of Spell Storing]] during [[Bagman's Bet]]; whether she retained it is unknown.
 
+### Session 9
+
+- Traveled with the party to [[Skyhorn]] and helped fight the water elemental that attacked the hired ship.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-lilith-d-gluv-AagCs132im3XAtKC.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

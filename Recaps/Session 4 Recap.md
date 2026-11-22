@@ -20,4 +20,4 @@ Full notes: [[Session 4]] · All recaps: [[Recaps]]
 - **Ritual discovery:** The group chanted in an unidentified language. Cordan suspected Infernal but could not verify it. Victoro declared, "Founder's Day approaches," and the gathering cheered.
 - **Evidence recorded:** Cordan escaped and reported his findings at [[Dick's Manor]]. Tathlynd, Dick, and Twizzle identified the painting's symbol as [[Siamorphe]]. Cordan completed a [[Cordan's Map of Cassalanter Villa|map of the explored rooms]] the next morning.
 - **Next steps and level-up:** Dick proposed approaching the guards or courts to help Lilith while the others sought evidence at the villa. Everyone except Lilith reached **level 4**; her possible level-up was deferred.
-- **Unresolved:** Lilith's holding location and charges, how to regain access to the villa, the Founder's Day plans, the ritual's language, the unidentified noble, and whether the Cassalanters currently possess the Stone.
+- **Unresolved:** The ritual's language and the unidentified noble who fought Lilith.

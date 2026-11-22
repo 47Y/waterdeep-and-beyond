@@ -47,7 +47,9 @@ The party exposed [[Victoro Cassalanter]]'s bargain with [[Asmodeus]], leading [
 
 The perpetrators of the [[Investigate the Bank Robberies|bank robberies]] being blamed on the [[Zhentarim]] remain unknown.
 
-The party is preparing to examine [[Lord Zulpair]]'s shipping ledgers for evidence connected to the destruction of [[Twizzle]]'s home and attack on her family. See [[Investigate Lord Zulpair]].
+The party's investigation established that [[Lord Zulpair]] paid guards to provoke the attack on the [[Dawnveil Family]], who were legitimate merchants rather than pirates. About a dozen guards were implicated and arrested. See [[Investigate Lord Zulpair]].
+
+[[Azura Dawnveil]], Twizzle's grandmother, survived and was last known to have been taken to Zulpair. The party has reached [[Skyhorn]] to [[Find Azura Dawnveil|search for her]] and continue investigating Zulpair's suspiciously cheap lighthouse purchase.
 
 [[Cordan]] also identified a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest in [[Laeral's Cubic Gate]].
 

@@ -135,6 +135,14 @@ tags:
 - Watched the crowd while [[Laeral Silverhand]] discussed [[Laeral's Cubic Gate]].
 - Noticed a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest, wrote down identifying details, and planned to give the description to Laeral.
 
+### Session 9
+
+- Confronted [[Joe Bauers]] about his visibly poor mood and continued asking questions despite Joe's repeated deflections.
+- Ritually cast Water Breathing on the party before departing for [[Skyhorn]].
+- Ritually cast Water Breathing on the hired ship's crew during the journey.
+- Spotted the active lighthouse and its unsecured, wind-blown door with [[Mr. T (Tathlynd)]].
+- Helped fight the water elemental that attacked the ship.
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-cordan-TTh10qFaWMjXwWVu.json]] on 2026-10-03. Updated level 5 mechanics have not yet been provided.

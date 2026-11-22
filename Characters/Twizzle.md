@@ -28,6 +28,8 @@ tags:
 - Appearance: hazel eyes, dark brown hair, light skin, 6'3", 150 lb.
 - Survivor of a vicious attack on her family's merchant ship.
 - Her downtime investigation identified [[Lord Zulpair]] as responsible for destroying her home and attacking her family.
+- Her family is the [[Dawnveil Family]], legitimate merchants who were framed as pirates and murdered by bribed guards.
+- Her grandmother, [[Azura Dawnveil]], is the only known survivor and was last known to have been taken to Zulpair.
 - Is in hiding because she suspects they are looking for her.
 - Contact: [[Obaya Uday]], a cleric of [[Waukeen]]. The nature of their connection is unknown.
 - Trait: never passes up a friendly wager.
@@ -100,6 +102,12 @@ tags:
 - Tried to follow Dick's Subtle Spell Sending instruction to “play it cool,” but glared at Zulpair and became aggressive.
 - Was given a drink and subtly directed to a nearby table by [[Cordan]].
 - Drew a [[Wand of Fireballs]] during [[Bagman's Bet]]; whether she retained it is unknown.
+
+### Session 9
+
+- Reviewed the [[Dawnveil Investigation Papers]], recognized the list of murdered relatives, and said most of the official account was false.
+- Recognized [[Skyhorn]] as a functional lighthouse that should have cost much more than Zulpair paid.
+- Traveled with the party to Skyhorn to continue investigating and search for [[Azura Dawnveil|her grandmother]].
 
 ## Mechanical Snapshot
 

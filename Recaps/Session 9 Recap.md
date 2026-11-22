@@ -12,6 +12,7 @@ tags:
 Full notes: [[Session 9]] · All recaps: [[Recaps]]
 
 - **Zulpair's records:** [[Lord Zulpair]] brought shipping records to [[Dick's Manor]]. [[Dick's House Wizard|Dick's house wizard]] began memorizing and copying them over several days.
+- **Secret Lord:** Zulpair confirmed to [[Dick Mixon]] that he is one of Waterdeep's Secret, or [[Lords of Waterdeep|Masked]], Lords.
 - **Umberlee worship:** Zulpair said his family worships [[Umberlee]] for ancestral reasons.
 - **Dawnveil cover story:** Zulpair admitted participating in the operation against the [[Dawnveil Family]] but maintained that they were pirates disguised as merchants.
 - **Investigation papers:** The official records relied on circumstantial claims and listed Twizzle's murdered relatives. [[Twizzle]] said most of the account was false.
@@ -21,5 +22,5 @@ Full notes: [[Session 9]] · All recaps: [[Recaps]]
 - **Skyhorn lead:** Zulpair's records showed he purchased [[Skyhorn]] for far less than its expected value.
 - **Water elemental:** The party sailed to Skyhorn and fought a water elemental. [[Mr. T (Tathlynd)]] dealt most of the damage while Hasted by Dick.
 - **Next:** The party reached Skyhorn's dock and prepared to investigate the active but unsecured lighthouse.
-- **Unresolved:** Zulpair's concealed-Lord status, Azura's condition, the cheap lighthouse purchase, the copied records, Joe's final retirement terms, and what awaits inside Skyhorn.
+- **Unresolved:** Azura's condition, the cheap lighthouse purchase, the copied records, Joe's final retirement terms, and what awaits inside Skyhorn.
 

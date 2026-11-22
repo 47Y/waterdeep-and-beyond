@@ -26,13 +26,13 @@ tags:
 - Age: 34.
 - Gender: Male.
 - Appearance: blue eyes, dark brown hair, white skin, 5'11", 210 lb.
-- Works as City Watch cavalry in Waterdeep.
+- Is preparing to retire from City Watch cavalry in Waterdeep and may instead perform contract work for the Watch.
 - Enlisted at nineteen and served for eleven years.
 - Has a northern heritage through his mother, who came south out of the Spine of the World.
 - Had a partner named [[Ketch]] who died during an incident in the Dock Ward.
 - Joe cannot account for the last two minutes of that incident.
 - Since then, when fighting starts, something old seems to rise out of him.
-- Still wears the uniform.
+- Must return his Watch uniform and guard-summoning horn when the retirement is finalized.
 - His superiors sometimes second him to matters the Watch would rather not formally own.
 - Personality trait: answers with the shortest true sentence available, then stops talking.
 - Personality trait: puts himself between people and doorways without deciding to.
@@ -116,6 +116,16 @@ tags:
 - Fought [[Twizzle]] in The Black Key's arena and won decisively.
 - Drew an [[Alchemy Jug]] during [[Bagman's Bet]]; whether he retained it is unknown.
 
+### Session 9
+
+- Met privately with [[Saeth Cromley]] and said Dick's position as Open Lord was good for Waterdeep's economy and the city overall.
+- Said he was unsure whether he still wanted his Watch job but wanted to continue helping the organization.
+- Agreed to prepare retirement paperwork within the week, with future work potentially handled through contracts.
+- Must return his Watch uniform, guard-summoning horn, and other Watch equipment.
+- Appeared distracted and unhappy afterward but repeatedly deflected [[Cordan]]'s questions.
+- Asked Saeth about [[Fuski and Springmaul]] and was directed to an unnamed supervisor.
+- Helped the party investigate the guards and traveled to [[Skyhorn]].
+
 ## Mechanical Snapshot
 
 Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LULM.json]] on 2026-10-03. Updated level 5 class distribution and mechanics have not yet been provided.
@@ -193,8 +203,8 @@ Level 2 snapshot imported from [[Raw Notes/fvtt-Actor-joe-bauers-OmHUuZQJ3NA9LUL
 - 10 Rations.
 - Waterskin.
 - Hempen Rope, 50 feet.
-- Horn with Which to Summon Help.
-- Uniform in the Style of Your Unit and Indicative of Your Rank.
+- Horn with Which to Summon Help; must be returned when Watch retirement is finalized.
+- Uniform in the Style of Your Unit and Indicative of Your Rank; must be returned when Watch retirement is finalized.
 - 10-foot Pole.
 - Grappling Hook.
 - Potion of Healing.
