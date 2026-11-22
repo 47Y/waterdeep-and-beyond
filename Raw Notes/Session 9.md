@@ -21,3 +21,9 @@ Zulpair: *thinks for a bit* "Dawnvale... I vaguely recollect something about a f
 "Oh not deal with it. Think of it as small reading. I also like cheap crime novels if that helps you understand."
 "I will send over my investigation papers."
 "Thank you. Please make sure they are all there. I imagine it will make for good reading."
+
+Zulpair asked if there was anything else specific. Dick told him other than going over the books he doesn't have anything else. Zulpair offered to leave the books with Dick unless Dick needed him for anything. Zulpair left his butler with the books and to bring them back after Dick is done with them.
+
+The copying of the books takes multiple days. A couple days into the project, a package arrives that consists of the Dawnvale investigation notes. The rest of the party looks into those notes and finds a few things out of place. Twizzle sees a list of her family members that were killed and says that most of the things said are lies. There is a lot of circumstantial evidence but nothing concrete.
+
+Joe went to have a meeting with his supervisor. He went on his own and didn't inform an
