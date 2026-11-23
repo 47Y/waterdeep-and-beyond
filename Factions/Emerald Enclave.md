@@ -30,6 +30,4 @@ The Emerald Enclave operates from [[Phaulkonmere]].
 
 After the grell mission, [[Cordan]], [[Joe Bauers]], [[Mr. T (Tathlynd)]], and [[Twizzle]] each had 3 renown and received a [[Charm of Heroism]].
 
-## Pending Inquiry
-
-- [[Mr. T (Tathlynd)]] asked [[Melannor Fellbranch]] what the Enclave knew about [[Gralhund Villa]].
+[[Mr. T (Tathlynd)]] asked [[Melannor Fellbranch]] what the Enclave knew about [[Gralhund Villa]]. The response contained nothing of note.

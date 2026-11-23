@@ -10,5 +10,5 @@ tags:
 
 # Spyglass
 
-[[Dick Mixon]] drew a spyglass during [[Bagman's Bet]]. The draw does not establish that he retained ownership afterward.
+[[Dick Mixon]] drew a spyglass during [[Bagman's Bet]]. It remained with [[The Black Key]] afterward.
 

@@ -21,5 +21,6 @@ Full notes: [[Session 6]] · All recaps: [[Recaps]]
 - **Cassalanters arrested:** [[Laeral Silverhand]] detained Victoro, [[Ammalia Cassalanter]], the twins, guards, and staff. Approximately **980,000 gp** was found beneath [[Cassalanter Villa]].
 - **Twins endangered:** Ammalia revealed that failure to complete the bargain would forfeit the souls of [[Elzerina Cassalanter]] and [[Terenzio Cassalanter]]. Their rescue is continued in [[Session 7]].
 - **Estate resources:** The party now owns resources from the Cassalanter estate, but the complete inventory and final disposition await DM clarification.
-- **Unresolved at the end of Session 6:** The true bank robbers, the abducted woman's fate, grell-poison harvesting, and the estate inventory.
+- **Grell poison:** Cordan's first collection attempt failed, but he learned how to handle the poison properly in the future.
+- **Unresolved at the end of Session 6:** The true bank robbers, the abducted woman's fate, and the estate inventory.
 

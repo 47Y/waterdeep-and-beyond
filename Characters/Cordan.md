@@ -84,7 +84,7 @@ tags:
 - Scouted the villa in spider form after hearing concerning sounds.
 - Found the dead [[Cassalanter Doppelganger|doppelganger]] and a painting of [[Siamorphe]]'s holy symbol.
 - Secretly followed [[Victoro Cassalanter]] and [[Ammalia Cassalanter]] through a hidden door and observed them concealing the body, donning red robes and devil masks, and joining a ritual before a statue of [[Asmodeus]].
-- Suspected, but could not verify, that the ritual language was Infernal.
+- Is confident, along with the party, that the ritual language was Infernal, though this remains unconfirmed.
 - Heard Victoro declare, "Founder's Day approaches."
 - Escaped through the secret door's imperfect seal using Fey Step.
 - Drew the holy symbol, masks, and amulets for the party.
@@ -113,7 +113,7 @@ tags:
 - Analyzed Laeral's books and office decor, then demonstrated his Star Map by projecting the Feywild sky across the ceiling.
 - Discussed the possibility of creating crystals depicting Material Plane constellations.
 - Helped kill two [[Grell|grells]] in the Dock Ward and retained one corpse for study.
-- Discovered through accidental exposure that grells produce paralytic poison; collection of the poison remains planned but incomplete.
+- Discovered through accidental exposure that grells produce paralytic poison. His first collection attempt failed, but he learned how to handle it properly in the future.
 - Gained 2 [[Emerald Enclave]] renown, reaching 3, and received a [[Charm of Heroism]].
 - Cast Enhance Ability on [[Dick Mixon]], hid in the meeting-room ceiling using Meld into Stone, and observed Victoro's confession through his spider familiar.
 - Attempted Hold Person on [[Victoro Cassalanter]], but Victoro resisted.
@@ -131,7 +131,7 @@ tags:
 - Spotted two people cheating while gambling and used Faerie Fire to mark them for security.
 - Gave [[Twizzle]] a drink and subtly directed her away after she became aggressive toward [[Lord Zulpair]].
 - Hosted [[Bagman's Bet]], a Feywild storytelling game intended to share adventurers' experiences with ordinary people.
-- Drew [[Weaver's Tools|weaver's tools]] during Bagman's Bet; whether he retained them is unknown.
+- Drew [[Weaver's Tools|weaver's tools]] during Bagman's Bet; they remained with [[The Black Key]].
 - Watched the crowd while [[Laeral Silverhand]] discussed [[Laeral's Cubic Gate]].
 - Noticed a [[Hooded Cubic Gate Observer|hooded observer]] showing unusual interest, wrote down identifying details, and planned to give the description to Laeral.
 
@@ -279,4 +279,3 @@ The two crates contained the four paintings and 15 silver bars recorded in the S
 ## Open Questions
 
 - What are Cordan's ideals, bonds, flaws, and additional personality traits?
-- Can Cordan safely collect and use grell paralytic poison?

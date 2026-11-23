@@ -34,7 +34,7 @@ Dick declined to identify every source or say exactly where the remaining money 
 
 Dick requested that, if the evidence proved his suspicions, the Cassalanters be stripped of title and land and the party be permitted to take desired property from the estate. He said the children should receive housing and education but no longer remain nobility. Laeral's exact agreement to these proposed terms was not recorded at this stage.
 
-Dick also alleged that a Secret Lord might be supporting the Cassalanters; this was his belief, not confirmed evidence.
+Dick also alleged that a Secret Lord might be supporting the Cassalanters. He later learned that the Secret Lord in question was [[Victoro Cassalanter]] himself.
 
 ## Clearing the Zhentarim
 
@@ -68,7 +68,7 @@ The four party members of the Enclave each gained 2 renown, raising them from 1 
 
 Tathlynd asked Melannor about Asmodeus and was warned: "Be very careful. He is the supreme master of the Nine Hells."
 
-Overnight, Cordan dissected the grell and discovered firsthand that it produces paralytic poison. He planned to attempt collecting poison the following night, but that collection has not yet occurred.
+Overnight, Cordan dissected the grell and discovered firsthand that it produces paralytic poison. His first attempt to collect the poison failed, but he learned how to handle it properly in the future.
 
 ## Victoro's Confession
 
@@ -106,7 +106,5 @@ The party now owns resources from the Cassalanter estate, but the DM has not yet
 
 - Who committed the bank robberies while using the Zhentarim name?
 - Was the elderly woman abducted by the grell rescued?
-- Can Cordan safely collect and use grell paralytic poison?
 - What is the complete inventory of Cassalanter estate resources now owned by the party?
-- Who was the Secret Lord Dick suspected of supporting the Cassalanters?
 

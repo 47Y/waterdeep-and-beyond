@@ -101,7 +101,7 @@ tags:
 - Confronted [[Lord Zulpair]], whom her downtime investigation connected to the destruction of her home and attack on her family.
 - Tried to follow Dick's Subtle Spell Sending instruction to “play it cool,” but glared at Zulpair and became aggressive.
 - Was given a drink and subtly directed to a nearby table by [[Cordan]].
-- Drew a [[Wand of Fireballs]] during [[Bagman's Bet]]; whether she retained it is unknown.
+- Drew a [[Wand of Fireballs]] during [[Bagman's Bet]]; it remained with [[The Black Key]].
 
 ### Session 9
 

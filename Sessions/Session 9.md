@@ -74,6 +74,5 @@ After reaching Skyhorn's dock, the ship's captain refused to leave until she had
 - What is inside Skyhorn, and why was its door unsecured while the light remained active?
 - Which confession details came from Fuski and which came from Springmaul?
 - Who were the unnamed supervisor, actual guard captain, Zulpair guard, Zulpair butler, house wizard, ship, and ship captain?
-- Was Joe's retirement finalized, and what are the terms of his future contract work?
 - How badly was the hired ship damaged by the water elemental?
 

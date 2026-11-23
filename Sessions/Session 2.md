@@ -59,7 +59,7 @@ The proceeds were divided as follows:
 
 ## Emerald Enclave Assignment
 
-Tathlynd awoke to a talking cat that offered him a job and summoned him to [[Phaulkonmere]], the Emerald Enclave's headquarters. The Enclave reported that an animated scarecrow was terrorizing outlying farms, killing livestock, chasing horses, and frightening farmers. No people had yet been killed, and the City Guard had been slow to act.
+Tathlynd awoke to a talking cat that offered him a job and summoned him to [[Phaulkonmere]], the Emerald Enclave's headquarters. The cat was a familiar or other spell effect used by [[Melannor Fellbranch]]. The Enclave reported that an animated scarecrow was terrorizing outlying farms, killing livestock, chasing horses, and frightening farmers. No people had yet been killed, and the City Guard had been slow to act.
 
 At Phaulkonmere, Tathlynd asked [[Melannor Fellbranch]] whether he could also join the Gray Hands. Melannor said there was no rule against it and described Force Grey as reputable. Tathlynd planned to join when he next had the opportunity.
 
@@ -82,6 +82,3 @@ The party returned to [[Dick's Manor]], reached level 3 during the long rest, an
 
 The full renovation cost for Trollskull Manor was established as 1,000 gp plus 250 gp in guild fees.
 
-## Open Questions
-
-- Who or what was the talking cat that contacted Tathlynd?

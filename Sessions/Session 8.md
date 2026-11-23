@@ -63,7 +63,7 @@ Every party member except [[Mr. T (Tathlynd)]] took a turn:
 - Joe drew an [[Alchemy Jug]].
 - Lilith drew a [[Ring of Spell Storing]].
 
-Laeral also told the story of [[Laeral's Cubic Gate]] when it was drawn. The session notes do not establish that the party members retained the items they drew.
+Laeral also told the story of [[Laeral's Cubic Gate]] when it was drawn. The Cubic Gate remained Lady Silverhand's property; every other drawn item was retained by [[The Black Key]].
 
 The Bagman's Bet Bag is kept with The Black Key's business materials. The party does not have ready access to it outside the event.
 
@@ -82,7 +82,6 @@ Information later added in [[Session 9]] established that [[Fuski and Springmaul
 - What gifts did the nobles give Dick?
 - What additional personal gift did Joe receive from Dick?
 - What stories did the participants tell about their Bagman's Bet draws?
-- Did any party member retain the item they drew during Bagman's Bet?
 - Who was the hooded observer interested in Laeral's Cubic Gate?
 - Did Cordan deliver his written description of the observer to Laeral?
 

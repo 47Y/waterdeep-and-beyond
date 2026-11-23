@@ -98,6 +98,7 @@ tags:
 - Recruited [[Yagra]] to testify under Zone of Truth that the Zhentarim were not responsible for the recent bank robberies.
 - Told Laeral directly that he wanted to become the next Open Lord.
 - Devised the recorded meeting used to expose [[Victoro Cassalanter]].
+- Learned that Victoro himself was the Secret, or [[Lords of Waterdeep|Masked]], Lord he had suspected of supporting the Cassalanters.
 - Used the [[Stone of Golorr]] and an [[Amulet of Asmodeus]] obtained overnight by [[Wentworth]] to pose as a favored servant of Asmodeus.
 - Deceived Victoro into confessing the required payment of 999,999 gp and 99 souls and swearing to the bargain by Asmodeus's name.
 - Helped heal injured guards during the raid on [[Cassalanter Villa]].
@@ -111,7 +112,7 @@ tags:
 - Supported the prayers for the twins by singing “Somewhere Over the Rainbow.”
 - Identified the missing mushroom singers as [[Campestri]] that were not under any spells.
 - Helped recover all eight Campestri and invited [[Gwendolan]] and the choir to the grand opening of [[Trollskull Manor]].
-- Paid the party for their time working for him and offered another year of employment. The amount, terms, and acceptance are unknown.
+- Paid the party after the original one-season contract elapsed. The whole party accepted a renewed one-year contract on the same terms other than its length.
 - During the six-month downtime, removed, dismantled, and sold the adamantine doors from the [[Vault of Dragons]] to fund [[Dick's Magical Retail Network]].
 - Interviewed with the [[Lords of Waterdeep]] and became Open Lord of [[Waterdeep]]. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
 
@@ -129,7 +130,7 @@ tags:
 - Used Subtle Spell Sending to warn [[Twizzle]] to remain calm around [[Lord Zulpair]].
 - Arranged a first-light meeting with Zulpair and requested the previous year's shipping ledgers.
 - Suspected Zulpair might be one of Waterdeep's concealed Lords; Zulpair later confirmed his status as a Secret, or Masked, Lord.
-- Drew a [[Spyglass|spyglass]] during [[Bagman's Bet]]; whether he retained it is unknown.
+- Drew a [[Spyglass|spyglass]] during [[Bagman's Bet]]; it remained with [[The Black Key]].
 
 ### Session 9
 

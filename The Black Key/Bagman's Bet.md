@@ -35,7 +35,7 @@ During [[Session 8]], every party member except [[Mr. T (Tathlynd)]] participate
 - [[Joe Bauers]] drew an [[Alchemy Jug]].
 - [[Lilith D Gluv]] drew a [[Ring of Spell Storing]].
 
-[[Laeral Silverhand]] also told the story of [[Laeral's Cubic Gate]] when it was drawn. The notes do not establish that the party members retained their drawn items.
+[[Laeral Silverhand]] also told the story of [[Laeral's Cubic Gate]] when it was drawn. Her Cubic Gate remained her property; all other drawn items were retained by [[The Black Key]].
 
 The [[Bagman's Bet Bag]] is kept with The Black Key's business materials. The party does not have ready access to it outside the event.
 

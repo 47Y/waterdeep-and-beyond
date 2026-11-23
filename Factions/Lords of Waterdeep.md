@@ -27,6 +27,8 @@ At the [[Palace of Waterdeep]], [[Laeral Silverhand]] introduced [[Dick Mixon]] 
 
 [[Dick Mixon]] suspected [[Lord Zulpair]] was one of the concealed Lords because Zulpair claimed other obligations prevented him from attending the ceremony. Zulpair later confirmed his status as a Secret, or Masked, Lord during a meeting with Dick.
 
+Dick also learned that [[Victoro Cassalanter]] was the Secret Lord he had suspected of supporting the Cassalanters.
+
 ## Source
 
 [[Raw Notes/Waterdeep_ Dragon Heist - Volo's Waterdeep Enchiridion|Volo's Waterdeep Enchiridion]] — A Long History (in Brief); The Code Legal; Castle Ward. Public background, not a record of a party visit.

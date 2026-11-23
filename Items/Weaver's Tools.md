@@ -10,5 +10,5 @@ tags:
 
 # Weaver's Tools
 
-[[Cordan]] drew weaver's tools during [[Bagman's Bet]]. The draw does not establish that he retained ownership afterward.
+[[Cordan]] drew weaver's tools during [[Bagman's Bet]]. They remained with [[The Black Key]] afterward.
 

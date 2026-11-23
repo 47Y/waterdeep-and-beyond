@@ -11,7 +11,7 @@ tags:
 
 # Wand of Fireballs
 
-[[Twizzle]] drew a Wand of Fireballs during [[Bagman's Bet]]. The draw does not establish that she retained ownership afterward.
+[[Twizzle]] drew a Wand of Fireballs during [[Bagman's Bet]]. It remained with [[The Black Key]] afterward.
 
 Its exact mechanics were not recorded.
 

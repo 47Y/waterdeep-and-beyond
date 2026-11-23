@@ -22,5 +22,5 @@ Owned by [[Dick Mixon]].
 
 ## Bagman's Bet
 
-During [[Session 8]], [[Lilith D Gluv]] drew a Ring of Spell Storing during [[Bagman's Bet]]. This was separate from Dick's established ring unless later clarified otherwise. The draw does not establish that Lilith retained the item afterward.
+During [[Session 8]], [[Lilith D Gluv]] drew a Ring of Spell Storing during [[Bagman's Bet]]. This was separate from Dick's established ring unless later clarified otherwise. It remained with [[The Black Key]] afterward.
 

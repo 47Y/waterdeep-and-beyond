@@ -52,7 +52,7 @@ The Cassalanters dragged the doppelganger's body to the holy-symbol painting and
 
 They then descended, retrieved red robes and devil masks from a closet, and entered a large chamber resembling an underground temple to [[Asmodeus]], dominated by a 30-foot statue. Around a dozen other masked and robed figures were present.
 
-The group chanted in a language Cordan did not recognize. He suspected Infernal because of the connection to Asmodeus, but this was not verified. When the chanting ended, Victoro declared, "Founder's Day approaches," and the group cheered.
+The group chanted in a language Cordan did not recognize. The party is confident that it was Infernal because of the connection to Asmodeus, but this remains unconfirmed. When the chanting ended, Victoro declared, "Founder's Day approaches," and the group cheered.
 
 Cordan withdrew before the gathering dispersed. Rather than open the secret door, he used Fey Step to teleport through a small gap in its imperfect seal. He left the villa, returned to his Eladrin form, and rejoined the party.
 
@@ -70,6 +70,6 @@ During the long rest, everyone except Lilith reached level 4. Lilith's possible 
 
 ## Open Questions
 
-- What was the language used during the ritual?
+- Was the ritual language actually Infernal?
 - Who was the unidentified noble who fought Lilith?
 

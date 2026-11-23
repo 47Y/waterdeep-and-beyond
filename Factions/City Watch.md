@@ -24,7 +24,7 @@ The street police of [[Waterdeep]], responsible for patrols, investigations, and
 
 ## Joe Bauers
 
-During [[Session 9]], [[Saeth Cromley]] and [[Joe Bauers]] prepared paperwork for Joe to retire from regular Watch service within a week. Joe may instead perform contract work for the Watch when needed. He must return his uniform, guard-summoning horn, and other Watch equipment when the retirement is finalized.
+Following his meeting with [[Saeth Cromley]] during [[Session 9]], [[Joe Bauers]] fully retired from regular Watch service. He may perform future work for the Watch by contract, but the contract details were not discussed. He was required to return his uniform, guard-summoning horn, and other Watch equipment upon retirement.
 
 ## Useful Watch Terms
 

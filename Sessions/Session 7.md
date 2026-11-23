@@ -55,17 +55,11 @@ The first pair wanted to return to Gwendolan and appeared happy after the party 
 
 All eight Campestri were members of Gwendolan's choir and were not slaves. They were returned to Gwendolan, and the party invited her and the choir to the grand opening of [[Trollskull Manor]]. After the rescue, the party retained approximately 150 pounds of [[Wyvern Hide]].
 
-Dick paid the party for their time working for him and offered to employ them for another year. The amount, exact terms, acceptance, and whether this concluded the original one-season contract were not recorded.
+Dick paid the party after the original one-season contract elapsed. The whole party accepted a renewed one-year contract with the same terms as the original agreement other than its length.
 
 Tathlynd later returned to Hlam with tea, books, and news of the choirmaster.
 
 ## New Open Lord
 
 At the end of the session, [[Dick Mixon]] interviewed with the [[Lords of Waterdeep]] and became the Open Lord of [[Waterdeep]]. [[Laeral Silverhand]] now serves as an advisor; no other role was disclosed to the players.
-
-## Open Questions
-
-- Are “Archbishop Francis” and his title spelled correctly?
-- Is “Gwendolan” the correct spelling?
-- How much did Dick pay the party, did they accept his offer for another year, and did this conclude the original one-season contract?
 

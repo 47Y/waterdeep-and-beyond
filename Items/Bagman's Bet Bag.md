@@ -15,7 +15,7 @@ The Bagman's Bet Bag is a customized Bag of Holding blessed by [[Tymora]] and us
 
 The bag is stocked with one hundred items in a fixed rarity and danger distribution. An owner who does not want an item physically handled may substitute a slip of paper representing it.
 
-The bag is kept with [[The Black Key]]'s business materials. The party does not have ready access to it outside [[Bagman's Bet]].
+The bag and its items are kept with [[The Black Key]]'s business materials. The party does not have ready access to them outside [[Bagman's Bet]]. [[Laeral's Cubic Gate]] remained Lady Silverhand's property rather than becoming part of the venue's collection.
 
 ---
 |d100|Item|Category|Brief Story|

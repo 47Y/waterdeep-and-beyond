@@ -17,9 +17,9 @@ Full notes: [[Session 8]] · All recaps: [[Recaps]]
 - **Arena results:** [[Cordan]] won by forfeit against a bandit captain and marked two gambling cheats for security. [[Lilith D Gluv]] narrowly defeated [[Paradox]], a Warforged Chronurgy wizard, on whom Dick cast Revivify. Joe decisively defeated [[Twizzle]].
 - **Lord Zulpair:** Twizzle's downtime investigation connected [[Lord Zulpair]] to the destruction of her home and attack on her family. Dick arranged a first-light meeting and requested a year of shipping ledgers; the investigation continues in [[Session 9]].
 - **Secret Lord:** Dick suspected Zulpair was one of Waterdeep's concealed Lords because he missed the investiture ceremony; Zulpair later confirmed his status as a Secret, or Masked, Lord.
-- **Bagman's Bet:** Cordan hosted [[Bagman's Bet]]. Dick drew a spyglass, Cordan weaver's tools, Twizzle a Wand of Fireballs, Joe an Alchemy Jug, and Lilith a Ring of Spell Storing. The bag remains with The Black Key and is not readily accessible outside the event.
+- **Bagman's Bet:** Cordan hosted [[Bagman's Bet]]. Dick drew a spyglass, Cordan weaver's tools, Twizzle a Wand of Fireballs, Joe an Alchemy Jug, and Lilith a Ring of Spell Storing. Those items remained with [[The Black Key]]; [[Laeral's Cubic Gate]] remained Lady Silverhand's property.
 - **Laeral's Cubic Gate:** Laeral shared the story of [[Laeral's Cubic Gate]]. Cordan noticed a hooded observer showing unusual interest and wrote a description to give Laeral.
 - **Next:** The party returned to [[Dick's Manor]] to prepare for Zulpair's arrival at first light.
 - **Pending details:** The crown's statblock and The Black Key's tavern, inn, and guest-room specifics have not yet been provided.
-- **Unresolved:** The nobles' gifts, Joe's additional gift, Bagman's Bet stories and item retention, and the hooded observer.
+- **Unresolved:** The nobles' gifts, Joe's additional gift, Bagman's Bet stories, and the hooded observer.
 

@@ -18,5 +18,5 @@ Full notes: [[Session 3]] · All recaps: [[Recaps]]
 - **Evidence surrendered:** After Cordan warned against withholding evidence, Dick turned over the necklace and gems to the authorities and requested a sketch of the rooftop puppet.
 - **Dalakhar's testimony:** During Speak with Dead, [[Dalakhar]] said he had stolen the [[Stone of Golorr]] from [[Xanathar]]'s lair and intended to entrust it to the party. He suspected the Zhentarim had killed him.
 - **Zhentarim testimony:** Dick impersonated a Zhentarim member while questioning the dead sellswords. [[Bashekk Ortallis]] and [[Wern Malkrave]] named [[Gralhund Villa]] as the Stone's destination and [[Urstul Floxin]] as an associate. Their accounts conflicted about their main hideout: [[Darkhold Castle]] versus the sewers.
-- **Next leads:** [[Mr. T (Tathlynd)]] requested information on Gralhund Villa from [[Melannor Fellbranch]]. The [[Rooftop Puppet Sketch|puppet sketch]] resembled an automaton supplied by the [[Temple of Gond]] for the [[Day of Wonders]] parade.
-- **Unresolved:** The burned man's identity, the conflicting hideout accounts, and the Emerald Enclave's response.
+- **Next leads:** [[Mr. T (Tathlynd)]] requested information on Gralhund Villa from [[Melannor Fellbranch]], but the response contained nothing of note. The [[Rooftop Puppet Sketch|puppet sketch]] resembled an automaton supplied by the [[Temple of Gond]] for the [[Day of Wonders]] parade.
+- **Unresolved:** The burned man's identity and the conflicting hideout accounts.

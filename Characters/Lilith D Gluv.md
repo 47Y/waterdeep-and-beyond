@@ -96,7 +96,7 @@ tags:
 - Fought [[Paradox]], a level-5 Warforged Chronurgy wizard, in [[The Black Key]]'s arena.
 - Won an extremely close fight through massive damage.
 - [[Dick Mixon]] cast Revivify on Paradox.
-- Drew a [[Ring of Spell Storing]] during [[Bagman's Bet]]; whether she retained it is unknown.
+- Drew a [[Ring of Spell Storing]] during [[Bagman's Bet]]; it remained with [[The Black Key]].
 
 ### Session 9
 

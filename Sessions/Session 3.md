@@ -79,7 +79,7 @@ Wern Malkrave independently said:
 
 Cordan asked a guard about Darkhold Castle, but the guard did not recognize the name.
 
-[[Mr. T (Tathlynd)]] sent a courier to [[Melannor Fellbranch]] asking what the [[Emerald Enclave]] knew about Gralhund Villa. A response has not yet been recorded.
+[[Mr. T (Tathlynd)]] sent a courier to [[Melannor Fellbranch]] asking what the [[Emerald Enclave]] knew about Gralhund Villa. The response contained nothing of note.
 
 The party received a copy of the [[Rooftop Puppet Sketch]]. Its closest resemblance was an automaton from the [[Day of Wonders]] parade supplied by the [[Temple of Gond]].
 
@@ -87,4 +87,3 @@ The party received a copy of the [[Rooftop Puppet Sketch]]. Its closest resembla
 
 - Who was the burned, cloaked figure who took something from Dalakhar?
 - Why did Bashekk and Wern give different locations for the main Zhentarim hideout?
-- What does the Emerald Enclave know about Gralhund Villa?

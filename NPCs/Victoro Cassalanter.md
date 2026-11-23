@@ -15,6 +15,8 @@ tags:
 
 Victoro Cassalanter resides at [[Cassalanter Villa]].
 
+He was the Secret, or [[Lords of Waterdeep|Masked]], Lord whom [[Dick Mixon]] suspected of supporting the Cassalanters.
+
 ## Observed Actions
 
 - Attacked and helped capture [[Lilith D Gluv]] after her infiltration was discovered.

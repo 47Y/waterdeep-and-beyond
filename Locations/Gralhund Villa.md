@@ -13,7 +13,7 @@ tags:
 
 The dead Zhentarim sellswords [[Bashekk Ortallis]] and [[Wern Malkrave]] both said the [[Stone of Golorr]] was to be taken to Gralhund Villa.
 
-[[Mr. T (Tathlynd)]] asked [[Melannor Fellbranch]] what the [[Emerald Enclave]] knew about the villa. A response has not yet been recorded.
+[[Mr. T (Tathlynd)]] asked [[Melannor Fellbranch]] what the [[Emerald Enclave]] knew about the villa. The response contained nothing of note.
 
 ## Session 4
 

@@ -33,6 +33,7 @@ tags:
 - Earned a place among the settlement's defenders and later trained as a ranger.
 - Helped defend the settlement from a drow raiding party.
 - Eventually began traveling to atone for the atrocities of drow society.
+- Once attempted to poison the matron who led his drow family or clan. The exact organizational term has not been established, and the attempt failed.
 - Joined the [[Emerald Enclave]].
 - When in Waterdeep, often checks in with [[Melannor Fellbranch]].
 - Trait: a worthless gold chain with the symbol of Eilistraee is an emblem of who he is.
@@ -53,7 +54,7 @@ tags:
 - Gained two levels of exhaustion while climbing [[Mount Waterdeep]].
 - Helped persuade [[Hlam]] to share his warning and was invited to return.
 - Received 78 gp from the fenced warehouse loot.
-- Was contacted by a [[Talking Cat|talking cat]] and assigned to investigate [[Scarecrow Trouble]].
+- Was contacted by a [[Talking Cat|talking cat]], a familiar or other spell effect used by [[Melannor Fellbranch]], and assigned to investigate [[Scarecrow Trouble]].
 - Received [[Melannor Fellbranch]]'s approval to join the Gray Hands and plans to do so when able.
 - Reached level 3.
 - Bought books and [[Sunbeam Tea]] before returning to visit Hlam.
@@ -62,7 +63,7 @@ tags:
 
 ### Session 3
 
-- Sent a courier to [[Melannor Fellbranch]] asking what the [[Emerald Enclave]] knew about [[Gralhund Villa]].
+- Sent a courier to [[Melannor Fellbranch]] asking what the [[Emerald Enclave]] knew about [[Gralhund Villa]]; the response contained nothing of note.
 - Witnessed the Speak with Dead questioning connected to the [[Fireball at Trollskull Manor]].
 
 ### Session 4
@@ -244,4 +245,3 @@ These values predate later campaign transactions. See [[Party#Finances]] for the
 ## Open Questions
 
 - What elven settlement did Dirlem take Tathlynd to?
-- Who was the matron Tathlynd tried to poison, and what happened?

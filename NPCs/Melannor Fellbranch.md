@@ -20,6 +20,7 @@ Melannor Fellbranch is a contact for [[Mr. T (Tathlynd)]] in [[Waterdeep]].
 - Tathlynd often checks in with Melannor when he makes it to Waterdeep.
 - Told Tathlynd there was no rule preventing him from joining the [[Gray Hands]] while remaining with the [[Emerald Enclave]].
 - Described Force Grey as reputable.
-- [[Mr. T (Tathlynd)]] sent a courier asking what the [[Emerald Enclave]] knew about [[Gralhund Villa]]. A response has not yet been recorded.
+- Used a familiar or other spell effect in the form of a [[Talking Cat|talking cat]] to contact Tathlynd and direct him to [[Phaulkonmere]].
+- Responded to [[Mr. T (Tathlynd)]]'s inquiry about [[Gralhund Villa]] with nothing of note.
 - Rewarded the Enclave party members with 2 renown and a [[Charm of Heroism]] after the grell mission.
 - Warned Tathlynd that [[Asmodeus]] is the supreme master of the Nine Hells and should be approached with great caution.

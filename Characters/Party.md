@@ -19,7 +19,7 @@ tags:
 
 The group formed at [[The Yawning Portal]] in [[Session 1]]. [[Dick Mixon]] offered each member 100 gp for one season of work, with half paid in advance, a possible performance bonus, and required equipment supplied. The work could be anything Dick needed as long as it did not seem morally reprehensible. [[Joe Bauers]] was the only member who did not agree immediately.
 
-During [[Session 7]], Dick paid the party for their time working for him and offered another year of employment. The amount, terms, acceptance, and whether this concluded the original one-season contract remain unconfirmed.
+During [[Session 7]], the original one-season contract elapsed. The whole party accepted a renewed one-year contract with the same terms as the original agreement other than its length.
 
 ## Property
 
